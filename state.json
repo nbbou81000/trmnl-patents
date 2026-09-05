@@ -30,7 +30,22 @@
   "electronic book": "complete",
   "electronic display device": "complete",
   "electronic paper display": "complete",
-  "display device": 3
+  "display device": "complete",
+  "digital photo frame": "complete",
+  "information display device": "complete",
+  "electronic sign": "complete",
+  "electronic device": "complete",
+  "electronic organizer": "complete",
+  "electronic notebook": "complete",
+  "personal digital assistant": "complete",
+  "electronic dictionary": "complete",
+  "portable media player": "complete",
+  "digital audio player": "complete",
+  "audio player": "complete",
+  "cassette player": "complete",
+  "compact disc player": "complete",
+  "record player": "complete",
+  "radio receiver": 1
  },
  "throttled_at": "2026-09-05T18:58:45.698Z"
 }

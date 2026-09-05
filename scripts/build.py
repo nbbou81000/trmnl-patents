@@ -15,6 +15,7 @@ import json
 import os
 import random
 import re
+import subprocess
 import sys
 import time
 
@@ -40,7 +41,37 @@ MAX_FIGS = 3
 # On borne chaque passe en nombre d'images ET en durée : le reste est repris
 # à l'exécution suivante grâce au manifeste.
 PER_RUN = int(os.environ.get("PER_RUN", "500"))
+CHECKPOINT = int(os.environ.get("CHECKPOINT", "100"))   # commit intermédiaire
 TIME_BUDGET = int(os.environ.get("TIME_BUDGET", "9000"))   # 2 h 30
+
+
+def save_manifest(items):
+    json.dump(
+        {"count": len(items), "generated_at": int(time.time()), "items": items},
+        open(MANIFEST, "w"),
+        indent=1,
+    )
+    json.dump({"count": len(items)}, open("docs/count.json", "w"))
+
+
+def checkpoint(items):
+    """
+    Commit intermédiaire : un job annulé ou planté perd tout ce qui n'a pas
+    été poussé, et le disque du runner est jeté avec lui.
+    Échec silencieux : hors CI (test local), il n'y a pas de dépôt git.
+    """
+    save_manifest(items)
+    try:
+        subprocess.run(["git", "add", "docs"], check=True, capture_output=True)
+        r = subprocess.run(["git", "diff", "--staged", "--quiet"])
+        if r.returncode == 0:
+            return
+        subprocess.run(["git", "commit", "-m", f"images: {len(items)} écrans (checkpoint)"],
+                       check=True, capture_output=True)
+        subprocess.run(["git", "push"], check=True, capture_output=True)
+        print(f"  ✓ checkpoint poussé à {len(items)} images")
+    except Exception as e:
+        print(f"  (checkpoint ignoré : {e})")
 
 
 def main(corpus_path, cap):
@@ -78,17 +109,19 @@ def main(corpus_path, cap):
             continue
 
         want = random.choice([1, 1, 2, 3])   # alterne vue seule et montage
-        try:
-            figs = best_figures(p["figures"], want=want, cap=5)
-        except Exception:
-            figs = []
-        if not figs:
-            skipped += 1
-            continue
-
         idx = len(items)
         rel = f"img/{idx}.png"
-        compose(p, figs, os.path.join("docs", rel), target="x")
+        try:
+            figs = best_figures(p["figures"], want=want, cap=5)
+            if not figs:
+                skipped += 1
+                continue
+            # une planche corrompue ne doit pas faire tomber toute la passe
+            compose(p, figs, os.path.join("docs", rel), target="x")
+        except Exception as e:
+            print(f"  {p['number']} ignoré : {type(e).__name__}")
+            skipped += 1
+            continue
         items.append({
             "i": idx,
             "number": p["number"],
@@ -101,16 +134,13 @@ def main(corpus_path, cap):
         made += 1
         if len(items) % 25 == 0:
             print(f"  {len(items)} images · {skipped} écartés")
+        if made % CHECKPOINT == 0:
+            checkpoint(items)
         time.sleep(DELAY)
 
-    json.dump(
-        {"count": len(items), "generated_at": int(time.time()), "items": items},
-        open(MANIFEST, "w"),
-        indent=1,
-    )
-    # Le plugin ne lit que celui-ci : quelques dizaines d'octets au lieu de 300 ko.
-    # Titre, déposant et année sont déjà gravés dans l'image, rien d'autre à transmettre.
-    json.dump({"count": len(items)}, open("docs/count.json", "w"))
+    # Le manifeste allégé (docs/count.json) est le seul lu par le plugin :
+    # quelques dizaines d'octets. Titre, déposant et année sont gravés dans l'image.
+    save_manifest(items)
     total = sum(os.path.getsize(os.path.join("docs", i["file"])) for i in items)
     print(f"\n{len(items)} images · {skipped} brevets écartés · {total / 1048576:.1f} Mo")
 

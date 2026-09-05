@@ -6,7 +6,21 @@
   "game controller": "complete",
   "smartphone": "complete",
   "mobile phone": "complete",
-  "telephone": 9
+  "telephone": "complete",
+  "portable game machine": "complete",
+  "arcade game machine": "complete",
+  "pinball machine": "complete",
+  "slot machine": "complete",
+  "cordless telephone": "complete",
+  "pager": "complete",
+  "answering machine": "complete",
+  "facsimile machine": "complete",
+  "laptop computer": "complete",
+  "portable computer": "complete",
+  "computer": "complete",
+  "handheld computer": "complete",
+  "computer monitor": "complete",
+  "computer keyboard": 1
  },
- "throttled_at": "2026-09-05T15:29:11.080Z"
+ "throttled_at": "2026-09-05T17:01:47.615Z"
 }

@@ -1,0 +1,46 @@
+name: Render images
+
+on:
+  schedule:
+    - cron: "40 3,15 * * *"   # deux passes par jour : 500 images chacune
+  workflow_dispatch:
+    inputs:
+      cap:
+        description: "Nombre d'images visé"
+        default: "2000"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-patents
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170   # sous la limite dure de 6 h des runners GitHub
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install pillow
+
+      - name: Rendre les images manquantes
+        env:
+          PER_RUN: "500"
+          TIME_BUDGET: "8400"   # 2 h 20, marge sous le timeout du job
+        run: python3 scripts/build.py corpus.json ${{ github.event.inputs.cap || 2000 }}
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "Rien de neuf."
+          else
+            git commit -m "images: $(python3 -c "import json;print(json.load(open('docs/count.json'))['count'])") écrans"
+            git push
+          fi

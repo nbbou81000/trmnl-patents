@@ -20,7 +20,17 @@
   "computer": "complete",
   "handheld computer": "complete",
   "computer monitor": "complete",
-  "computer keyboard": 1
+  "computer keyboard": "complete",
+  "computer mouse": "complete",
+  "docking station": "complete",
+  "tablet computer": "complete",
+  "electronic tablet": "complete",
+  "electronic reader": "complete",
+  "electronic book reader": "complete",
+  "electronic book": "complete",
+  "electronic display device": "complete",
+  "electronic paper display": "complete",
+  "display device": 3
  },
- "throttled_at": "2026-09-05T17:01:47.615Z"
+ "throttled_at": "2026-09-05T18:58:45.698Z"
 }

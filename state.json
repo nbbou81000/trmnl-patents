@@ -45,7 +45,9 @@
   "cassette player": "complete",
   "compact disc player": "complete",
   "record player": "complete",
-  "radio receiver": 1
+  "radio receiver": "complete",
+  "headphone": "complete",
+  "earphone": 1
  },
- "throttled_at": "2026-09-05T18:58:45.698Z"
+ "throttled_at": "2026-09-05T22:51:27.319Z"
 }

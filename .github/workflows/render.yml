@@ -27,16 +27,23 @@ jobs:
 
       - run: pip install pillow
 
-      - name: Rendre les images manquantes
-        env:
-          PER_RUN: "500"
-          TIME_BUDGET: "8400"   # 2 h 20, marge sous le timeout du job
-        run: python3 scripts/build.py corpus.json ${{ github.event.inputs.cap || 2000 }}
-
-      - name: Commit
+      # L'identité git doit être posée AVANT le script : c'est lui qui commite
+      # tous les 100 rendus, pour ne pas tout perdre si le job est interrompu.
+      - name: Configurer git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Rendre les images manquantes
+        env:
+          PER_RUN: "500"
+          CHECKPOINT: "100"
+          TIME_BUDGET: "8400"   # 2 h 20, marge sous le timeout du job
+        run: python3 scripts/build.py corpus.json ${{ github.event.inputs.cap || 2000 }}
+
+      - name: Commit final
+        if: always()   # pousse même si le rendu s'est interrompu en erreur
+        run: |
           git add docs/
           if git diff --staged --quiet; then
             echo "Rien de neuf."

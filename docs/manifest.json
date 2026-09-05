@@ -1,6 +1,6 @@
 {
- "count": 600,
- "generated_at": 1788633313,
+ "count": 700,
+ "generated_at": 1788633527,
  "items": [
   {
    "i": 0,
@@ -5401,6 +5401,906 @@
    "year": 2012,
    "figures": 3,
    "file": "img/599.png"
+  },
+  {
+   "i": 600,
+   "number": "USD1046971S1",
+   "title": "Game console",
+   "assignee": "Yuqiao Xie",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/600.png"
+  },
+  {
+   "i": 601,
+   "number": "USD692435S1",
+   "title": "Computer peripheral device for a vehicle",
+   "assignee": "Continental Automotive Gmbh",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/601.png"
+  },
+  {
+   "i": 602,
+   "number": "USD402968S",
+   "title": "Laptop computer",
+   "assignee": "Compaq Computer Corporation",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/602.png"
+  },
+  {
+   "i": 603,
+   "number": "USD375498S",
+   "title": "Pager",
+   "assignee": "Motorola, Inc.",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/603.png"
+  },
+  {
+   "i": 604,
+   "number": "USD408802S",
+   "title": "Computer monitor picture frame",
+   "assignee": "Hernandez Emily J",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/604.png"
+  },
+  {
+   "i": 605,
+   "number": "USD643426S1",
+   "title": "Laptop computer",
+   "assignee": "MerchSource, LLC",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/605.png"
+  },
+  {
+   "i": 606,
+   "number": "USD842834S1",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/606.png"
+  },
+  {
+   "i": 607,
+   "number": "USD408271S",
+   "title": "Telephone hook",
+   "assignee": "HospiTel Inc.",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/607.png"
+  },
+  {
+   "i": 608,
+   "number": "USD618657S1",
+   "title": "Telephone handset",
+   "assignee": "Panasonic Corporation",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/608.png"
+  },
+  {
+   "i": 609,
+   "number": "USD442591S1",
+   "title": "Computer keyboard",
+   "assignee": "Patricia Bailly",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/609.png"
+  },
+  {
+   "i": 610,
+   "number": "USD389462S",
+   "title": "Computer",
+   "assignee": "Monorail, Inc.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/610.png"
+  },
+  {
+   "i": 611,
+   "number": "USD816083S1",
+   "title": "Game controller",
+   "assignee": "Lu Xue Wu",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/611.png"
+  },
+  {
+   "i": 612,
+   "number": "USD414468S",
+   "title": "Telephone cord container",
+   "assignee": "Sony Corporation",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/612.png"
+  },
+  {
+   "i": 613,
+   "number": "USD389816S",
+   "title": "Portable computer",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/613.png"
+  },
+  {
+   "i": 614,
+   "number": "USD477828S1",
+   "title": "Computer-generated image for a portion of a display panel or screen",
+   "assignee": "Qmgn, Inc.",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/614.png"
+  },
+  {
+   "i": 615,
+   "number": "USD693825S1",
+   "title": "Computer peripheral device for a vehicle",
+   "assignee": "Continental Automotive Gmbh",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/615.png"
+  },
+  {
+   "i": 616,
+   "number": "USD269674S",
+   "title": "Telephone",
+   "assignee": "Kanda Tsushin Kogyo Co., Ltd.",
+   "year": 1983,
+   "figures": 2,
+   "file": "img/616.png"
+  },
+  {
+   "i": 617,
+   "number": "USD958889S1",
+   "title": "Game controller",
+   "assignee": "Xiaohua Lou",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/617.png"
+  },
+  {
+   "i": 618,
+   "number": "USD509221S1",
+   "title": "Computer monitor frame board having decorative edge, erasable surface for notes &hellip;",
+   "assignee": "Mary E. Suber",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/618.png"
+  },
+  {
+   "i": 619,
+   "number": "USD477582S1",
+   "title": "Cordless telephone handset",
+   "assignee": "Siemens Information & Communication Mobile Llc",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/619.png"
+  },
+  {
+   "i": 620,
+   "number": "USD315577S",
+   "title": "Video game console",
+   "assignee": "Wen-Fu Wang",
+   "year": 1991,
+   "figures": 3,
+   "file": "img/620.png"
+  },
+  {
+   "i": 621,
+   "number": "USD306726S",
+   "title": "Telephone set",
+   "assignee": "Nakayo Telecommunications Inc.",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/621.png"
+  },
+  {
+   "i": 622,
+   "number": "USD1014479S1",
+   "title": "Mobile phone",
+   "assignee": "Huawei Technologies Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/622.png"
+  },
+  {
+   "i": 623,
+   "number": "USD105608S",
+   "title": "Design for a telephone hand-set",
+   "assignee": "Associated Electric Laboratories",
+   "year": 1937,
+   "figures": 1,
+   "file": "img/623.png"
+  },
+  {
+   "i": 624,
+   "number": "USD426535S",
+   "title": "Telephone",
+   "assignee": "Lenoxx Electronics Corp.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/624.png"
+  },
+  {
+   "i": 625,
+   "number": "USD331545S",
+   "title": "Computer speedometer for bicycle",
+   "assignee": "Stenman Holland B.V.",
+   "year": 1992,
+   "figures": 3,
+   "file": "img/625.png"
+  },
+  {
+   "i": 626,
+   "number": "USD460430S1",
+   "title": "Mobile phone",
+   "assignee": "Seiko Instruments Inc.",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/626.png"
+  },
+  {
+   "i": 627,
+   "number": "USD352283S",
+   "title": "Telephone base",
+   "assignee": "Northern Telecom Limited",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/627.png"
+  },
+  {
+   "i": 628,
+   "number": "USD282743S",
+   "title": "Telephone",
+   "assignee": "Karlee Enterprises, Inc.",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/628.png"
+  },
+  {
+   "i": 629,
+   "number": "USD303383S",
+   "title": "Cordless telephone set or similar article",
+   "assignee": "Webcor Electronics Inc.",
+   "year": 1989,
+   "figures": 2,
+   "file": "img/629.png"
+  },
+  {
+   "i": 630,
+   "number": "USD246784S",
+   "title": "Telephone set",
+   "assignee": "Oki Electric Industry Co., Ltd.",
+   "year": 1977,
+   "figures": 1,
+   "file": "img/630.png"
+  },
+  {
+   "i": 631,
+   "number": "USD354487S",
+   "title": "Telephone set",
+   "assignee": "Mitel Corporation",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/631.png"
+  },
+  {
+   "i": 632,
+   "number": "USD558730S1",
+   "title": "Telephone",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/632.png"
+  },
+  {
+   "i": 633,
+   "number": "USD597057S1",
+   "title": "Telephone base",
+   "assignee": "Bce Inc.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/633.png"
+  },
+  {
+   "i": 634,
+   "number": "USD480394S1",
+   "title": "Portable computer",
+   "assignee": "Hewlett-Packard Development Company, L.P.",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/634.png"
+  },
+  {
+   "i": 635,
+   "number": "USD486832S1",
+   "title": "Computer monitor assembly",
+   "assignee": "Sun Microsystems, Inc.",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/635.png"
+  },
+  {
+   "i": 636,
+   "number": "USD962222S1",
+   "title": "Laptop computer",
+   "assignee": "Quanta Computer Inc.",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/636.png"
+  },
+  {
+   "i": 637,
+   "number": "USD330200S",
+   "title": "Facsimile machine",
+   "assignee": "Wang Lee Corporation",
+   "year": 1992,
+   "figures": 2,
+   "file": "img/637.png"
+  },
+  {
+   "i": 638,
+   "number": "USD776661S1",
+   "title": "Portable computer connection terminal with keyboard",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/638.png"
+  },
+  {
+   "i": 639,
+   "number": "USD824869S1",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/639.png"
+  },
+  {
+   "i": 640,
+   "number": "USD714270S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Display Co., Ltd.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/640.png"
+  },
+  {
+   "i": 641,
+   "number": "USD323827S",
+   "title": "Telephone set",
+   "assignee": "Meisei Electric Co., Ltd.",
+   "year": 1992,
+   "figures": 3,
+   "file": "img/641.png"
+  },
+  {
+   "i": 642,
+   "number": "USD692899S1",
+   "title": "Computer peripheral device for a vehicle",
+   "assignee": "Continental Automotive Gmbh",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/642.png"
+  },
+  {
+   "i": 643,
+   "number": "USD338918S",
+   "title": "Pager insert for vending machines",
+   "assignee": "Keyosk Corporation",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/643.png"
+  },
+  {
+   "i": 644,
+   "number": "USD983270S1",
+   "title": "Game console steering wheel",
+   "assignee": "Rubber Road Ltd.",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/644.png"
+  },
+  {
+   "i": 645,
+   "number": "USD485249S1",
+   "title": "Mobile phone",
+   "assignee": "Hon Hai Precision Ind. Co., Ltd.",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/645.png"
+  },
+  {
+   "i": 646,
+   "number": "USD715286S1",
+   "title": "Portable computer",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/646.png"
+  },
+  {
+   "i": 647,
+   "number": "USD315730S",
+   "title": "Cordless telephone answering set",
+   "assignee": "Phonemate, Inc.",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/647.png"
+  },
+  {
+   "i": 648,
+   "number": "USD386495S",
+   "title": "Cordless telephone remote pack and base unit",
+   "assignee": "Hello Direct, Inc.",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/648.png"
+  },
+  {
+   "i": 649,
+   "number": "USD283420S",
+   "title": "Cordless telephone assembly including a transmitter/receiver base unit, a &hellip;",
+   "assignee": "Webcor Electronics, Inc.",
+   "year": 1986,
+   "figures": 3,
+   "file": "img/649.png"
+  },
+  {
+   "i": 650,
+   "number": "USD597058S1",
+   "title": "Telephone base",
+   "assignee": "Bce Inc.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/650.png"
+  },
+  {
+   "i": 651,
+   "number": "USD250111S",
+   "title": "Telephone apparatus",
+   "assignee": "Hernandez Antonio P",
+   "year": 1978,
+   "figures": 1,
+   "file": "img/651.png"
+  },
+  {
+   "i": 652,
+   "number": "USD263827S",
+   "title": "Computer keyboard",
+   "assignee": "Pemberton John H",
+   "year": 1982,
+   "figures": 2,
+   "file": "img/652.png"
+  },
+  {
+   "i": 653,
+   "number": "USD492294S1",
+   "title": "Game controller for mobile telephone",
+   "assignee": "Young S. Kim",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/653.png"
+  },
+  {
+   "i": 654,
+   "number": "USD924829S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/654.png"
+  },
+  {
+   "i": 655,
+   "number": "USD680525S1",
+   "title": "Portable computer",
+   "assignee": "Panasonic Corporation",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/655.png"
+  },
+  {
+   "i": 656,
+   "number": "USD957380S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/656.png"
+  },
+  {
+   "i": 657,
+   "number": "USD733674S1",
+   "title": "Mobile phone",
+   "assignee": "Sony Mobile Communications Ab",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/657.png"
+  },
+  {
+   "i": 658,
+   "number": "USD450710S1",
+   "title": "Computer generated image for display panel or screen",
+   "assignee": "Sony Corporation",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/658.png"
+  },
+  {
+   "i": 659,
+   "number": "USD620021S1",
+   "title": "Computer user interface for a display screen",
+   "assignee": "Sears Brands, L.L.C.",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/659.png"
+  },
+  {
+   "i": 660,
+   "number": "USD355910S",
+   "title": "Telephone handset top for mobile cellular telephone",
+   "assignee": "Motorola",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/660.png"
+  },
+  {
+   "i": 661,
+   "number": "USD608751S1",
+   "title": "Mobile phone",
+   "assignee": "Fih (Hong Kong) Limited",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/661.png"
+  },
+  {
+   "i": 662,
+   "number": "USD703175S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/662.png"
+  },
+  {
+   "i": 663,
+   "number": "USD424041S",
+   "title": "Computer generated image for a display panel or screen",
+   "assignee": "Sony Corporation",
+   "year": 2000,
+   "figures": 3,
+   "file": "img/663.png"
+  },
+  {
+   "i": 664,
+   "number": "USD518053S1",
+   "title": "Computer keyboard",
+   "assignee": "Shuttle Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/664.png"
+  },
+  {
+   "i": 665,
+   "number": "USD726711S1",
+   "title": "Portable computer",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/665.png"
+  },
+  {
+   "i": 666,
+   "number": "USD380471S",
+   "title": "Pager",
+   "assignee": "Lucent Technologies Inc.",
+   "year": 1997,
+   "figures": 2,
+   "file": "img/666.png"
+  },
+  {
+   "i": 667,
+   "number": "USD357282S",
+   "title": "Pinball machine with attached human figure",
+   "assignee": "Toy Biz, Inc.",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/667.png"
+  },
+  {
+   "i": 668,
+   "number": "USD730863S1",
+   "title": "Mobile phone",
+   "assignee": "Sony Mobile Communications Ab",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/668.png"
+  },
+  {
+   "i": 669,
+   "number": "USD875179S1",
+   "title": "Game controller",
+   "assignee": "Daoyou Wang",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/669.png"
+  },
+  {
+   "i": 670,
+   "number": "USD592165S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/670.png"
+  },
+  {
+   "i": 671,
+   "number": "USD856957S1",
+   "title": "Mobile phone",
+   "assignee": "Hmd Global Oy",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/671.png"
+  },
+  {
+   "i": 672,
+   "number": "USD280100S",
+   "title": "Portable computer work station",
+   "assignee": "Joseph Lindsay Ungar",
+   "year": 1985,
+   "figures": 1,
+   "file": "img/672.png"
+  },
+  {
+   "i": 673,
+   "number": "USD651191S1",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/673.png"
+  },
+  {
+   "i": 674,
+   "number": "USD654903S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/674.png"
+  },
+  {
+   "i": 675,
+   "number": "USD687802S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/675.png"
+  },
+  {
+   "i": 676,
+   "number": "USD358809S",
+   "title": "Computer monitor",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/676.png"
+  },
+  {
+   "i": 677,
+   "number": "USD769374S1",
+   "title": "Game controller attachable to model gun",
+   "assignee": "Uzbrainnet Corporation",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/677.png"
+  },
+  {
+   "i": 678,
+   "number": "USD753650S1",
+   "title": "Portable computer",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/678.png"
+  },
+  {
+   "i": 679,
+   "number": "USD1051911S1",
+   "title": "Portable computer",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/679.png"
+  },
+  {
+   "i": 680,
+   "number": "USD563378S1",
+   "title": "Mobile phone",
+   "assignee": "Inventec Appliances Corp.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/680.png"
+  },
+  {
+   "i": 681,
+   "number": "USD517565S1",
+   "title": "Facsimile machine",
+   "assignee": "Brother Industries, Limited",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/681.png"
+  },
+  {
+   "i": 682,
+   "number": "USD570324S1",
+   "title": "Telephone base unit",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/682.png"
+  },
+  {
+   "i": 683,
+   "number": "USD461798S1",
+   "title": "Telephone switching apparatus",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/683.png"
+  },
+  {
+   "i": 684,
+   "number": "USD366879S",
+   "title": "Telephone ear cushion",
+   "assignee": "Henderson Wyntoun X",
+   "year": 1996,
+   "figures": 2,
+   "file": "img/684.png"
+  },
+  {
+   "i": 685,
+   "number": "USD920315S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/685.png"
+  },
+  {
+   "i": 686,
+   "number": "USD721138S1",
+   "title": "Game console",
+   "assignee": "Valve Corporation",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/686.png"
+  },
+  {
+   "i": 687,
+   "number": "USD541286S1",
+   "title": "Computer having release handles",
+   "assignee": "Hewlett-Packard Development Company, L.P.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/687.png"
+  },
+  {
+   "i": 688,
+   "number": "USD280722S",
+   "title": "Portable computer work station",
+   "assignee": "Gary Jay Selke",
+   "year": 1985,
+   "figures": 1,
+   "file": "img/688.png"
+  },
+  {
+   "i": 689,
+   "number": "USD450679S1",
+   "title": "Pager",
+   "assignee": "Sun Telecom International, Inc.",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/689.png"
+  },
+  {
+   "i": 690,
+   "number": "USD298935S",
+   "title": "Telephone set",
+   "assignee": "Krone Aktiengesellschaft",
+   "year": 1988,
+   "figures": 2,
+   "file": "img/690.png"
+  },
+  {
+   "i": 691,
+   "number": "USD957381S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/691.png"
+  },
+  {
+   "i": 692,
+   "number": "USD306587S",
+   "title": "Telephone",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/692.png"
+  },
+  {
+   "i": 693,
+   "number": "USD597061S1",
+   "title": "Telephone",
+   "assignee": "Nec Infrontia Corporation",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/693.png"
+  },
+  {
+   "i": 694,
+   "number": "USD495692S1",
+   "title": "Laptop computer",
+   "assignee": "Hewlett-Packard Development Company, Lp.",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/694.png"
+  },
+  {
+   "i": 695,
+   "number": "USD807851S1",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/695.png"
+  },
+  {
+   "i": 696,
+   "number": "USD865737S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/696.png"
+  },
+  {
+   "i": 697,
+   "number": "USD302272S",
+   "title": "Telephone base",
+   "assignee": "Alcatel Business Systems, Inc.",
+   "year": 1989,
+   "figures": 1,
+   "file": "img/697.png"
+  },
+  {
+   "i": 698,
+   "number": "USD361994S",
+   "title": "Facsimile machine",
+   "assignee": "Sharp Kabushiki Kaisha",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/698.png"
+  },
+  {
+   "i": 699,
+   "number": "USD915393S1",
+   "title": "Laptop computer",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/699.png"
   }
  ]
 }

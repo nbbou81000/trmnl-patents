@@ -8,6 +8,10 @@ on:
       cap:
         description: "Nombre d'images visé"
         default: "2000"
+      only:
+        description: "Catégories à rendre, séparées par des virgules (vide = toutes)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -38,6 +42,7 @@ jobs:
         env:
           PER_RUN: "500"
           CHECKPOINT: "100"
+          ONLY: ${{ github.event.inputs.only }}
           TIME_BUDGET: "8400"   # 2 h 20, marge sous le timeout du job
         run: python3 scripts/build.py corpus.json ${{ github.event.inputs.cap || 2000 }}
 
@@ -47,7 +52,14 @@ jobs:
           git add docs/
           if git diff --staged --quiet; then
             echo "Rien de neuf."
-          else
-            git commit -m "images: $(python3 -c "import json;print(json.load(open('docs/count.json'))['count'])") écrans"
-            git push
+            exit 0
           fi
+          git commit -m "images: $(python3 -c "import json;print(json.load(open('docs/count.json'))['count'])") écrans"
+          # La collecte horaire commite pendant que le rendu tourne : on rebase
+          # avant de pousser, sinon la poussée est rejetée en "fetch first".
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase --autostash
+          done
+          echo "Poussée impossible après 3 tentatives"
+          exit 1

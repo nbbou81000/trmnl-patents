@@ -41,11 +41,21 @@ MAX_FIGS = 3
 # On borne chaque passe en nombre d'images ET en durée : le reste est repris
 # à l'exécution suivante grâce au manifeste.
 PER_RUN = int(os.environ.get("PER_RUN", "500"))
+# ONLY="3d printer,camera" restreint la passe à ces catégories.
+# Les index et le manifeste continuent leur numérotation normale : on filtre
+# ce qu'on rend, pas la façon dont on le range.
+ONLY = [v.strip().lower() for v in os.environ.get("ONLY", "").split(",") if v.strip()]
 CHECKPOINT = int(os.environ.get("CHECKPOINT", "100"))   # commit intermédiaire
 TIME_BUDGET = int(os.environ.get("TIME_BUDGET", "9000"))   # 2 h 30
 
 
-def save_manifest(items):
+def save_manifest(items, terms_by_number=None):
+    # Les entrées rendues avant l'ajout du champ "term" sont complétées
+    # depuis le corpus, sinon la galerie ne pourrait pas les filtrer.
+    if terms_by_number:
+        for it in items:
+            if not it.get("term"):
+                it["term"] = terms_by_number.get(it["number"], "")
     json.dump(
         {"count": len(items), "generated_at": int(time.time()), "items": items},
         open(MANIFEST, "w"),
@@ -54,13 +64,13 @@ def save_manifest(items):
     json.dump({"count": len(items)}, open("docs/count.json", "w"))
 
 
-def checkpoint(items):
+def checkpoint(items, terms_by_number=None):
     """
     Commit intermédiaire : un job annulé ou planté perd tout ce qui n'a pas
     été poussé, et le disque du runner est jeté avec lui.
     Échec silencieux : hors CI (test local), il n'y a pas de dépôt git.
     """
-    save_manifest(items)
+    save_manifest(items, terms_by_number)
     try:
         subprocess.run(["git", "add", "docs"], check=True, capture_output=True)
         r = subprocess.run(["git", "diff", "--staged", "--quiet"])
@@ -85,6 +95,16 @@ def checkpoint(items):
 
 def main(corpus_path, cap):
     corpus = json.load(open(corpus_path))
+    if ONLY:
+        kept = [p for p in corpus if (p.get("term") or "").lower() in ONLY]
+        available = sorted({(p.get("term") or "") for p in corpus})
+        if not kept:
+            print(f'Aucune entrée pour ONLY="{", ".join(ONLY)}".')
+            print("Catégories présentes dans le corpus :", ", ".join(filter(None, available)))
+            raise SystemExit(1)
+        print(f"Passe restreinte à : {', '.join(ONLY)} — {len(kept)} brevets candidats")
+        corpus = kept
+    terms_by_number = {p["number"]: p.get("term", "") for p in corpus}
     os.makedirs(OUT_IMG, exist_ok=True)
 
     done = {}
@@ -152,6 +172,7 @@ def main(corpus_path, cap):
         items.append({
             "i": idx,
             "number": p["number"],
+            "term": p.get("term", ""),
             "title": p["title"],
             "assignee": p["assignee"],
             "year": p["year"],
@@ -162,7 +183,7 @@ def main(corpus_path, cap):
         if len(items) % 25 == 0:
             print(f"  {len(items)} images · {skipped} écartés")
         if made % CHECKPOINT == 0:
-            checkpoint(items)
+            checkpoint(items, terms_by_number)
         time.sleep(DELAY)
 
     # Le manifeste allégé (docs/count.json) est le seul lu par le plugin :

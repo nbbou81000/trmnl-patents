@@ -53,7 +53,9 @@
   "microphone": 5,
   "t:microphone": "complete",
   "t:television": "complete",
-  "t:television receiver": 1
+  "t:television receiver": "complete",
+  "t:set-top box": "complete",
+  "t:remote control": 3
  },
- "throttled_at": "2026-09-06T09:56:11.262Z"
+ "throttled_at": "2026-09-06T10:00:26.563Z"
 }

@@ -58,7 +58,9 @@
   "t:remote control": "complete",
   "t:video cassette recorder": "complete",
   "t:projector": "complete",
-  "t:camera": 7
+  "t:camera": "complete",
+  "t:digital camera": "complete",
+  "t:video camera": 2
  },
- "throttled_at": "2026-09-06T10:18:48.042Z"
+ "throttled_at": "2026-09-06T10:26:50.100Z"
 }

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Patent Drawings — plate index</title>
+<style>
+  :root {
+    --ink: #000;
+    --paper: #fff;
+    --rule: #d8d8d8;
+    --quiet: #6b6b6b;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 16px/1.5 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  }
+
+  header {
+    padding: 2.5rem 1.5rem 1.25rem;
+    border-bottom: 2px solid var(--ink);
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  h1 {
+    margin: 0;
+    font-size: clamp(1.6rem, 4vw, 2.4rem);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+  .lede {
+    margin: 0.4rem 0 0;
+    color: var(--quiet);
+    max-width: 62ch;
+  }
+
+  .controls {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.5rem;
+    align-items: baseline;
+    border-bottom: 1px solid var(--rule);
+  }
+  input[type=search] {
+    flex: 1 1 18rem;
+    font: inherit;
+    padding: 0.5rem 0.7rem;
+    border: 1px solid var(--ink);
+    border-radius: 0;
+    background: var(--paper);
+    color: var(--ink);
+  }
+  input[type=search]:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+  .tally { color: var(--quiet); font-variant-numeric: tabular-nums; }
+
+  main { max-width: 1400px; margin: 0 auto; padding: 1.5rem; }
+  .plates {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+  }
+  figure {
+    margin: 0;
+    background: var(--paper);
+    padding: 0.9rem;
+    display: flex;
+    flex-direction: column;
+  }
+  figure img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    display: block;
+    background: var(--paper);
+  }
+  figcaption {
+    margin-top: 0.6rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.82rem;
+    line-height: 1.35;
+  }
+  figcaption b { font-weight: 600; display: block; }
+  figcaption span { color: var(--quiet); }
+  a.plate { color: inherit; text-decoration: none; display: block; }
+  a.plate:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
+
+  .more, .empty {
+    margin: 2rem auto;
+    text-align: center;
+    color: var(--quiet);
+  }
+  button {
+    font: inherit;
+    padding: 0.6rem 1.4rem;
+    border: 1px solid var(--ink);
+    border-radius: 0;
+    background: var(--paper);
+    color: var(--ink);
+    cursor: pointer;
+  }
+  button:hover { background: var(--ink); color: var(--paper); }
+
+  footer {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 3rem;
+    border-top: 1px solid var(--rule);
+    color: var(--quiet);
+    font-size: 0.9rem;
+  }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Patent Drawings</h1>
+  <p class="lede">Every plate generated for the TRMNL plugin, drawn from published
+  U.S. design patents. Consoles, phones, laptops, cameras and other devices as
+  their designers first filed them.</p>
+</header>
+
+<div class="controls">
+  <input type="search" id="q" placeholder="Search a title, a company, a year, a patent number" aria-label="Search the plates" />
+  <p class="tally" id="tally">Loading…</p>
+</div>
+
+<main>
+  <div class="plates" id="plates"></div>
+  <p class="more" id="more" hidden><button id="load">Show more plates</button></p>
+  <p class="empty" id="empty" hidden>Nothing matches that search. Try a company name, a device, or a year.</p>
+</main>
+
+<footer>
+  Drawings are published U.S. design patents — government publications in the
+  public domain. Built from
+  <a href="https://github.com/nbbou81000/trmnl-patents">github.com/nbbou81000/trmnl-patents</a>.
+</footer>
+
+<script>
+const PAGE = 60;
+const grid = document.getElementById('plates');
+const tally = document.getElementById('tally');
+const moreBox = document.getElementById('more');
+const emptyBox = document.getElementById('empty');
+const q = document.getElementById('q');
+
+let all = [];
+let shown = [];
+let cursor = 0;
+
+function haystack(it) {
+  return [it.title, it.assignee, it.year, it.number].join(' ').toLowerCase();
+}
+
+function render(reset) {
+  if (reset) { grid.innerHTML = ''; cursor = 0; }
+  const slice = shown.slice(cursor, cursor + PAGE);
+  const frag = document.createDocumentFragment();
+
+  for (const it of slice) {
+    const a = document.createElement('a');
+    a.className = 'plate';
+    a.href = it.file;
+    const fig = document.createElement('figure');
+
+    const img = document.createElement('img');
+    img.src = it.file;
+    img.loading = 'lazy';
+    img.decoding = 'async';
+    img.alt = it.title || 'Patent drawing';
+
+    const cap = document.createElement('figcaption');
+    const b = document.createElement('b');
+    b.textContent = it.title || 'Untitled';
+    const s = document.createElement('span');
+    s.textContent = [it.assignee, it.year, it.number].filter(Boolean).join(' · ');
+
+    cap.append(b, s);
+    fig.append(img, cap);
+    a.append(fig);
+    frag.append(a);
+  }
+
+  grid.append(frag);
+  cursor += slice.length;
+  moreBox.hidden = cursor >= shown.length;
+  emptyBox.hidden = shown.length > 0;
+}
+
+function filter() {
+  const term = q.value.trim().toLowerCase();
+  shown = term ? all.filter(it => haystack(it).includes(term)) : all;
+  tally.textContent = term
+    ? `${shown.length} of ${all.length} plates`
+    : `${all.length} plates`;
+  render(true);
+}
+
+document.getElementById('load').addEventListener('click', () => render(false));
+
+let debounce;
+q.addEventListener('input', () => {
+  clearTimeout(debounce);
+  debounce = setTimeout(filter, 150);
+});
+
+fetch('manifest.json')
+  .then(r => {
+    if (!r.ok) throw new Error(r.status);
+    return r.json();
+  })
+  .then(data => {
+    all = (data.items || []).slice().reverse();   // les plus récentes d'abord
+    filter();
+  })
+  .catch(() => {
+    tally.textContent = 'Could not load manifest.json — the render workflow may not have run yet.';
+  });
+</script>
+</body>
+</html>

@@ -1,7 +1,14 @@
 name: Collect patents
 
 on:
+  # Plus de collecte planifiée : le corpus est jugé suffisant.
+  # Relance manuelle uniquement, éventuellement ciblée sur quelques catégories.
   workflow_dispatch:
+    inputs:
+      only:
+        description: "Catégories à collecter, séparées par des virgules (vide = toutes)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -23,6 +30,7 @@ jobs:
         env:
           PER_RUN: "1500"   # le blocage du moteur arrive avant ce plafond : c'est lui qui borne
           DELAY_MS: "5000"
+          ONLY: ${{ github.event.inputs.only }}
         run: node scripts/collect.js
 
       - name: Commit
@@ -34,5 +42,8 @@ jobs:
             echo "Rien de neuf."
           else
             git commit -m "corpus: $(node -e "console.log(require('./corpus.json').length)") brevets"
-            git push
+            for i in 1 2 3; do
+              git push && break
+              git pull --rebase --autostash
+            done
           fi

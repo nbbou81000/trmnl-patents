@@ -47,7 +47,8 @@
   "record player": "complete",
   "radio receiver": "complete",
   "headphone": "complete",
-  "earphone": 1
+  "earphone": "complete",
+  "loudspeaker": 3
  },
- "throttled_at": "2026-09-05T22:51:27.319Z"
+ "throttled_at": "2026-09-06T00:50:13.999Z"
 }

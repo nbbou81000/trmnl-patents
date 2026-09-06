@@ -1,6 +1,6 @@
 {
- "count": 5300,
- "generated_at": 1788702767,
+ "count": 5368,
+ "generated_at": 1788705309,
  "items": [
   {
    "i": 0,
@@ -47701,6 +47701,686 @@
    "year": 1983,
    "figures": 1,
    "file": "img/5299.png"
+  },
+  {
+   "i": 5300,
+   "number": "USD921718S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xerox Corporation",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/5300.png"
+  },
+  {
+   "i": 5301,
+   "number": "USD1021984S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5301.png"
+  },
+  {
+   "i": 5302,
+   "number": "USD978930S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Creality 3D Technology Co., Ltd.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/5302.png"
+  },
+  {
+   "i": 5303,
+   "number": "USD809574S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/5303.png"
+  },
+  {
+   "i": 5304,
+   "number": "USD1026051S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Anycubic Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/5304.png"
+  },
+  {
+   "i": 5305,
+   "number": "USD777228S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/5305.png"
+  },
+  {
+   "i": 5306,
+   "number": "USD988376S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/5306.png"
+  },
+  {
+   "i": 5307,
+   "number": "USD1042563S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Anycubic Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/5307.png"
+  },
+  {
+   "i": 5308,
+   "number": "USD810156S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/5308.png"
+  },
+  {
+   "i": 5309,
+   "number": "USD1036515S1",
+   "term": "3d printer",
+   "title": "3D printer filament",
+   "assignee": "Wuhu R3D Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5309.png"
+  },
+  {
+   "i": 5310,
+   "number": "USD1049185S1",
+   "term": "3d printer",
+   "title": "3D printer frame",
+   "assignee": "Shenzhen Anycubic Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/5310.png"
+  },
+  {
+   "i": 5311,
+   "number": "USD1025148S1",
+   "term": "3d printer",
+   "title": "3D printer filament",
+   "assignee": "Wuhu R3D Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/5311.png"
+  },
+  {
+   "i": 5312,
+   "number": "USD1066480S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/5312.png"
+  },
+  {
+   "i": 5313,
+   "number": "USD879850S1",
+   "term": "3d printer",
+   "title": "3D printer enclosure",
+   "assignee": "Wolf & Associates, Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/5313.png"
+  },
+  {
+   "i": 5314,
+   "number": "USD765154S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Nano-Dimensions Technologies LTD.",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/5314.png"
+  },
+  {
+   "i": 5315,
+   "number": "USD1049183S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Creality 3D Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5315.png"
+  },
+  {
+   "i": 5316,
+   "number": "USD871463S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Jiangsu Wiiboox Technology Co., Ltd.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/5316.png"
+  },
+  {
+   "i": 5317,
+   "number": "USD1049184S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Creality 3D Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/5317.png"
+  },
+  {
+   "i": 5318,
+   "number": "USD1068872S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Stratasys, Inc.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/5318.png"
+  },
+  {
+   "i": 5319,
+   "number": "USD902266S1",
+   "term": "3d printer",
+   "title": "3D printer accessory",
+   "assignee": "Hewlett-Packard Development Company, L.P.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/5319.png"
+  },
+  {
+   "i": 5320,
+   "number": "USD1013745S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Stratasys, Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5320.png"
+  },
+  {
+   "i": 5321,
+   "number": "USD734814S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/5321.png"
+  },
+  {
+   "i": 5322,
+   "number": "USD1028037S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5322.png"
+  },
+  {
+   "i": 5323,
+   "number": "USD980295S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Atomstack Technologies Co., Ltd.",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/5323.png"
+  },
+  {
+   "i": 5324,
+   "number": "USD732588S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/5324.png"
+  },
+  {
+   "i": 5325,
+   "number": "USD1048121S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Snapmaker Technologies Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/5325.png"
+  },
+  {
+   "i": 5326,
+   "number": "USD870781S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Hewlett-Packard Development Company, L.P.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/5326.png"
+  },
+  {
+   "i": 5327,
+   "number": "USD835690S1",
+   "term": "3d printer",
+   "title": "3D printer assembly",
+   "assignee": "Joseph ISSA",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/5327.png"
+  },
+  {
+   "i": 5328,
+   "number": "USD744813S1",
+   "term": "3d printer",
+   "title": "3D printer alignment indicator",
+   "assignee": "Andrew Simon Filo",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/5328.png"
+  },
+  {
+   "i": 5329,
+   "number": "USD791203S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Longer 3D Technology Co., Ltd.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/5329.png"
+  },
+  {
+   "i": 5330,
+   "number": "USD757132S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/5330.png"
+  },
+  {
+   "i": 5331,
+   "number": "USD1042562S1",
+   "term": "3d printer",
+   "title": "3D printer frame",
+   "assignee": "Shenzhen Anycubic Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/5331.png"
+  },
+  {
+   "i": 5332,
+   "number": "USD1034720S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5332.png"
+  },
+  {
+   "i": 5333,
+   "number": "USD887461S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Planmeca Oy",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/5333.png"
+  },
+  {
+   "i": 5334,
+   "number": "USD1051186S1",
+   "term": "3d printer",
+   "title": "3D printer screen module",
+   "assignee": "Sprintray, Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5334.png"
+  },
+  {
+   "i": 5335,
+   "number": "USD777808S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/5335.png"
+  },
+  {
+   "i": 5336,
+   "number": "USD739885S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/5336.png"
+  },
+  {
+   "i": 5337,
+   "number": "USD733196S1",
+   "term": "3d printer",
+   "title": "3D printer enclosure",
+   "assignee": "Wolf And Associates, Inc.",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/5337.png"
+  },
+  {
+   "i": 5338,
+   "number": "USD1074267S1",
+   "term": "3d printer",
+   "title": "3D printer desk",
+   "assignee": "Yimei Zhou",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/5338.png"
+  },
+  {
+   "i": 5339,
+   "number": "USD845357S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Hangzhou Weibin Technology Co., Ltd.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/5339.png"
+  },
+  {
+   "i": 5340,
+   "number": "USD875794S1",
+   "term": "3d printer",
+   "title": "3D printer hotend",
+   "assignee": "Slice Engineering LLC",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/5340.png"
+  },
+  {
+   "i": 5341,
+   "number": "USD1025150S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5341.png"
+  },
+  {
+   "i": 5342,
+   "number": "USD997216S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Senma Utrend Technology Co., Ltd.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/5342.png"
+  },
+  {
+   "i": 5343,
+   "number": "USD776727S1",
+   "term": "3d printer",
+   "title": "3D printer enclosure",
+   "assignee": "Wolf & Associates, Inc.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/5343.png"
+  },
+  {
+   "i": 5344,
+   "number": "USD956114S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Anatz Inc.",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/5344.png"
+  },
+  {
+   "i": 5345,
+   "number": "USD955471S1",
+   "term": "3d printer",
+   "title": "3D printer extruder",
+   "assignee": "Shenzhen Mingda Technology Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/5345.png"
+  },
+  {
+   "i": 5346,
+   "number": "USD1074763S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd.",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/5346.png"
+  },
+  {
+   "i": 5347,
+   "number": "USD787574S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/5347.png"
+  },
+  {
+   "i": 5348,
+   "number": "USD1026052S1",
+   "term": "3d printer",
+   "title": "3D printer leveling sensor",
+   "assignee": "Kyungyeon LEE",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/5348.png"
+  },
+  {
+   "i": 5349,
+   "number": "USD894977S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Hewlett-Packard Development, L.P.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/5349.png"
+  },
+  {
+   "i": 5350,
+   "number": "USD1029894S1",
+   "term": "3d printer",
+   "title": "3D printer cartridge assembly",
+   "assignee": "Sprintray, Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5350.png"
+  },
+  {
+   "i": 5351,
+   "number": "USD732587S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/5351.png"
+  },
+  {
+   "i": 5352,
+   "number": "USD732586S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/5352.png"
+  },
+  {
+   "i": 5353,
+   "number": "USD975755S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Weistek Co., Ltd",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/5353.png"
+  },
+  {
+   "i": 5354,
+   "number": "USD958236S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Anycubic Technology Co., Ltd.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/5354.png"
+  },
+  {
+   "i": 5355,
+   "number": "USD908750S1",
+   "term": "3d printer",
+   "title": "3D printer build unit",
+   "assignee": "Hewlett-Packard Development Company, L.P.",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/5355.png"
+  },
+  {
+   "i": 5356,
+   "number": "USD765745S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Well Smart Electronics Limited",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/5356.png"
+  },
+  {
+   "i": 5357,
+   "number": "USD1020817S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Wuhu R3D Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5357.png"
+  },
+  {
+   "i": 5358,
+   "number": "USD1056972S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Guihua He",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/5358.png"
+  },
+  {
+   "i": 5359,
+   "number": "USD903730S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Stratasys, Inc.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/5359.png"
+  },
+  {
+   "i": 5360,
+   "number": "USD777809S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Xyzprinting, Inc.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/5360.png"
+  },
+  {
+   "i": 5361,
+   "number": "USD933723S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Liang Chen",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/5361.png"
+  },
+  {
+   "i": 5362,
+   "number": "USD1021983S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5362.png"
+  },
+  {
+   "i": 5363,
+   "number": "USD987694S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Easythreed Technology Co., Ltd",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/5363.png"
+  },
+  {
+   "i": 5364,
+   "number": "USD1066481S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Elegoo Technology Co., Ltd",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/5364.png"
+  },
+  {
+   "i": 5365,
+   "number": "USD1043773S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Shenzhen Anycubic Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/5365.png"
+  },
+  {
+   "i": 5366,
+   "number": "USD768214S1",
+   "term": "3d printer",
+   "title": "3D printer",
+   "assignee": "Sti Co., Ltd.",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/5366.png"
+  },
+  {
+   "i": 5367,
+   "number": "USD1002685S1",
+   "term": "3d printer",
+   "title": "3D printer hotend",
+   "assignee": "Slice Engineering LLC",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/5367.png"
   }
  ]
 }

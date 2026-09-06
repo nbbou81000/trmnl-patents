@@ -78,7 +78,11 @@
   "t:router": "complete",
   "t:disk drive": "complete",
   "t:memory card": 1,
-  "t:3d printer": "complete"
+  "t:3d printer": "complete",
+  "t:juke box": "complete",
+  "t:athletic shoe": "complete",
+  "t:shoe sole": 10,
+  "t:phonograph": 1
  },
- "throttled_at": "2026-09-06T12:54:40.873Z"
+ "throttled_at": "2026-09-06T16:31:58.676Z"
 }

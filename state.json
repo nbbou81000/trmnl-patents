@@ -50,7 +50,10 @@
   "earphone": "complete",
   "loudspeaker": "complete",
   "smart speaker": "complete",
-  "microphone": 5
+  "microphone": 5,
+  "t:microphone": "complete",
+  "t:television": "complete",
+  "t:television receiver": 1
  },
- "throttled_at": "2026-09-06T05:48:32.581Z"
+ "throttled_at": "2026-09-06T09:56:11.262Z"
 }

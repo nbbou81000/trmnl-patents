@@ -1,6 +1,6 @@
 {
- "count": 7668,
- "generated_at": 1788716119,
+ "count": 7768,
+ "generated_at": 1788716295,
  "items": [
   {
    "i": 0,
@@ -76681,6 +76681,1006 @@
    "year": 1966,
    "figures": 1,
    "file": "img/7667.png"
+  },
+  {
+   "i": 7668,
+   "number": "USD593356S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Breville Pty Limited",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/7668.png"
+  },
+  {
+   "i": 7669,
+   "number": "USD597372S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Electrolux Do Brasil S/A",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/7669.png"
+  },
+  {
+   "i": 7670,
+   "number": "USD113512S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1939,
+   "figures": 1,
+   "file": "img/7670.png"
+  },
+  {
+   "i": 7671,
+   "number": "USD369512S",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Hamilton Beach/Proctor-Silex, Inc.",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/7671.png"
+  },
+  {
+   "i": 7672,
+   "number": "USD157701S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/7672.png"
+  },
+  {
+   "i": 7673,
+   "number": "USD1027575S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Breville Pty Limited",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7673.png"
+  },
+  {
+   "i": 7674,
+   "number": "USD530560S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corp.",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/7674.png"
+  },
+  {
+   "i": 7675,
+   "number": "USD877557S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Vita-Mix Management Corporation",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/7675.png"
+  },
+  {
+   "i": 7676,
+   "number": "USD669294S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/7676.png"
+  },
+  {
+   "i": 7677,
+   "number": "USD833814S1",
+   "term": "blender",
+   "title": "Blender container",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/7677.png"
+  },
+  {
+   "i": 7678,
+   "number": "USD115226S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1939,
+   "figures": 1,
+   "file": "img/7678.png"
+  },
+  {
+   "i": 7679,
+   "number": "USD488957S1",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/7679.png"
+  },
+  {
+   "i": 7680,
+   "number": "USD379132S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Hamilton Beach/Proctor-Silex, Inc.",
+   "year": 1997,
+   "figures": 2,
+   "file": "img/7680.png"
+  },
+  {
+   "i": 7681,
+   "number": "USD919359S1",
+   "term": "blender",
+   "title": "Blender body",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/7681.png"
+  },
+  {
+   "i": 7682,
+   "number": "USD700796S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Illycaff\u00e9 S.p.A.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/7682.png"
+  },
+  {
+   "i": 7683,
+   "number": "USD553433S1",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/7683.png"
+  },
+  {
+   "i": 7684,
+   "number": "USD116380S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1939,
+   "figures": 1,
+   "file": "img/7684.png"
+  },
+  {
+   "i": 7685,
+   "number": "USD474066S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/7685.png"
+  },
+  {
+   "i": 7686,
+   "number": "USD607683S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Woongjin Coway Co., Ltd.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/7686.png"
+  },
+  {
+   "i": 7687,
+   "number": "USD444344S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Sunbeam Products Inc.",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/7687.png"
+  },
+  {
+   "i": 7688,
+   "number": "USD976044S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/7688.png"
+  },
+  {
+   "i": 7689,
+   "number": "USD770226S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Whirlpool Corporation",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7689.png"
+  },
+  {
+   "i": 7690,
+   "number": "USD571598S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Conair Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/7690.png"
+  },
+  {
+   "i": 7691,
+   "number": "USD1036191S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7691.png"
+  },
+  {
+   "i": 7692,
+   "number": "USD336000S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Moulinex (Societe Anonyme)",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/7692.png"
+  },
+  {
+   "i": 7693,
+   "number": "USD857441S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/7693.png"
+  },
+  {
+   "i": 7694,
+   "number": "USD563713S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/7694.png"
+  },
+  {
+   "i": 7695,
+   "number": "USD730682S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Euro-Pro Operating Llc",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/7695.png"
+  },
+  {
+   "i": 7696,
+   "number": "USD793147S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/7696.png"
+  },
+  {
+   "i": 7697,
+   "number": "USD815887S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Ningbo Borine Electric Appliance Co., Ltd.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/7697.png"
+  },
+  {
+   "i": 7698,
+   "number": "USD954485S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Peugeot Saveurs",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/7698.png"
+  },
+  {
+   "i": 7699,
+   "number": "USD600061S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Conair Corporation",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/7699.png"
+  },
+  {
+   "i": 7700,
+   "number": "USD959911S1",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Whirlpool Corporation",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/7700.png"
+  },
+  {
+   "i": 7701,
+   "number": "USD645695S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2011,
+   "figures": 3,
+   "file": "img/7701.png"
+  },
+  {
+   "i": 7702,
+   "number": "USD471753S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Lundar Electric Industrial Co., Ltd.",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/7702.png"
+  },
+  {
+   "i": 7703,
+   "number": "USD512265S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Koninklijke Philips Electronics, N.V.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/7703.png"
+  },
+  {
+   "i": 7704,
+   "number": "USD786606S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/7704.png"
+  },
+  {
+   "i": 7705,
+   "number": "USD449762S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Medport, Inc.",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/7705.png"
+  },
+  {
+   "i": 7706,
+   "number": "USD489931S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Global Marketing Corporation",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/7706.png"
+  },
+  {
+   "i": 7707,
+   "number": "USD204117S",
+   "term": "blender",
+   "title": "Joel stearman",
+   "assignee": "",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/7707.png"
+  },
+  {
+   "i": 7708,
+   "number": "USD675860S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/7708.png"
+  },
+  {
+   "i": 7709,
+   "number": "USD617136S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Hamilton Beach Brands, Inc.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/7709.png"
+  },
+  {
+   "i": 7710,
+   "number": "USD596891S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design, Ag",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/7710.png"
+  },
+  {
+   "i": 7711,
+   "number": "USD588863S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Bullet Express, Llc",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/7711.png"
+  },
+  {
+   "i": 7712,
+   "number": "USD502043S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corp.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/7712.png"
+  },
+  {
+   "i": 7713,
+   "number": "USD491416S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "L'equip, Inc.",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/7713.png"
+  },
+  {
+   "i": 7714,
+   "number": "USD623886S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Infinity Hospitality Group",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/7714.png"
+  },
+  {
+   "i": 7715,
+   "number": "USD532251S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Conair Corporation",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/7715.png"
+  },
+  {
+   "i": 7716,
+   "number": "USD129591S",
+   "term": "coffee maker",
+   "title": "Design fob a coffee maker",
+   "assignee": "",
+   "year": 1941,
+   "figures": 1,
+   "file": "img/7716.png"
+  },
+  {
+   "i": 7717,
+   "number": "USD220667S",
+   "term": "blender",
+   "title": "Blender or similar article",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/7717.png"
+  },
+  {
+   "i": 7718,
+   "number": "USD940490S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Jura Elektroapparate Ag",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/7718.png"
+  },
+  {
+   "i": 7719,
+   "number": "USD946343S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/7719.png"
+  },
+  {
+   "i": 7720,
+   "number": "USD658423S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Electrolux Home Products, Inc.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/7720.png"
+  },
+  {
+   "i": 7721,
+   "number": "USD919367S1",
+   "term": "blender",
+   "title": "Blender container",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/7721.png"
+  },
+  {
+   "i": 7722,
+   "number": "USD834870S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Hamilton Brach Brands, Inc.",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/7722.png"
+  },
+  {
+   "i": 7723,
+   "number": "USD787882S1",
+   "term": "blender",
+   "title": "Blender and enclosure",
+   "assignee": "Whirlpool Corporation",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/7723.png"
+  },
+  {
+   "i": 7724,
+   "number": "USD86430S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1932,
+   "figures": 1,
+   "file": "img/7724.png"
+  },
+  {
+   "i": 7725,
+   "number": "USD802977S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/7725.png"
+  },
+  {
+   "i": 7726,
+   "number": "USD838537S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Cerebral, Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/7726.png"
+  },
+  {
+   "i": 7727,
+   "number": "USD331347S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "U.S. Philips Corporation",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/7727.png"
+  },
+  {
+   "i": 7728,
+   "number": "USD759424S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7728.png"
+  },
+  {
+   "i": 7729,
+   "number": "USD773878S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Helen Of Troy Limited",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7729.png"
+  },
+  {
+   "i": 7730,
+   "number": "USD519314S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Seb S.A.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/7730.png"
+  },
+  {
+   "i": 7731,
+   "number": "USD191152S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/7731.png"
+  },
+  {
+   "i": 7732,
+   "number": "USD439103S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Hamilton Beach/Proctor-Silex, Inc.",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/7732.png"
+  },
+  {
+   "i": 7733,
+   "number": "USD711688S1",
+   "term": "blender",
+   "title": "Blender control panel",
+   "assignee": "Tristar Products, Inc.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/7733.png"
+  },
+  {
+   "i": 7734,
+   "number": "USD881626S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Esse Caffe' S.P.A.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/7734.png"
+  },
+  {
+   "i": 7735,
+   "number": "USD738685S1",
+   "term": "blender",
+   "title": "Blender vessel",
+   "assignee": "Homeland Housewares, Llc",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/7735.png"
+  },
+  {
+   "i": 7736,
+   "number": "USD86967S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1932,
+   "figures": 1,
+   "file": "img/7736.png"
+  },
+  {
+   "i": 7737,
+   "number": "USD731235S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Euro Suisse International Limited",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/7737.png"
+  },
+  {
+   "i": 7738,
+   "number": "USD363190S",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Hamilton Beach/Proctor-Silex, Inc.",
+   "year": 1995,
+   "figures": 3,
+   "file": "img/7738.png"
+  },
+  {
+   "i": 7739,
+   "number": "USD633746S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "South Asia International (Hk) Limited",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/7739.png"
+  },
+  {
+   "i": 7740,
+   "number": "USD418357S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corp.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/7740.png"
+  },
+  {
+   "i": 7741,
+   "number": "USD485118S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Wayne G. Fromm",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/7741.png"
+  },
+  {
+   "i": 7742,
+   "number": "USD453656S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Sunbeam Corporation",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/7742.png"
+  },
+  {
+   "i": 7743,
+   "number": "USD734979S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Electrolux Appliances Aktiebolag",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/7743.png"
+  },
+  {
+   "i": 7744,
+   "number": "USD307695S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Dart Industries Inc.",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/7744.png"
+  },
+  {
+   "i": 7745,
+   "number": "USD433598S",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Hp Intellectual Corp.",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/7745.png"
+  },
+  {
+   "i": 7746,
+   "number": "USD100321S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1936,
+   "figures": 2,
+   "file": "img/7746.png"
+  },
+  {
+   "i": 7747,
+   "number": "USD232297S",
+   "term": "blender",
+   "title": "Figi figz",
+   "assignee": "",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/7747.png"
+  },
+  {
+   "i": 7748,
+   "number": "USD549520S1",
+   "term": "coffee maker",
+   "title": "Coffee maker base",
+   "assignee": "Hamilton Beach/Proctor-Silex",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/7748.png"
+  },
+  {
+   "i": 7749,
+   "number": "USD940491S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Jura Elektroapparate Ag",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/7749.png"
+  },
+  {
+   "i": 7750,
+   "number": "USD376951S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Black & Decker Inc.",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/7750.png"
+  },
+  {
+   "i": 7751,
+   "number": "USD479088S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Home Luck Company",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/7751.png"
+  },
+  {
+   "i": 7752,
+   "number": "USD498643S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Hamilton Beach/Proctor-Silex, Inc.",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/7752.png"
+  },
+  {
+   "i": 7753,
+   "number": "USD1007222S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "National Presto Industries, Inc.",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/7753.png"
+  },
+  {
+   "i": 7754,
+   "number": "USD605461S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/7754.png"
+  },
+  {
+   "i": 7755,
+   "number": "USD117568S",
+   "term": "coffee maker",
+   "title": "Design fob a coffee maker",
+   "assignee": "Casco Products Corporation",
+   "year": 1939,
+   "figures": 1,
+   "file": "img/7755.png"
+  },
+  {
+   "i": 7756,
+   "number": "USD616244S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Breville Pty Limited",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/7756.png"
+  },
+  {
+   "i": 7757,
+   "number": "USD760529S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Obh Nordica Ip A/S",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7757.png"
+  },
+  {
+   "i": 7758,
+   "number": "USD255529S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Salton, Inc.",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/7758.png"
+  },
+  {
+   "i": 7759,
+   "number": "USD1074296S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Whirlpool Corporation",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/7759.png"
+  },
+  {
+   "i": 7760,
+   "number": "USD760535S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "De'longhi Braun Household Gmbh",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7760.png"
+  },
+  {
+   "i": 7761,
+   "number": "USD348585S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Sham John C K",
+   "year": 1994,
+   "figures": 2,
+   "file": "img/7761.png"
+  },
+  {
+   "i": 7762,
+   "number": "USD781094S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/7762.png"
+  },
+  {
+   "i": 7763,
+   "number": "USD478468S1",
+   "term": "blender",
+   "title": "Blender base with arched face",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/7763.png"
+  },
+  {
+   "i": 7764,
+   "number": "USD248720S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "U.S. Philips Corporation",
+   "year": 1978,
+   "figures": 2,
+   "file": "img/7764.png"
+  },
+  {
+   "i": 7765,
+   "number": "USD778665S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Spectrum Brands, Inc.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/7765.png"
+  },
+  {
+   "i": 7766,
+   "number": "USD87939S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker or similar article",
+   "assignee": "Edison General Electric appliance Company",
+   "year": 1932,
+   "figures": 1,
+   "file": "img/7766.png"
+  },
+  {
+   "i": 7767,
+   "number": "USD920734S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Hamilton Beach Brands, Inc.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/7767.png"
   }
  ]
 }

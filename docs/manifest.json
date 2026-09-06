@@ -1,6 +1,6 @@
 {
- "count": 3900,
- "generated_at": 1788687516,
+ "count": 4000,
+ "generated_at": 1788687719,
  "items": [
   {
    "i": 0,
@@ -35101,6 +35101,906 @@
    "year": 2008,
    "figures": 2,
    "file": "img/3899.png"
+  },
+  {
+   "i": 3900,
+   "number": "USD355912S",
+   "title": "Cordless telephone",
+   "assignee": "Sony Electronics, Inc.",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/3900.png"
+  },
+  {
+   "i": 3901,
+   "number": "USD649960S1",
+   "title": "Microphone",
+   "assignee": "Sony Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/3901.png"
+  },
+  {
+   "i": 3902,
+   "number": "USD464351S1",
+   "title": "Computer mouse",
+   "assignee": "De La Fuente Luis Antonio",
+   "year": 2002,
+   "figures": 3,
+   "file": "img/3902.png"
+  },
+  {
+   "i": 3903,
+   "number": "USD527000S1",
+   "title": "Personal digital assistant",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/3903.png"
+  },
+  {
+   "i": 3904,
+   "number": "USD251557S",
+   "title": "Record player",
+   "assignee": "Braun Aktiengesellschaft",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/3904.png"
+  },
+  {
+   "i": 3905,
+   "number": "USD496352S1",
+   "title": "Loudspeaker",
+   "assignee": "Bose Corporation",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/3905.png"
+  },
+  {
+   "i": 3906,
+   "number": "USD881158S1",
+   "title": "Loudspeaker",
+   "assignee": "D&B Audiotechnik Gmbh",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/3906.png"
+  },
+  {
+   "i": 3907,
+   "number": "USD396721S",
+   "title": "Radio receiver",
+   "assignee": "Aiwa Co., Ltd.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/3907.png"
+  },
+  {
+   "i": 3908,
+   "number": "USD905008S1",
+   "title": "Audio player",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/3908.png"
+  },
+  {
+   "i": 3909,
+   "number": "USD704162S1",
+   "title": "Headphone",
+   "assignee": "Gp Acoustics International Limited",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/3909.png"
+  },
+  {
+   "i": 3910,
+   "number": "USD929973S1",
+   "title": "Microphone",
+   "assignee": "Shenzhen Xunweijia Technology Development Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/3910.png"
+  },
+  {
+   "i": 3911,
+   "number": "USD737798S1",
+   "title": "Headphone",
+   "assignee": "JVC Kenwood Corporation",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/3911.png"
+  },
+  {
+   "i": 3912,
+   "number": "USD515068S1",
+   "title": "Radio receiver",
+   "assignee": "Sony Corporation",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/3912.png"
+  },
+  {
+   "i": 3913,
+   "number": "USD659562S1",
+   "title": "Electronic device",
+   "assignee": "Garmin Switzerland Gmbh",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/3913.png"
+  },
+  {
+   "i": 3914,
+   "number": "USD997905S1",
+   "title": "Headphone",
+   "assignee": "Shenzhen Chaosupao Electronic Technology Co., Ltd",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/3914.png"
+  },
+  {
+   "i": 3915,
+   "number": "USD288439S",
+   "title": "Cassette player",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/3915.png"
+  },
+  {
+   "i": 3916,
+   "number": "USD788821S1",
+   "title": "Electronic device",
+   "assignee": "Vocollect, Inc.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/3916.png"
+  },
+  {
+   "i": 3917,
+   "number": "USD332782S",
+   "title": "Laptop computer",
+   "assignee": "Nec Corporation",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/3917.png"
+  },
+  {
+   "i": 3918,
+   "number": "USD948483S1",
+   "title": "Earphone",
+   "assignee": "Audio-Technica Corporation",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/3918.png"
+  },
+  {
+   "i": 3919,
+   "number": "USD338007S",
+   "title": "Compact disc player",
+   "assignee": "Thomson Consumer Electronics, Inc.",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/3919.png"
+  },
+  {
+   "i": 3920,
+   "number": "USD232099S",
+   "title": "Radio receiver tuner",
+   "assignee": "Matsushita Electric Industrial Co",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/3920.png"
+  },
+  {
+   "i": 3921,
+   "number": "USD806712S1",
+   "title": "Docking station",
+   "assignee": "Hewlett-Packard Development Company, Lp.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/3921.png"
+  },
+  {
+   "i": 3922,
+   "number": "USD622970S1",
+   "title": "Digital photo frame",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/3922.png"
+  },
+  {
+   "i": 3923,
+   "number": "USD356221S",
+   "title": "Display device for eye glasses",
+   "assignee": "Griffith Graeme D",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/3923.png"
+  },
+  {
+   "i": 3924,
+   "number": "USD1006798S1",
+   "title": "Microphone",
+   "assignee": "Guangdong Dingchuang Zhizao Technology Co., Ltd.",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/3924.png"
+  },
+  {
+   "i": 3925,
+   "number": "USD729197S1",
+   "title": "Headphone",
+   "assignee": "Matthew S. Kirby",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/3925.png"
+  },
+  {
+   "i": 3926,
+   "number": "USD781292S1",
+   "title": "Display device",
+   "assignee": "Samsung Display Co., Ltd.",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/3926.png"
+  },
+  {
+   "i": 3927,
+   "number": "USD975677S1",
+   "title": "Headphone",
+   "assignee": "Xiwan Sun",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/3927.png"
+  },
+  {
+   "i": 3928,
+   "number": "USD299494S",
+   "title": "Telephone equipped facsimile",
+   "assignee": "Tokyo Electric Co., Ltd.",
+   "year": 1989,
+   "figures": 2,
+   "file": "img/3928.png"
+  },
+  {
+   "i": 3929,
+   "number": "USD313020S",
+   "title": "Radio receiver",
+   "assignee": "Sony Corporation",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/3929.png"
+  },
+  {
+   "i": 3930,
+   "number": "USD577206S1",
+   "title": "Digital photo frame",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/3930.png"
+  },
+  {
+   "i": 3931,
+   "number": "USD1033406S1",
+   "title": "Microphone",
+   "assignee": "Audio-Technicaa Corporation",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/3931.png"
+  },
+  {
+   "i": 3932,
+   "number": "USD194408S",
+   "title": "Radio receiver",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/3932.png"
+  },
+  {
+   "i": 3933,
+   "number": "USD516058S1",
+   "title": "Earphone",
+   "assignee": "Future Sonics, Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/3933.png"
+  },
+  {
+   "i": 3934,
+   "number": "USD772886S1",
+   "title": "Electronic device",
+   "assignee": "Apple Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/3934.png"
+  },
+  {
+   "i": 3935,
+   "number": "USD574812S1",
+   "title": "Loudspeaker for vehicle",
+   "assignee": "Victor Company Of Japan, Limited",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/3935.png"
+  },
+  {
+   "i": 3936,
+   "number": "USD748076S1",
+   "title": "Loudspeaker",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/3936.png"
+  },
+  {
+   "i": 3937,
+   "number": "USD954040S1",
+   "title": "Laptop computer",
+   "assignee": "Lenovo (Beijing) Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/3937.png"
+  },
+  {
+   "i": 3938,
+   "number": "USD743960S1",
+   "title": "Display device",
+   "assignee": "Samsung Display Co., Ltd.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/3938.png"
+  },
+  {
+   "i": 3939,
+   "number": "USD374437S",
+   "title": "Computer mouse",
+   "assignee": "Kensington Microware Limited",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/3939.png"
+  },
+  {
+   "i": 3940,
+   "number": "USD148192S",
+   "title": "Radio receiver or similar article",
+   "assignee": "",
+   "year": 1947,
+   "figures": 1,
+   "file": "img/3940.png"
+  },
+  {
+   "i": 3941,
+   "number": "USD676409S1",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/3941.png"
+  },
+  {
+   "i": 3942,
+   "number": "USD1024050S1",
+   "title": "Laptop computer",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/3942.png"
+  },
+  {
+   "i": 3943,
+   "number": "USD1046816S1",
+   "title": "Loudspeaker",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/3943.png"
+  },
+  {
+   "i": 3944,
+   "number": "USD693334S1",
+   "title": "Loudspeaker grille",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/3944.png"
+  },
+  {
+   "i": 3945,
+   "number": "USD895583S1",
+   "title": "Microphone",
+   "assignee": "Shure Acquisition Holdings, Inc.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/3945.png"
+  },
+  {
+   "i": 3946,
+   "number": "USD265086S",
+   "title": "Loudspeaker",
+   "assignee": "Pioneer Kabushiki Kaisha",
+   "year": 1982,
+   "figures": 1,
+   "file": "img/3946.png"
+  },
+  {
+   "i": 3947,
+   "number": "USD979539S1",
+   "title": "Earphone",
+   "assignee": "Huawei Technologies Co., Ltd.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/3947.png"
+  },
+  {
+   "i": 3948,
+   "number": "USD276610S",
+   "title": "Radio receiver",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/3948.png"
+  },
+  {
+   "i": 3949,
+   "number": "USD1079291S1",
+   "title": "Digital photo frame",
+   "assignee": "Shenzhen Plato Design Co., Ltd",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/3949.png"
+  },
+  {
+   "i": 3950,
+   "number": "USD354958S",
+   "title": "Head phone",
+   "assignee": "Mark Grasso",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/3950.png"
+  },
+  {
+   "i": 3951,
+   "number": "USD478889S1",
+   "title": "Digital audio player",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/3951.png"
+  },
+  {
+   "i": 3952,
+   "number": "USD853354S1",
+   "title": "Loudspeaker",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/3952.png"
+  },
+  {
+   "i": 3953,
+   "number": "USD809482S1",
+   "title": "Loudspeaker",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/3953.png"
+  },
+  {
+   "i": 3954,
+   "number": "USD741290S1",
+   "title": "Headphone headband",
+   "assignee": "Bose Corporation",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/3954.png"
+  },
+  {
+   "i": 3955,
+   "number": "USD902931S1",
+   "title": "Docking station for computer",
+   "assignee": "Shenzhen Sdion Electronics & Technology Co., Ltd",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/3955.png"
+  },
+  {
+   "i": 3956,
+   "number": "USD435847S1",
+   "title": "Computer mouse with roller",
+   "assignee": "Logitech, Inc.",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/3956.png"
+  },
+  {
+   "i": 3957,
+   "number": "USD457515S1",
+   "title": "Earphone",
+   "assignee": "Sony Corporation",
+   "year": 2002,
+   "figures": 1,
+   "file": "img/3957.png"
+  },
+  {
+   "i": 3958,
+   "number": "USD231751S",
+   "title": "Record player",
+   "assignee": "",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/3958.png"
+  },
+  {
+   "i": 3959,
+   "number": "USD291080S",
+   "title": "Loudspeaker",
+   "assignee": "Pioneer Electronic Corporation",
+   "year": 1987,
+   "figures": 2,
+   "file": "img/3959.png"
+  },
+  {
+   "i": 3960,
+   "number": "USD96140S",
+   "title": "Design for a radio receiver",
+   "assignee": "",
+   "year": 1935,
+   "figures": 1,
+   "file": "img/3960.png"
+  },
+  {
+   "i": 3961,
+   "number": "USD387063S",
+   "title": "Telephone key expansion unit",
+   "assignee": "Siemens Rolm Communications Inc.",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/3961.png"
+  },
+  {
+   "i": 3962,
+   "number": "USD609214S1",
+   "title": "Loudspeaker",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/3962.png"
+  },
+  {
+   "i": 3963,
+   "number": "USD331057S",
+   "title": "Headphone",
+   "assignee": "Sony Corporation",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/3963.png"
+  },
+  {
+   "i": 3964,
+   "number": "USD951229S1",
+   "title": "Audio player",
+   "assignee": "Sony Corporation",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/3964.png"
+  },
+  {
+   "i": 3965,
+   "number": "USD430864S",
+   "title": "Microphone for exclusive use along with musical instrument",
+   "assignee": "Taky Electronics Co., Ltd.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/3965.png"
+  },
+  {
+   "i": 3966,
+   "number": "USD621388S1",
+   "title": "Earphone",
+   "assignee": "Koss Corporation",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/3966.png"
+  },
+  {
+   "i": 3967,
+   "number": "USD682806S1",
+   "title": "Electronic device accessory",
+   "assignee": "Research In Motion Limited",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/3967.png"
+  },
+  {
+   "i": 3968,
+   "number": "USD354956S",
+   "title": "Telephone set",
+   "assignee": "Nitsuko Corporation",
+   "year": 1995,
+   "figures": 3,
+   "file": "img/3968.png"
+  },
+  {
+   "i": 3969,
+   "number": "USD534156S1",
+   "title": "Headphone",
+   "assignee": "Sony Corporation",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/3969.png"
+  },
+  {
+   "i": 3970,
+   "number": "USD792868S1",
+   "title": "Radio receiver",
+   "assignee": "The Stanley Works Ltd",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/3970.png"
+  },
+  {
+   "i": 3971,
+   "number": "USD251429S",
+   "title": "Radio receiver",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/3971.png"
+  },
+  {
+   "i": 3972,
+   "number": "USD533868S1",
+   "title": "Earphone",
+   "assignee": "Sony Corporation",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/3972.png"
+  },
+  {
+   "i": 3973,
+   "number": "USD969696S1",
+   "title": "Electronic display device",
+   "assignee": "Texa Spa",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/3973.png"
+  },
+  {
+   "i": 3974,
+   "number": "USD259932S",
+   "title": "Loudspeaker enclosure",
+   "assignee": "Hawkins Deceased James L",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/3974.png"
+  },
+  {
+   "i": 3975,
+   "number": "USD391573S",
+   "title": "Headphone",
+   "assignee": "Sony Corporation",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/3975.png"
+  },
+  {
+   "i": 3976,
+   "number": "USD347000S",
+   "title": "Portable computer",
+   "assignee": "Ing. C. Olivetti & C., S.P.A.",
+   "year": 1994,
+   "figures": 2,
+   "file": "img/3976.png"
+  },
+  {
+   "i": 3977,
+   "number": "USD252330S",
+   "title": "Record player",
+   "assignee": "Bsr Limited",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/3977.png"
+  },
+  {
+   "i": 3978,
+   "number": "USD874426S1",
+   "title": "Loudspeaker",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/3978.png"
+  },
+  {
+   "i": 3979,
+   "number": "USD744479S1",
+   "title": "Electronic device",
+   "assignee": "Elo Touch Solutions, Inc.",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/3979.png"
+  },
+  {
+   "i": 3980,
+   "number": "USD683335S1",
+   "title": "Microphone",
+   "assignee": "Vocollect, Inc.",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/3980.png"
+  },
+  {
+   "i": 3981,
+   "number": "USD451520S1",
+   "title": "Computer generated image for display panel or screen",
+   "assignee": "Sony Corporation",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/3981.png"
+  },
+  {
+   "i": 3982,
+   "number": "USD561973S1",
+   "title": "Electronic device storage cart",
+   "assignee": "Bretford Manufacturing, Inc.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/3982.png"
+  },
+  {
+   "i": 3983,
+   "number": "USD676442S1",
+   "title": "Electronic reader",
+   "assignee": "Sanjay Krishnan",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/3983.png"
+  },
+  {
+   "i": 3984,
+   "number": "USD388788S",
+   "title": "Headphone radio",
+   "assignee": "Lenoxx Electronics Corp.",
+   "year": 1998,
+   "figures": 2,
+   "file": "img/3984.png"
+  },
+  {
+   "i": 3985,
+   "number": "USD1025003S1",
+   "title": "Loudspeaker",
+   "assignee": "Dianwu LI",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/3985.png"
+  },
+  {
+   "i": 3986,
+   "number": "USD732014S1",
+   "title": "Audio player",
+   "assignee": "Sony Corporation",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/3986.png"
+  },
+  {
+   "i": 3987,
+   "number": "USD712870S1",
+   "title": "Digital audio player",
+   "assignee": "Iriver Limited",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/3987.png"
+  },
+  {
+   "i": 3988,
+   "number": "USD456398S1",
+   "title": "Portable computer",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 2002,
+   "figures": 3,
+   "file": "img/3988.png"
+  },
+  {
+   "i": 3989,
+   "number": "USD275751S",
+   "title": "Telephone",
+   "assignee": "Mitel Corporation",
+   "year": 1984,
+   "figures": 2,
+   "file": "img/3989.png"
+  },
+  {
+   "i": 3990,
+   "number": "USD938934S1",
+   "title": "Headphone",
+   "assignee": "Audio-Technica Corporation",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/3990.png"
+  },
+  {
+   "i": 3991,
+   "number": "USD916054S1",
+   "title": "Headphone",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/3991.png"
+  },
+  {
+   "i": 3992,
+   "number": "USD910586S1",
+   "title": "Electronic device",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/3992.png"
+  },
+  {
+   "i": 3993,
+   "number": "USD296100S",
+   "title": "Microphone",
+   "assignee": "Toa Tokushu Denki Kabushiki Kaisha",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/3993.png"
+  },
+  {
+   "i": 3994,
+   "number": "USD823849S1",
+   "title": "Laptop computer",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/3994.png"
+  },
+  {
+   "i": 3995,
+   "number": "USD288319S",
+   "title": "Telephone station set",
+   "assignee": "Tie/Communications, Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/3995.png"
+  },
+  {
+   "i": 3996,
+   "number": "USD253648S",
+   "title": "Record player",
+   "assignee": "Kazuhito Ohtomo",
+   "year": 1979,
+   "figures": 2,
+   "file": "img/3996.png"
+  },
+  {
+   "i": 3997,
+   "number": "USD418513S",
+   "title": "Microphone",
+   "assignee": "Sony Corporation",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/3997.png"
+  },
+  {
+   "i": 3998,
+   "number": "USD733594S1",
+   "title": "Electronic device",
+   "assignee": "Garmin Switzerland Gmbh",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/3998.png"
+  },
+  {
+   "i": 3999,
+   "number": "USD1018537S1",
+   "title": "Display device",
+   "assignee": "Htc Corporation",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/3999.png"
   }
  ]
 }

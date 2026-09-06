@@ -60,7 +60,15 @@
   "t:projector": "complete",
   "t:camera": "complete",
   "t:digital camera": "complete",
-  "t:video camera": 2
+  "t:video camera": "complete",
+  "t:camcorder": "complete",
+  "t:photographic camera": "complete",
+  "t:wristwatch": "complete",
+  "t:smart watch": "complete",
+  "t:fitness tracker": "complete",
+  "t:activity monitor": "complete",
+  "t:virtual reality headset": "complete",
+  "t:head mounted display": "complete"
  },
  "throttled_at": "2026-09-06T10:26:50.100Z"
 }

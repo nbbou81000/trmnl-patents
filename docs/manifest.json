@@ -1,6 +1,6 @@
 {
- "count": 6868,
- "generated_at": 1788713063,
+ "count": 6968,
+ "generated_at": 1788714548,
  "items": [
   {
    "i": 0,
@@ -68681,6 +68681,1006 @@
    "year": 1994,
    "figures": 1,
    "file": "img/6867.png"
+  },
+  {
+   "i": 6868,
+   "number": "USD1061700S1",
+   "term": "synthesizer",
+   "title": "Synthesizer module",
+   "assignee": "Sequential Synths Limited",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/6868.png"
+  },
+  {
+   "i": 6869,
+   "number": "USD309468S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Everett Kent T",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/6869.png"
+  },
+  {
+   "i": 6870,
+   "number": "USD1048135S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Guangzhou Jiefu Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/6870.png"
+  },
+  {
+   "i": 6871,
+   "number": "USD588864S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Bullet Express, Llc",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/6871.png"
+  },
+  {
+   "i": 6872,
+   "number": "USD510380S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Apple Computer, Inc.",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/6872.png"
+  },
+  {
+   "i": 6873,
+   "number": "USD1042586S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Carson Optical, Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/6873.png"
+  },
+  {
+   "i": 6874,
+   "number": "USD1046956S1",
+   "term": "electric guitar",
+   "title": "Electric guitar body",
+   "assignee": "Ian Williams",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/6874.png"
+  },
+  {
+   "i": 6875,
+   "number": "USD556800S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Nikon Corporation",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/6875.png"
+  },
+  {
+   "i": 6876,
+   "number": "USD394986S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Seb",
+   "year": 1998,
+   "figures": 3,
+   "file": "img/6876.png"
+  },
+  {
+   "i": 6877,
+   "number": "USD90884S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1933,
+   "figures": 2,
+   "file": "img/6877.png"
+  },
+  {
+   "i": 6878,
+   "number": "USD399859S",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 1998,
+   "figures": 3,
+   "file": "img/6878.png"
+  },
+  {
+   "i": 6879,
+   "number": "USD778351S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Yamaha Corporation",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/6879.png"
+  },
+  {
+   "i": 6880,
+   "number": "USD517581S1",
+   "term": "microscope",
+   "title": "Microscope tube",
+   "assignee": "Leica Microsystems Wetzlar Gmbh",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/6880.png"
+  },
+  {
+   "i": 6881,
+   "number": "USD807691S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "F'real Foods, Llc",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/6881.png"
+  },
+  {
+   "i": 6882,
+   "number": "USD770832S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Cna International Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/6882.png"
+  },
+  {
+   "i": 6883,
+   "number": "USD423537S",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Lee Li-Hwa",
+   "year": 2000,
+   "figures": 3,
+   "file": "img/6883.png"
+  },
+  {
+   "i": 6884,
+   "number": "USD285932S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Roland Corporation",
+   "year": 1986,
+   "figures": 2,
+   "file": "img/6884.png"
+  },
+  {
+   "i": 6885,
+   "number": "USD630660S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "NT-MDT House",
+   "year": 2011,
+   "figures": 3,
+   "file": "img/6885.png"
+  },
+  {
+   "i": 6886,
+   "number": "USD788527S1",
+   "term": "blender",
+   "title": "Blender container",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/6886.png"
+  },
+  {
+   "i": 6887,
+   "number": "USD1054767S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "The Steelstone Group Llc",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/6887.png"
+  },
+  {
+   "i": 6888,
+   "number": "USD939620S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Focusrite Audio Engineering Limited",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/6888.png"
+  },
+  {
+   "i": 6889,
+   "number": "USD961649S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Guangzhou Ruiyi Information Technology Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/6889.png"
+  },
+  {
+   "i": 6890,
+   "number": "USD269437S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Cbs Inc.",
+   "year": 1983,
+   "figures": 2,
+   "file": "img/6890.png"
+  },
+  {
+   "i": 6891,
+   "number": "USD340252S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Olympus Optical Co., Ltd.",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/6891.png"
+  },
+  {
+   "i": 6892,
+   "number": "USD412809S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Hp Intellectual Corp.",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/6892.png"
+  },
+  {
+   "i": 6893,
+   "number": "USD822421S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Saga Coffee S.P.A.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/6893.png"
+  },
+  {
+   "i": 6894,
+   "number": "USD890252S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Ik Multimedia Production Srl",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/6894.png"
+  },
+  {
+   "i": 6895,
+   "number": "USD579961S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Nikon Corporation",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/6895.png"
+  },
+  {
+   "i": 6896,
+   "number": "USD318060S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Fisher Roger D",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/6896.png"
+  },
+  {
+   "i": 6897,
+   "number": "USD1043782S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Gaodi Digital (Qingdao) Co., Ltd",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/6897.png"
+  },
+  {
+   "i": 6898,
+   "number": "USD899844S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Xiushan Ye",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/6898.png"
+  },
+  {
+   "i": 6899,
+   "number": "USD646108S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/6899.png"
+  },
+  {
+   "i": 6900,
+   "number": "USD258068S",
+   "term": "synthesizer",
+   "title": "Synthesizer organ or similar article",
+   "assignee": "O/R, Inc.",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/6900.png"
+  },
+  {
+   "i": 6901,
+   "number": "USD430182S",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/6901.png"
+  },
+  {
+   "i": 6902,
+   "number": "USD1078840S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Shandong Sunsmile Musical Instrument Inc.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/6902.png"
+  },
+  {
+   "i": 6903,
+   "number": "USD191330S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/6903.png"
+  },
+  {
+   "i": 6904,
+   "number": "USD867054S1",
+   "term": "blender",
+   "title": "Blender body",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/6904.png"
+  },
+  {
+   "i": 6905,
+   "number": "USD741282S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Teenage Engineering Ab",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/6905.png"
+  },
+  {
+   "i": 6906,
+   "number": "USD478341S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Pentax Corporation",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/6906.png"
+  },
+  {
+   "i": 6907,
+   "number": "USD622577S1",
+   "term": "electric guitar",
+   "title": "Electric guitar key",
+   "assignee": "Rand David W",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/6907.png"
+  },
+  {
+   "i": 6908,
+   "number": "USD294037S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Masaharu Yamada",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/6908.png"
+  },
+  {
+   "i": 6909,
+   "number": "USD776494S1",
+   "term": "blender",
+   "title": "Blender tamper",
+   "assignee": "Whirlpool Corporation",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/6909.png"
+  },
+  {
+   "i": 6910,
+   "number": "USD611289S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/6910.png"
+  },
+  {
+   "i": 6911,
+   "number": "USD1075894S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Teenage Engineering Ab",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/6911.png"
+  },
+  {
+   "i": 6912,
+   "number": "USD479256S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Pentax Corporation",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/6912.png"
+  },
+  {
+   "i": 6913,
+   "number": "USD259199S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Baldwin Piano & Organ Company",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/6913.png"
+  },
+  {
+   "i": 6914,
+   "number": "USD783072S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Nikon Corporation",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/6914.png"
+  },
+  {
+   "i": 6915,
+   "number": "USD777515S1",
+   "term": "blender",
+   "title": "Blender container",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/6915.png"
+  },
+  {
+   "i": 6916,
+   "number": "USD830757S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Tecum Co., Ltd.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/6916.png"
+  },
+  {
+   "i": 6917,
+   "number": "USD1032710S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Sequential Synths Limited",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/6917.png"
+  },
+  {
+   "i": 6918,
+   "number": "USD952012S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Zeyan Gao",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/6918.png"
+  },
+  {
+   "i": 6919,
+   "number": "USD375114S",
+   "term": "electric guitar",
+   "title": "Electric guitar body",
+   "assignee": "Richard Excellente",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/6919.png"
+  },
+  {
+   "i": 6920,
+   "number": "USD907087S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Leica Microsystems Cms Gmbh",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/6920.png"
+  },
+  {
+   "i": 6921,
+   "number": "USD176819S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "",
+   "year": 1956,
+   "figures": 1,
+   "file": "img/6921.png"
+  },
+  {
+   "i": 6922,
+   "number": "USD937027S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Sang Jun Lee",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/6922.png"
+  },
+  {
+   "i": 6923,
+   "number": "USD256366S",
+   "term": "synthesizer",
+   "title": "Synthesizer or similar article",
+   "assignee": "Dworsky Alan L",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/6923.png"
+  },
+  {
+   "i": 6924,
+   "number": "USD458286S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Su-Min Kung",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/6924.png"
+  },
+  {
+   "i": 6925,
+   "number": "USD211409S",
+   "term": "electric guitar",
+   "title": "Electric guitar or similar article",
+   "assignee": "",
+   "year": 1968,
+   "figures": 1,
+   "file": "img/6925.png"
+  },
+  {
+   "i": 6926,
+   "number": "USD226283S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "",
+   "year": 1973,
+   "figures": 1,
+   "file": "img/6926.png"
+  },
+  {
+   "i": 6927,
+   "number": "USD465127S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Ming-Tsung Lee",
+   "year": 2002,
+   "figures": 1,
+   "file": "img/6927.png"
+  },
+  {
+   "i": 6928,
+   "number": "USD1054240S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Jura Elektroapparate Ag",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/6928.png"
+  },
+  {
+   "i": 6929,
+   "number": "USD1062855S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Guangzhou Rantion Technology Co., Ltd.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/6929.png"
+  },
+  {
+   "i": 6930,
+   "number": "USD478340S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Pentax Corporation",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/6930.png"
+  },
+  {
+   "i": 6931,
+   "number": "USD607710S1",
+   "term": "electric guitar",
+   "title": "Electric guitar key",
+   "assignee": "Rand David W",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/6931.png"
+  },
+  {
+   "i": 6932,
+   "number": "USD419168S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Carolina Biological Supply Company",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/6932.png"
+  },
+  {
+   "i": 6933,
+   "number": "USD206780S",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "",
+   "year": 1967,
+   "figures": 1,
+   "file": "img/6933.png"
+  },
+  {
+   "i": 6934,
+   "number": "USD1081781S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Teenage Engineering Ab",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/6934.png"
+  },
+  {
+   "i": 6935,
+   "number": "USD424083S",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Lee Li-Hwa",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/6935.png"
+  },
+  {
+   "i": 6936,
+   "number": "USD1081779S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Shenzhen Dale Sensor Tech Co., Ltd.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/6936.png"
+  },
+  {
+   "i": 6937,
+   "number": "USD198815S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "",
+   "year": 1964,
+   "figures": 1,
+   "file": "img/6937.png"
+  },
+  {
+   "i": 6938,
+   "number": "USD786003S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/6938.png"
+  },
+  {
+   "i": 6939,
+   "number": "USD258216S",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Eventoff Franklin N",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/6939.png"
+  },
+  {
+   "i": 6940,
+   "number": "USD365831S",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/6940.png"
+  },
+  {
+   "i": 6941,
+   "number": "USD333480S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Arsenault Steven E",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/6941.png"
+  },
+  {
+   "i": 6942,
+   "number": "USD171302S",
+   "term": "microscope",
+   "title": "Leitz etal microscope",
+   "assignee": "",
+   "year": 1954,
+   "figures": 1,
+   "file": "img/6942.png"
+  },
+  {
+   "i": 6943,
+   "number": "USD181541S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "",
+   "year": 1957,
+   "figures": 1,
+   "file": "img/6943.png"
+  },
+  {
+   "i": 6944,
+   "number": "USD647750S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Whirlpool Corporation",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/6944.png"
+  },
+  {
+   "i": 6945,
+   "number": "USD365832S",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/6945.png"
+  },
+  {
+   "i": 6946,
+   "number": "USD1082908S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Shandong Sunsmile Musical Instrument Inc.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/6946.png"
+  },
+  {
+   "i": 6947,
+   "number": "USD90513S",
+   "term": "microscope",
+   "title": "Design for a microscope light",
+   "assignee": "",
+   "year": 1933,
+   "figures": 1,
+   "file": "img/6947.png"
+  },
+  {
+   "i": 6948,
+   "number": "USD731864S1",
+   "term": "blender",
+   "title": "Blender scraper",
+   "assignee": "Whirlpool Corporation",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/6948.png"
+  },
+  {
+   "i": 6949,
+   "number": "USD125266S",
+   "term": "coffee maker",
+   "title": "Design fob a coffee maker",
+   "assignee": "",
+   "year": 1941,
+   "figures": 1,
+   "file": "img/6949.png"
+  },
+  {
+   "i": 6950,
+   "number": "USD847246S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Steiner-Optik Gmbh",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/6950.png"
+  },
+  {
+   "i": 6951,
+   "number": "USD998031S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Hoshino Gakki Co., Ltd.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/6951.png"
+  },
+  {
+   "i": 6952,
+   "number": "USD967223S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Idea Vault Holdings, Inc.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/6952.png"
+  },
+  {
+   "i": 6953,
+   "number": "USD775364S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Seward Limited",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/6953.png"
+  },
+  {
+   "i": 6954,
+   "number": "USD939621S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Focusrite Audio Engineering Limited",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/6954.png"
+  },
+  {
+   "i": 6955,
+   "number": "USD473884S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Asahi Kogaku Kogyo Kabushiki Kaisha",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/6955.png"
+  },
+  {
+   "i": 6956,
+   "number": "USD965058S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Liwei Liu",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/6956.png"
+  },
+  {
+   "i": 6957,
+   "number": "USD611972S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Leica Microsystems (Schweiz) Ag",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/6957.png"
+  },
+  {
+   "i": 6958,
+   "number": "USD905493S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Hamilton Beach Brands, Inc.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/6958.png"
+  },
+  {
+   "i": 6959,
+   "number": "USD794375S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Fuji Kouki Co., Ltd.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/6959.png"
+  },
+  {
+   "i": 6960,
+   "number": "USD239656S",
+   "term": "synthesizer",
+   "title": "Patent USD239656S",
+   "assignee": "",
+   "year": 1976,
+   "figures": 1,
+   "file": "img/6960.png"
+  },
+  {
+   "i": 6961,
+   "number": "USD492711S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Pentax Corporation",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/6961.png"
+  },
+  {
+   "i": 6962,
+   "number": "USD303676S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Westlake Lawrence E",
+   "year": 1989,
+   "figures": 1,
+   "file": "img/6962.png"
+  },
+  {
+   "i": 6963,
+   "number": "USD537459S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Leading Extreme Optimist Industries, Ltd.",
+   "year": 2007,
+   "figures": 3,
+   "file": "img/6963.png"
+  },
+  {
+   "i": 6964,
+   "number": "USD537674S1",
+   "term": "blender",
+   "title": "Blender with round jug",
+   "assignee": "Breville Pty Limited",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/6964.png"
+  },
+  {
+   "i": 6965,
+   "number": "USD939622S1",
+   "term": "synthesizer",
+   "title": "Synthesizer",
+   "assignee": "Superlative Instruments LLC",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/6965.png"
+  },
+  {
+   "i": 6966,
+   "number": "USD453174S1",
+   "term": "binoculars",
+   "title": "Binoculars",
+   "assignee": "Asahi Kogaku Kogyo Kabushiki Kaisha",
+   "year": 2002,
+   "figures": 1,
+   "file": "img/6966.png"
+  },
+  {
+   "i": 6967,
+   "number": "USD214695S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/6967.png"
   }
  ]
 }

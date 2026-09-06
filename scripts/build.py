@@ -68,8 +68,17 @@ def checkpoint(items):
             return
         subprocess.run(["git", "commit", "-m", f"images: {len(items)} écrans (checkpoint)"],
                        check=True, capture_output=True)
-        subprocess.run(["git", "push"], check=True, capture_output=True)
-        print(f"  ✓ checkpoint poussé à {len(items)} images")
+        # Le workflow de collecte commite corpus.json pendant que le rendu tourne.
+        # Sans rebase, la poussée est rejetée ("fetch first") et la passe échoue.
+        for attempt in range(3):
+            try:
+                subprocess.run(["git", "push"], check=True, capture_output=True)
+                print(f"  ✓ checkpoint poussé à {len(items)} images")
+                return
+            except subprocess.CalledProcessError:
+                subprocess.run(["git", "pull", "--rebase", "--autostash"],
+                               check=True, capture_output=True)
+        print("  (checkpoint non poussé après 3 tentatives)")
     except Exception as e:
         print(f"  (checkpoint ignoré : {e})")
 

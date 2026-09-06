@@ -1,8 +1,6 @@
 name: Collect patents
 
 on:
-  schedule:
-    - cron: "7 * * * *"   # une passe par heure : chaque run part d'une IP différente
   workflow_dispatch:
 
 permissions:

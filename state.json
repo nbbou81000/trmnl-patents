@@ -55,7 +55,9 @@
   "t:television": "complete",
   "t:television receiver": "complete",
   "t:set-top box": "complete",
-  "t:remote control": 3
+  "t:remote control": "complete",
+  "t:video cassette recorder": "complete",
+  "t:projector": 5
  },
- "throttled_at": "2026-09-06T10:00:26.563Z"
+ "throttled_at": "2026-09-06T10:04:19.832Z"
 }

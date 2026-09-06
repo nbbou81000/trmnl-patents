@@ -72,7 +72,12 @@
   "t:calculator": "complete",
   "t:electronic calculator": "complete",
   "t:typewriter": "complete",
-  "t:printer": 3
+  "t:printer": "complete",
+  "t:scanner": "complete",
+  "t:modem": "complete",
+  "t:router": "complete",
+  "t:disk drive": "complete",
+  "t:memory card": 1
  },
- "throttled_at": "2026-09-06T10:48:43.606Z"
+ "throttled_at": "2026-09-06T12:54:40.873Z"
 }

@@ -21,6 +21,12 @@ const UA = { "User-Agent": "Mozilla/5.0 (compatible; TrmnlPatentPlugin/1.0)", Ac
 const CDN = "https://patentimages.storage.googleapis.com/";
 const MAX_PAGES = 10; // plafond imposé par le moteur : 10 pages x 100
 const PER_RUN = parseInt(process.env.PER_RUN || "600", 10);
+// ONLY="3d printer,camera" restreint la passe à ces entrées, séparées par des
+// virgules. Utile pour compléter une catégorie précise sans relancer le reste.
+const ONLY = (process.env.ONLY || "")
+  .split(",")
+  .map((v) => v.trim().toLowerCase())
+  .filter(Boolean);
 const DELAY_MS = parseInt(process.env.DELAY_MS || "4000", 10);
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -99,13 +105,24 @@ function normalize(entry, term) {
   // Entrelacement : sans lui, les déposants (donc les modèles identifiables :
   // PS5, Xbox, Steam Machine) ne seraient atteints qu'après les 115 termes,
   // soit plusieurs jours de collecte.
-  const queue = [];
+  let queue = [];
   const ratio = Math.max(1, Math.round(terms.length / Math.max(1, assignees.length)));
   let ti = 0;
   let ai = 0;
   while (ti < terms.length || ai < assignees.length) {
     for (let k = 0; k < ratio && ti < terms.length; k++) queue.push(terms[ti++]);
     if (ai < assignees.length) queue.push(assignees[ai++]);
+  }
+
+  if (ONLY.length) {
+    queue = queue.filter((e) => ONLY.includes(e.value.toLowerCase()));
+    if (!queue.length) {
+      console.log(`Aucune entrée ne correspond à ONLY="${ONLY.join(", ")}".`);
+      console.log("Valeurs disponibles dans terms.json :");
+      console.log(JSON.parse(fs.readFileSync(TERMS_FILE, "utf8")).join(", "));
+      process.exit(1);
+    }
+    console.log(`Passe restreinte à : ${queue.map((e) => e.value).join(", ")}\n`);
   }
   const corpus = fs.existsSync(CORPUS) ? JSON.parse(fs.readFileSync(CORPUS, "utf8")) : [];
   const state = fs.existsSync(STATE) ? JSON.parse(fs.readFileSync(STATE, "utf8")) : { done: {}, throttled_at: null };

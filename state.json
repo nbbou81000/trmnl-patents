@@ -77,7 +77,8 @@
   "t:modem": "complete",
   "t:router": "complete",
   "t:disk drive": "complete",
-  "t:memory card": 1
+  "t:memory card": 1,
+  "t:3d printer": "complete"
  },
  "throttled_at": "2026-09-06T12:54:40.873Z"
 }

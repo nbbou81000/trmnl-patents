@@ -1,6 +1,6 @@
 {
- "count": 7468,
- "generated_at": 1788715761,
+ "count": 7568,
+ "generated_at": 1788715940,
  "items": [
   {
    "i": 0,
@@ -74681,6 +74681,1006 @@
    "year": 2009,
    "figures": 2,
    "file": "img/7467.png"
+  },
+  {
+   "i": 7468,
+   "number": "USD524588S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Conair Corporation",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/7468.png"
+  },
+  {
+   "i": 7469,
+   "number": "USD136315S",
+   "term": "microscope",
+   "title": "Design for a microscope",
+   "assignee": "",
+   "year": 1943,
+   "figures": 1,
+   "file": "img/7469.png"
+  },
+  {
+   "i": 7470,
+   "number": "USD386357S",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Black & Decker Inc.",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/7470.png"
+  },
+  {
+   "i": 7471,
+   "number": "USD583610S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "South Asia International (Hk) Limited",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/7471.png"
+  },
+  {
+   "i": 7472,
+   "number": "USD991736S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Mk Eletrodomesticos Mondial S.A.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/7472.png"
+  },
+  {
+   "i": 7473,
+   "number": "USD336001S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Moulinex (Societe Anonyme)",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/7473.png"
+  },
+  {
+   "i": 7474,
+   "number": "USD233610S",
+   "term": "microscope",
+   "title": "Microscope laser",
+   "assignee": "",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/7474.png"
+  },
+  {
+   "i": 7475,
+   "number": "USD817082S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Wen-Ching Lee",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/7475.png"
+  },
+  {
+   "i": 7476,
+   "number": "USD779265S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Spectrum Brands, Inc.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/7476.png"
+  },
+  {
+   "i": 7477,
+   "number": "USD1004353S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Balmuda Inc.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/7477.png"
+  },
+  {
+   "i": 7478,
+   "number": "USD799576S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Leica Microsystems Cms Gmbh",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/7478.png"
+  },
+  {
+   "i": 7479,
+   "number": "USD672606S1",
+   "term": "blender",
+   "title": "Blender jar lid",
+   "assignee": "Kitchen Resource LLC",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/7479.png"
+  },
+  {
+   "i": 7480,
+   "number": "USD444336S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Lundar Electric Industrial Co., Ltd.",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/7480.png"
+  },
+  {
+   "i": 7481,
+   "number": "USD845696S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Koninklijke Phiilps N.V.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/7481.png"
+  },
+  {
+   "i": 7482,
+   "number": "USD654756S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/7482.png"
+  },
+  {
+   "i": 7483,
+   "number": "USD528859S1",
+   "term": "blender",
+   "title": "Blender blade",
+   "assignee": "Vita-Mix Corporation",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/7483.png"
+  },
+  {
+   "i": 7484,
+   "number": "USD312743S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Black & Decker, Inc.",
+   "year": 1990,
+   "figures": 3,
+   "file": "img/7484.png"
+  },
+  {
+   "i": 7485,
+   "number": "USD879998S1",
+   "term": "microscope",
+   "title": "Microscope slide assembly",
+   "assignee": "Harry Fisch",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/7485.png"
+  },
+  {
+   "i": 7486,
+   "number": "USD940499S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/7486.png"
+  },
+  {
+   "i": 7487,
+   "number": "USD485728S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pentalpha Macau Commercial Offshore Ltd.",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/7487.png"
+  },
+  {
+   "i": 7488,
+   "number": "USD416168S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Ta-Feng Electrical Appliance Co",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/7488.png"
+  },
+  {
+   "i": 7489,
+   "number": "USD648972S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Jura Elektroapparate Ag",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/7489.png"
+  },
+  {
+   "i": 7490,
+   "number": "USD1055130S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Carl Zeiss Microscopy Gmbh",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7490.png"
+  },
+  {
+   "i": 7491,
+   "number": "USD387948S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Moulinex S.A.",
+   "year": 1997,
+   "figures": 2,
+   "file": "img/7491.png"
+  },
+  {
+   "i": 7492,
+   "number": "USD156147S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1949,
+   "figures": 1,
+   "file": "img/7492.png"
+  },
+  {
+   "i": 7493,
+   "number": "USD874019S1",
+   "term": "microscope",
+   "title": "Microscope slide assembly",
+   "assignee": "Harry Fisch",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/7493.png"
+  },
+  {
+   "i": 7494,
+   "number": "USD674235S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "E. Mishan & Sons, Inc.",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/7494.png"
+  },
+  {
+   "i": 7495,
+   "number": "USD635813S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Conair Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/7495.png"
+  },
+  {
+   "i": 7496,
+   "number": "USD273685S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Toshikatsu Yamada",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/7496.png"
+  },
+  {
+   "i": 7497,
+   "number": "USD694583S1",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Whirlpool Corporation",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/7497.png"
+  },
+  {
+   "i": 7498,
+   "number": "USD646109S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/7498.png"
+  },
+  {
+   "i": 7499,
+   "number": "USD489570S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Bsh Bosch Und Siemens Hausgerate Gmbh",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/7499.png"
+  },
+  {
+   "i": 7500,
+   "number": "USD1063520S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Bialetti Industrie S.P.A.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/7500.png"
+  },
+  {
+   "i": 7501,
+   "number": "USD784433S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Carl Zeiss Microscopy Gmbh",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/7501.png"
+  },
+  {
+   "i": 7502,
+   "number": "USD838538S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Hamilton Beach Brands, Inc.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/7502.png"
+  },
+  {
+   "i": 7503,
+   "number": "USD765463S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Cna International Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7503.png"
+  },
+  {
+   "i": 7504,
+   "number": "USD424360S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Enterprise Coffee and Supply Company",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/7504.png"
+  },
+  {
+   "i": 7505,
+   "number": "USD151206S",
+   "term": "microscope",
+   "title": "Design for a microscope or similar article",
+   "assignee": "",
+   "year": 1948,
+   "figures": 1,
+   "file": "img/7505.png"
+  },
+  {
+   "i": 7506,
+   "number": "USD882331S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/7506.png"
+  },
+  {
+   "i": 7507,
+   "number": "USD600062S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Danny Lavy",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/7507.png"
+  },
+  {
+   "i": 7508,
+   "number": "USD563164S1",
+   "term": "blender",
+   "title": "Blender container",
+   "assignee": "Homeland Housewares, Llc",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/7508.png"
+  },
+  {
+   "i": 7509,
+   "number": "USD526523S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Hamilton Beech/Proctor-Silex, Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/7509.png"
+  },
+  {
+   "i": 7510,
+   "number": "USD526531S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Whirlpool Corporation",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/7510.png"
+  },
+  {
+   "i": 7511,
+   "number": "USD719391S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/7511.png"
+  },
+  {
+   "i": 7512,
+   "number": "USD633539S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Hunter Optical Co., Ltd",
+   "year": 2011,
+   "figures": 3,
+   "file": "img/7512.png"
+  },
+  {
+   "i": 7513,
+   "number": "USD404606S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Ta-Feng Electrical Appliances Co., Ltd.",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/7513.png"
+  },
+  {
+   "i": 7514,
+   "number": "USD651445S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Luigi Lavazza S.P.A.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/7514.png"
+  },
+  {
+   "i": 7515,
+   "number": "USD339148S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Tasco Sales, Inc.",
+   "year": 1993,
+   "figures": 2,
+   "file": "img/7515.png"
+  },
+  {
+   "i": 7516,
+   "number": "USD927922S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/7516.png"
+  },
+  {
+   "i": 7517,
+   "number": "USD1041987S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "De'Longhi Appliances S.R.L. Con Unico Socio",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7517.png"
+  },
+  {
+   "i": 7518,
+   "number": "USD706847S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Mitutoyo Corporation",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/7518.png"
+  },
+  {
+   "i": 7519,
+   "number": "USD765464S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Cna International Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7519.png"
+  },
+  {
+   "i": 7520,
+   "number": "USD81491S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "West Bend Aluminum company",
+   "year": 1930,
+   "figures": 1,
+   "file": "img/7520.png"
+  },
+  {
+   "i": 7521,
+   "number": "USD602058S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Ken-A-Vision Mfg. Co., Inc.",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/7521.png"
+  },
+  {
+   "i": 7522,
+   "number": "USD820033S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/7522.png"
+  },
+  {
+   "i": 7523,
+   "number": "USD718972S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "As Wilfa",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/7523.png"
+  },
+  {
+   "i": 7524,
+   "number": "USD1048134S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Weiyi Xiao",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/7524.png"
+  },
+  {
+   "i": 7525,
+   "number": "USD1020364S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Shenzhen Chenbei Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7525.png"
+  },
+  {
+   "i": 7526,
+   "number": "USD343758S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "U.S. Philips Corporation",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/7526.png"
+  },
+  {
+   "i": 7527,
+   "number": "USD218872S",
+   "term": "blender",
+   "title": "Blender or the like",
+   "assignee": "",
+   "year": 1970,
+   "figures": 1,
+   "file": "img/7527.png"
+  },
+  {
+   "i": 7528,
+   "number": "USD1007927S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Sengoku Works, Ltd.",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/7528.png"
+  },
+  {
+   "i": 7529,
+   "number": "USD395664S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Nikon Corporation",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/7529.png"
+  },
+  {
+   "i": 7530,
+   "number": "USD932242S1",
+   "term": "blender",
+   "title": "Blender container",
+   "assignee": "Capbran Holdings, Llc",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/7530.png"
+  },
+  {
+   "i": 7531,
+   "number": "USD863881S1",
+   "term": "coffee maker",
+   "title": "Coffee maker water reservoir",
+   "assignee": "Helen Of Troy Limited",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/7531.png"
+  },
+  {
+   "i": 7532,
+   "number": "USD420028S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Olympus Optical Co., Ltd.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/7532.png"
+  },
+  {
+   "i": 7533,
+   "number": "USD466362S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Conair Cip, Inc.",
+   "year": 2002,
+   "figures": 3,
+   "file": "img/7533.png"
+  },
+  {
+   "i": 7534,
+   "number": "USD955814S1",
+   "term": "coffee maker",
+   "title": "Coffee maker component",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/7534.png"
+  },
+  {
+   "i": 7535,
+   "number": "USD773248S1",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Spectrum Brands, Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7535.png"
+  },
+  {
+   "i": 7536,
+   "number": "USD332027S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Verheijen B.V.",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/7536.png"
+  },
+  {
+   "i": 7537,
+   "number": "USD681088S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Olympus Corporation",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/7537.png"
+  },
+  {
+   "i": 7538,
+   "number": "USD874868S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "UAB ,,Millo Appliances\u2033",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/7538.png"
+  },
+  {
+   "i": 7539,
+   "number": "USD427002S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Yu-Yuan Lin",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/7539.png"
+  },
+  {
+   "i": 7540,
+   "number": "USD436972S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "L. W. Scientific, Inc.",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/7540.png"
+  },
+  {
+   "i": 7541,
+   "number": "USD525481S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Conair Corporation",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/7541.png"
+  },
+  {
+   "i": 7542,
+   "number": "USD726479S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/7542.png"
+  },
+  {
+   "i": 7543,
+   "number": "USD159739S",
+   "term": "microscope",
+   "title": "Microscope lamp",
+   "assignee": "",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/7543.png"
+  },
+  {
+   "i": 7544,
+   "number": "USD942803S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/7544.png"
+  },
+  {
+   "i": 7545,
+   "number": "USD523682S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips Electronics, N.V.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/7545.png"
+  },
+  {
+   "i": 7546,
+   "number": "USD672800S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Nikon Corporation",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/7546.png"
+  },
+  {
+   "i": 7547,
+   "number": "USD479666S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Breville Pty Ltd",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/7547.png"
+  },
+  {
+   "i": 7548,
+   "number": "USD400045S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Severin Elektrogerate Gmbh",
+   "year": 1998,
+   "figures": 3,
+   "file": "img/7548.png"
+  },
+  {
+   "i": 7549,
+   "number": "USD746629S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Electrolux Appliances Aktiebolag",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/7549.png"
+  },
+  {
+   "i": 7550,
+   "number": "USD378261S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/7550.png"
+  },
+  {
+   "i": 7551,
+   "number": "USD704502S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Euro-Pro Operating Llc",
+   "year": 2014,
+   "figures": 2,
+   "file": "img/7551.png"
+  },
+  {
+   "i": 7552,
+   "number": "USD628007S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Seb S.A.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/7552.png"
+  },
+  {
+   "i": 7553,
+   "number": "USD597790S1",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Aktiebolaget Electrolux",
+   "year": 2009,
+   "figures": 3,
+   "file": "img/7553.png"
+  },
+  {
+   "i": 7554,
+   "number": "USD327601S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "U.S. Philips Corporation",
+   "year": 1992,
+   "figures": 2,
+   "file": "img/7554.png"
+  },
+  {
+   "i": 7555,
+   "number": "USD844374S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Whirlpool Corporation",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/7555.png"
+  },
+  {
+   "i": 7556,
+   "number": "USD742160S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pl-Design Ag",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/7556.png"
+  },
+  {
+   "i": 7557,
+   "number": "USD984210S1",
+   "term": "blender",
+   "title": "Blender container",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/7557.png"
+  },
+  {
+   "i": 7558,
+   "number": "USD695053S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/7558.png"
+  },
+  {
+   "i": 7559,
+   "number": "USD1072588S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Nuc Electronics Co., Ltd.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/7559.png"
+  },
+  {
+   "i": 7560,
+   "number": "USD695559S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/7560.png"
+  },
+  {
+   "i": 7561,
+   "number": "USD161306S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/7561.png"
+  },
+  {
+   "i": 7562,
+   "number": "USD563154S1",
+   "term": "blender",
+   "title": "Blender with a dispenser",
+   "assignee": "The Helman Group, Ltd",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/7562.png"
+  },
+  {
+   "i": 7563,
+   "number": "USD936405S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "De'Longhi Appliances S.R.L. Con Unico Socio",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/7563.png"
+  },
+  {
+   "i": 7564,
+   "number": "USD592903S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Hamilton Beach Brands, Inc.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/7564.png"
+  },
+  {
+   "i": 7565,
+   "number": "USD479087S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Home Luck Company",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/7565.png"
+  },
+  {
+   "i": 7566,
+   "number": "USD380121S",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Black & Decker Inc.",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/7566.png"
+  },
+  {
+   "i": 7567,
+   "number": "USD383350S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Ariel Leibovic",
+   "year": 1997,
+   "figures": 2,
+   "file": "img/7567.png"
   }
  ]
 }

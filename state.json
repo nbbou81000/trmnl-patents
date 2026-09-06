@@ -57,7 +57,8 @@
   "t:set-top box": "complete",
   "t:remote control": "complete",
   "t:video cassette recorder": "complete",
-  "t:projector": 5
+  "t:projector": "complete",
+  "t:camera": 7
  },
- "throttled_at": "2026-09-06T10:04:19.832Z"
+ "throttled_at": "2026-09-06T10:18:48.042Z"
 }

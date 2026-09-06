@@ -1,6 +1,6 @@
 {
- "count": 4200,
- "generated_at": 1788691355,
+ "count": 4300,
+ "generated_at": 1788691554,
  "items": [
   {
    "i": 0,
@@ -37801,6 +37801,906 @@
    "year": 2010,
    "figures": 1,
    "file": "img/4199.png"
+  },
+  {
+   "i": 4200,
+   "number": "USD721699S1",
+   "title": "Electronic book",
+   "assignee": "Sony Corporation",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/4200.png"
+  },
+  {
+   "i": 4201,
+   "number": "USD520073S1",
+   "title": "Slot machine featuring dogs",
+   "assignee": "Mary Stratton",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/4201.png"
+  },
+  {
+   "i": 4202,
+   "number": "USD973658S1",
+   "title": "Virtual reality headset",
+   "assignee": "Shenzhen Z&D Silica Gel Products Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/4202.png"
+  },
+  {
+   "i": 4203,
+   "number": "USD386490S",
+   "title": "Facsimile machine",
+   "assignee": "Sharp Kabushiki Kaisha",
+   "year": 1997,
+   "figures": 3,
+   "file": "img/4203.png"
+  },
+  {
+   "i": 4204,
+   "number": "USD997901S1",
+   "title": "Record player",
+   "assignee": "Xiaomin SHI",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/4204.png"
+  },
+  {
+   "i": 4205,
+   "number": "USD550703S1",
+   "title": "Audio player",
+   "assignee": "Sony Corporation",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/4205.png"
+  },
+  {
+   "i": 4206,
+   "number": "USD580469S1",
+   "title": "Camcorder",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/4206.png"
+  },
+  {
+   "i": 4207,
+   "number": "USD263847S",
+   "title": "Photographic camera",
+   "assignee": "Agfa-Gevaert Ag",
+   "year": 1982,
+   "figures": 1,
+   "file": "img/4207.png"
+  },
+  {
+   "i": 4208,
+   "number": "USD394058S",
+   "title": "Cordless telephone headset",
+   "assignee": "Fitzgerald Robert M",
+   "year": 1998,
+   "figures": 3,
+   "file": "img/4208.png"
+  },
+  {
+   "i": 4209,
+   "number": "USD715264S1",
+   "title": "Digital audio player with a wireless connection and mixing function",
+   "assignee": "Pioneer Corporation",
+   "year": 2014,
+   "figures": 2,
+   "file": "img/4209.png"
+  },
+  {
+   "i": 4210,
+   "number": "USD588559S1",
+   "title": "Set top box",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/4210.png"
+  },
+  {
+   "i": 4211,
+   "number": "USD817327S1",
+   "title": "Head mounted display device",
+   "assignee": "Shenzhen Royole Technologies Co. Ltd.",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/4211.png"
+  },
+  {
+   "i": 4212,
+   "number": "USD160970S",
+   "title": "Reynolds, jr radio receiver cabinet",
+   "assignee": "Avco Manufacturing Corporation",
+   "year": 1950,
+   "figures": 3,
+   "file": "img/4212.png"
+  },
+  {
+   "i": 4213,
+   "number": "USD680117S1",
+   "title": "Docking station for tablet computer",
+   "assignee": "Acer Incorporated",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/4213.png"
+  },
+  {
+   "i": 4214,
+   "number": "USD589547S1",
+   "title": "Video camera with recorder and player",
+   "assignee": "Panasonic Corporation",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/4214.png"
+  },
+  {
+   "i": 4215,
+   "number": "USD347838S",
+   "title": "Television receiver",
+   "assignee": "Mitsubishi Denki Kabushiki Kaisha",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/4215.png"
+  },
+  {
+   "i": 4216,
+   "number": "USD855611S1",
+   "title": "Display device",
+   "assignee": "Dell Products L.P.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/4216.png"
+  },
+  {
+   "i": 4217,
+   "number": "USD621726S1",
+   "title": "Wristwatch",
+   "assignee": "The Swatch Group Management Services Ag",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/4217.png"
+  },
+  {
+   "i": 4218,
+   "number": "USD644625S1",
+   "title": "Microphone for a headset",
+   "assignee": "Sony Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/4218.png"
+  },
+  {
+   "i": 4219,
+   "number": "USD1048001S1",
+   "title": "Electronic device",
+   "assignee": "Apple Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/4219.png"
+  },
+  {
+   "i": 4220,
+   "number": "USD662963S1",
+   "title": "Digital camera",
+   "assignee": "Nikon Corporation",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/4220.png"
+  },
+  {
+   "i": 4221,
+   "number": "USD435572S",
+   "title": "Camera with a display",
+   "assignee": "Sony Corporation",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/4221.png"
+  },
+  {
+   "i": 4222,
+   "number": "USD925495S1",
+   "title": "Earphone",
+   "assignee": "Shenzhen Blue Times Technology Co., Ltd",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/4222.png"
+  },
+  {
+   "i": 4223,
+   "number": "USD526284S1",
+   "title": "Television set",
+   "assignee": "Hanspree, Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/4223.png"
+  },
+  {
+   "i": 4224,
+   "number": "USD492664S1",
+   "title": "Remote control",
+   "assignee": "Sharper Image Corporation",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/4224.png"
+  },
+  {
+   "i": 4225,
+   "number": "USD675118S1",
+   "title": "Activity monitor",
+   "assignee": "Omron Healthcare Co., Ltd.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/4225.png"
+  },
+  {
+   "i": 4226,
+   "number": "USD451603S1",
+   "title": "Electronic display device",
+   "assignee": "Dj Orthopedics, Llc",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/4226.png"
+  },
+  {
+   "i": 4227,
+   "number": "USD381963S",
+   "title": "Electronic organizer",
+   "assignee": "Idt International Limited",
+   "year": 1997,
+   "figures": 2,
+   "file": "img/4227.png"
+  },
+  {
+   "i": 4228,
+   "number": "USD962196S1",
+   "title": "Smart speaker set",
+   "assignee": "Advanced New Technologies Co., Ltd.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/4228.png"
+  },
+  {
+   "i": 4229,
+   "number": "USD648722S1",
+   "title": "Electronic reader",
+   "assignee": "Openmoko Inc.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/4229.png"
+  },
+  {
+   "i": 4230,
+   "number": "USD534922S1",
+   "title": "Portable media player",
+   "assignee": "Hon Hai Precision Industry Co. Ltd",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/4230.png"
+  },
+  {
+   "i": 4231,
+   "number": "USD290003S",
+   "title": "Video cassette recorder cleaner",
+   "assignee": "Allsop, Inc.",
+   "year": 1987,
+   "figures": 2,
+   "file": "img/4231.png"
+  },
+  {
+   "i": 4232,
+   "number": "USD912009S1",
+   "title": "Audio player",
+   "assignee": "Saregama India Limited",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/4232.png"
+  },
+  {
+   "i": 4233,
+   "number": "USD324874S",
+   "title": "Camcorder shoulder rest with handle",
+   "assignee": "Kardach Gerald E",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/4233.png"
+  },
+  {
+   "i": 4234,
+   "number": "USD213852S",
+   "title": "Photographic camera or similar article",
+   "assignee": "",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/4234.png"
+  },
+  {
+   "i": 4235,
+   "number": "USD421013S",
+   "title": "Pager",
+   "assignee": "Sony Corporation",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/4235.png"
+  },
+  {
+   "i": 4236,
+   "number": "USD571349S1",
+   "title": "Digital audio player with tuner for vehicle",
+   "assignee": "Alpine Electronics, Inc.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/4236.png"
+  },
+  {
+   "i": 4237,
+   "number": "USD673558S1",
+   "title": "Laptop computer",
+   "assignee": "J. P. S\u00e1\u00b4Couto",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/4237.png"
+  },
+  {
+   "i": 4238,
+   "number": "USD592620S1",
+   "title": "Set top box",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/4238.png"
+  },
+  {
+   "i": 4239,
+   "number": "USD902290S1",
+   "title": "Head-mounted display",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/4239.png"
+  },
+  {
+   "i": 4240,
+   "number": "USD989069S1",
+   "title": "Smart watch",
+   "assignee": "Yuxiang Wei",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/4240.png"
+  },
+  {
+   "i": 4241,
+   "number": "USD256361S",
+   "title": "Radio receiver",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/4241.png"
+  },
+  {
+   "i": 4242,
+   "number": "USD371775S",
+   "title": "Portable computer keyboard",
+   "assignee": "Texas Instruments Incorporated",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/4242.png"
+  },
+  {
+   "i": 4243,
+   "number": "USD502196S1",
+   "title": "Video camera",
+   "assignee": "Sony Corporation",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/4243.png"
+  },
+  {
+   "i": 4244,
+   "number": "USD1033378S1",
+   "title": "Television receiver",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/4244.png"
+  },
+  {
+   "i": 4245,
+   "number": "USD787867S1",
+   "title": "Display device",
+   "assignee": "Soremartec S.A.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/4245.png"
+  },
+  {
+   "i": 4246,
+   "number": "USD293300S",
+   "title": "Wristwatch",
+   "assignee": "Casio Computer Co., Ltd.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/4246.png"
+  },
+  {
+   "i": 4247,
+   "number": "USD1050088S1",
+   "title": "Microphone",
+   "assignee": "Shenzhen Xunweijia Technology Development Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/4247.png"
+  },
+  {
+   "i": 4248,
+   "number": "USD389484S",
+   "title": "Loudspeaker",
+   "assignee": "MB Quart Electronics U.S.A., Inc.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/4248.png"
+  },
+  {
+   "i": 4249,
+   "number": "USD965667S1",
+   "title": "Projector",
+   "assignee": "Shenzhen Wanjiang Technology Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/4249.png"
+  },
+  {
+   "i": 4250,
+   "number": "USD984974S1",
+   "title": "Television",
+   "assignee": "Beijing Xiaomi Mobile Software Co., Ltd.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/4250.png"
+  },
+  {
+   "i": 4251,
+   "number": "USD595696S1",
+   "title": "Remote control",
+   "assignee": "Wilo Se",
+   "year": 2009,
+   "figures": 3,
+   "file": "img/4251.png"
+  },
+  {
+   "i": 4252,
+   "number": "USD294491S",
+   "title": "Cassette player with tuner",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "year": 1988,
+   "figures": 2,
+   "file": "img/4252.png"
+  },
+  {
+   "i": 4253,
+   "number": "USD428414S",
+   "title": "Electronic organizer",
+   "assignee": "Sharp Kabushiki Kaisha",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/4253.png"
+  },
+  {
+   "i": 4254,
+   "number": "USD560683S1",
+   "title": "Portable media player",
+   "assignee": "Coby Electronics Corporation",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/4254.png"
+  },
+  {
+   "i": 4255,
+   "number": "USD323497S",
+   "title": "Video cassette recorder",
+   "assignee": "Gold Star Co., Ltd.",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/4255.png"
+  },
+  {
+   "i": 4256,
+   "number": "USD481719S1",
+   "title": "Personal digital assistant",
+   "assignee": "Nec Infrontia Corporation",
+   "year": 2003,
+   "figures": 3,
+   "file": "img/4256.png"
+  },
+  {
+   "i": 4257,
+   "number": "USD689110S1",
+   "title": "Camcorder",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/4257.png"
+  },
+  {
+   "i": 4258,
+   "number": "USD253475S",
+   "title": "Photographic camera",
+   "assignee": "Rollei-Werke Franke & Heidecke",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/4258.png"
+  },
+  {
+   "i": 4259,
+   "number": "USD477583S1",
+   "title": "Cordless telephone handset",
+   "assignee": "Siemens Information& Communication Mobile Llc",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/4259.png"
+  },
+  {
+   "i": 4260,
+   "number": "USD1019645S1",
+   "title": "Computer keyboard",
+   "assignee": "Glorious Llc",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/4260.png"
+  },
+  {
+   "i": 4261,
+   "number": "USD607898S1",
+   "title": "Digital audio player",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/4261.png"
+  },
+  {
+   "i": 4262,
+   "number": "USD617777S1",
+   "title": "Set-top box remote control",
+   "assignee": "Cisco Technology, Inc.",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/4262.png"
+  },
+  {
+   "i": 4263,
+   "number": "USD831027S1",
+   "title": "Head mounted display device",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/4263.png"
+  },
+  {
+   "i": 4264,
+   "number": "USD1078732S1",
+   "title": "Smart watch",
+   "assignee": "Shenzhen Yuanhuan Technology Co., LTD",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/4264.png"
+  },
+  {
+   "i": 4265,
+   "number": "USD390210S",
+   "title": "Computer mouse",
+   "assignee": "Bickford Michael D",
+   "year": 1998,
+   "figures": 2,
+   "file": "img/4265.png"
+  },
+  {
+   "i": 4266,
+   "number": "USD778903S1",
+   "title": "Tablet computer",
+   "assignee": "Getac Technology Corporation",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/4266.png"
+  },
+  {
+   "i": 4267,
+   "number": "USD445814S1",
+   "title": "Video camera with combined digital video disc recorder",
+   "assignee": "Hitachi, Ltd.",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/4267.png"
+  },
+  {
+   "i": 4268,
+   "number": "USD246075S",
+   "title": "Display device for use with colored flicker plates",
+   "assignee": "Taketoshi Kato",
+   "year": 1977,
+   "figures": 1,
+   "file": "img/4268.png"
+  },
+  {
+   "i": 4269,
+   "number": "USD959292S1",
+   "title": "Wristwatch",
+   "assignee": "Herbert Jennings",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/4269.png"
+  },
+  {
+   "i": 4270,
+   "number": "USD1017582S1",
+   "title": "Loudspeaker grille",
+   "assignee": "Crestron Electronics, Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/4270.png"
+  },
+  {
+   "i": 4271,
+   "number": "USD436980S1",
+   "title": "Projector",
+   "assignee": "Nec Corporation",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/4271.png"
+  },
+  {
+   "i": 4272,
+   "number": "USD542318S1",
+   "title": "Digital camera",
+   "assignee": "Casio Keisanki Kabushiki Kaisha",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/4272.png"
+  },
+  {
+   "i": 4273,
+   "number": "USD736847S1",
+   "title": "Camera lens",
+   "assignee": "Nikon Corporation",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/4273.png"
+  },
+  {
+   "i": 4274,
+   "number": "USD981980S1",
+   "title": "Mobile phone",
+   "assignee": "Hmd Global Oy",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/4274.png"
+  },
+  {
+   "i": 4275,
+   "number": "USD297731S",
+   "title": "Cassette-player",
+   "assignee": "U.S. Philips Corp.",
+   "year": 1988,
+   "figures": 2,
+   "file": "img/4275.png"
+  },
+  {
+   "i": 4276,
+   "number": "USD949124S1",
+   "title": "Smart speaker",
+   "assignee": "Comcast Cable Communications, Llc",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/4276.png"
+  },
+  {
+   "i": 4277,
+   "number": "USD669470S1",
+   "title": "Electronic reader device",
+   "assignee": "Creative Technology Ltd",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/4277.png"
+  },
+  {
+   "i": 4278,
+   "number": "USD646664S1",
+   "title": "Portable media player",
+   "assignee": "Coby Electronics Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/4278.png"
+  },
+  {
+   "i": 4279,
+   "number": "USD716799S1",
+   "title": "Electronic tablet device",
+   "assignee": "Amazon Technologies, Inc.",
+   "year": 2014,
+   "figures": 2,
+   "file": "img/4279.png"
+  },
+  {
+   "i": 4280,
+   "number": "USD328895S",
+   "title": "Compact disc player",
+   "assignee": "U.S. Philips Corporation",
+   "year": 1992,
+   "figures": 2,
+   "file": "img/4280.png"
+  },
+  {
+   "i": 4281,
+   "number": "USD359306S",
+   "title": "Electronic book computer for entering and reading written material",
+   "assignee": "Booklink Corporation",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/4281.png"
+  },
+  {
+   "i": 4282,
+   "number": "USD908658S1",
+   "title": "Record player",
+   "assignee": "Shenzhen 1Byone Brothers Technology Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/4282.png"
+  },
+  {
+   "i": 4283,
+   "number": "USD695787S1",
+   "title": "Audio player",
+   "assignee": "Sony Corporation",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/4283.png"
+  },
+  {
+   "i": 4284,
+   "number": "USD284579S",
+   "title": "Photographic camera",
+   "assignee": "Minolta Camera Kabushiki Kaisha",
+   "year": 1986,
+   "figures": 2,
+   "file": "img/4284.png"
+  },
+  {
+   "i": 4285,
+   "number": "USD529503S1",
+   "title": "Computer keyboard with height adjustable keypad",
+   "assignee": "Davis Yvette T",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/4285.png"
+  },
+  {
+   "i": 4286,
+   "number": "USD438525S1",
+   "title": "Digital audio player",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/4286.png"
+  },
+  {
+   "i": 4287,
+   "number": "USD836628S1",
+   "title": "Head mounted display",
+   "assignee": "Dell Products L.P.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/4287.png"
+  },
+  {
+   "i": 4288,
+   "number": "USD598892S1",
+   "title": "Radio receiver",
+   "assignee": "Sony Corporation",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/4288.png"
+  },
+  {
+   "i": 4289,
+   "number": "USD795248S1",
+   "title": "Tablet computer",
+   "assignee": "Intel Corporation",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/4289.png"
+  },
+  {
+   "i": 4290,
+   "number": "USD438539S1",
+   "title": "Portable computer",
+   "assignee": "Compal Electronics, Inc.",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/4290.png"
+  },
+  {
+   "i": 4291,
+   "number": "USD476022S1",
+   "title": "Video camera",
+   "assignee": "Sony Corporation",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/4291.png"
+  },
+  {
+   "i": 4292,
+   "number": "USD533467S1",
+   "title": "Wristwatch",
+   "assignee": "Luxury Timepieces International Sa",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/4292.png"
+  },
+  {
+   "i": 4293,
+   "number": "USD814446S1",
+   "title": "Microphone",
+   "assignee": "Freedman Electronics Pty. Ltd.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/4293.png"
+  },
+  {
+   "i": 4294,
+   "number": "USD911417S1",
+   "title": "Camera",
+   "assignee": "Axis Ab",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/4294.png"
+  },
+  {
+   "i": 4295,
+   "number": "USD566108S1",
+   "title": "Earphone",
+   "assignee": "Darfon Electronics Corp.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/4295.png"
+  },
+  {
+   "i": 4296,
+   "number": "USD505404S1",
+   "title": "Television console",
+   "assignee": "Hitachi Home Electronics (America), Inc.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/4296.png"
+  },
+  {
+   "i": 4297,
+   "number": "USD725609S1",
+   "title": "Remote control",
+   "assignee": "Umm Al-Qura University",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/4297.png"
+  },
+  {
+   "i": 4298,
+   "number": "USD288438S",
+   "title": "Cassette player",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/4298.png"
+  },
+  {
+   "i": 4299,
+   "number": "USD482013S1",
+   "title": "Compact disc player",
+   "assignee": "Coby Electronics Corporation",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/4299.png"
   }
  ]
 }

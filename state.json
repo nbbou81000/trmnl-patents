@@ -48,7 +48,9 @@
   "radio receiver": "complete",
   "headphone": "complete",
   "earphone": "complete",
-  "loudspeaker": 3
+  "loudspeaker": "complete",
+  "smart speaker": "complete",
+  "microphone": 5
  },
- "throttled_at": "2026-09-06T00:50:13.999Z"
+ "throttled_at": "2026-09-06T05:48:32.581Z"
 }

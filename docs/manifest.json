@@ -1,6 +1,6 @@
 {
- "count": 7068,
- "generated_at": 1788714756,
+ "count": 7168,
+ "generated_at": 1788714952,
  "items": [
   {
    "i": 0,
@@ -70681,6 +70681,1006 @@
    "year": 2016,
    "figures": 2,
    "file": "img/7067.png"
+  },
+  {
+   "i": 7068,
+   "number": "USD803612S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Societe Des Produits Nestle S.A.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/7068.png"
+  },
+  {
+   "i": 7069,
+   "number": "USD405459S",
+   "term": "electric guitar",
+   "title": "Electric guitar body",
+   "assignee": "Gibson Guitar Corp.",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/7069.png"
+  },
+  {
+   "i": 7070,
+   "number": "USD160703S",
+   "term": "microscope",
+   "title": "Gallasch microscope",
+   "assignee": "Bausch a Lomb Optical Company",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/7070.png"
+  },
+  {
+   "i": 7071,
+   "number": "USD553425S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Hamilton Beach/Proctor-Silex, Inc.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/7071.png"
+  },
+  {
+   "i": 7072,
+   "number": "USD1028600S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7072.png"
+  },
+  {
+   "i": 7073,
+   "number": "USD290130S",
+   "term": "electric guitar",
+   "title": "Electric guitar with bolt-on neck",
+   "assignee": "Steinberger Sound Corporation",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/7073.png"
+  },
+  {
+   "i": 7074,
+   "number": "USD680567S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Olympus Corporation",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/7074.png"
+  },
+  {
+   "i": 7075,
+   "number": "USD992338S1",
+   "term": "blender",
+   "title": "Blender and blender base",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/7075.png"
+  },
+  {
+   "i": 7076,
+   "number": "USD421360S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corp.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/7076.png"
+  },
+  {
+   "i": 7077,
+   "number": "USD1015414S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Yamaha Corporation",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7077.png"
+  },
+  {
+   "i": 7078,
+   "number": "USD465799S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Olympus Optical Co., Ltd.",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/7078.png"
+  },
+  {
+   "i": 7079,
+   "number": "USD988067S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "E. Mishan & Sons, Inc.",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/7079.png"
+  },
+  {
+   "i": 7080,
+   "number": "USD586604S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Jura Elektroapparate Ag",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/7080.png"
+  },
+  {
+   "i": 7081,
+   "number": "USD417691S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "",
+   "year": 1999,
+   "figures": 3,
+   "file": "img/7081.png"
+  },
+  {
+   "i": 7082,
+   "number": "USD928983S1",
+   "term": "microscope",
+   "title": "Microscope cartridge rack",
+   "assignee": "Laxco Incorporated",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/7082.png"
+  },
+  {
+   "i": 7083,
+   "number": "USD805344S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/7083.png"
+  },
+  {
+   "i": 7084,
+   "number": "USD91869S",
+   "term": "coffee maker",
+   "title": "Design foe a coffee maker",
+   "assignee": "",
+   "year": 1934,
+   "figures": 1,
+   "file": "img/7084.png"
+  },
+  {
+   "i": 7085,
+   "number": "USD442208S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Richard S. Shafer",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/7085.png"
+  },
+  {
+   "i": 7086,
+   "number": "USD832641S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Capbran Holdings, Llc",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/7086.png"
+  },
+  {
+   "i": 7087,
+   "number": "USD453441S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Yuan-Hong Li",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/7087.png"
+  },
+  {
+   "i": 7088,
+   "number": "USD186826S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "",
+   "year": 1959,
+   "figures": 1,
+   "file": "img/7088.png"
+  },
+  {
+   "i": 7089,
+   "number": "USD198403S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Bausch a Loiub Incorporated",
+   "year": 1964,
+   "figures": 1,
+   "file": "img/7089.png"
+  },
+  {
+   "i": 7090,
+   "number": "USD654305S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Euro-Pro Operating Llc",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/7090.png"
+  },
+  {
+   "i": 7091,
+   "number": "USD625136S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "The Coleman Company, Inc.",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/7091.png"
+  },
+  {
+   "i": 7092,
+   "number": "USD309745S",
+   "term": "electric guitar",
+   "title": "Electric guitar body",
+   "assignee": "Matheny Michael M",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/7092.png"
+  },
+  {
+   "i": 7093,
+   "number": "USD181896S",
+   "term": "microscope",
+   "title": "Microscope body tube unit",
+   "assignee": "Bauscfa a Lomb Optical Company",
+   "year": 1958,
+   "figures": 1,
+   "file": "img/7093.png"
+  },
+  {
+   "i": 7094,
+   "number": "USD215569S",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/7094.png"
+  },
+  {
+   "i": 7095,
+   "number": "USD630039S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Rebecca Lin International Corp.",
+   "year": 2011,
+   "figures": 3,
+   "file": "img/7095.png"
+  },
+  {
+   "i": 7096,
+   "number": "USD240764S",
+   "term": "electric guitar",
+   "title": "Patent USD240764S",
+   "assignee": "",
+   "year": 1976,
+   "figures": 1,
+   "file": "img/7096.png"
+  },
+  {
+   "i": 7097,
+   "number": "USD161469S",
+   "term": "microscope",
+   "title": "Kurtz microscope",
+   "assignee": "Bausch a Iiomb Optical Company",
+   "year": 1951,
+   "figures": 1,
+   "file": "img/7097.png"
+  },
+  {
+   "i": 7098,
+   "number": "USD862975S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Pi-Design Ag",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/7098.png"
+  },
+  {
+   "i": 7099,
+   "number": "USD447903S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corporation",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/7099.png"
+  },
+  {
+   "i": 7100,
+   "number": "USD923082S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Hoshino Gakki Co., Ltd.",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/7100.png"
+  },
+  {
+   "i": 7101,
+   "number": "USD170931S",
+   "term": "microscope",
+   "title": "Microscope illuminator",
+   "assignee": "Bausch a Lomb Optical Company",
+   "year": 1953,
+   "figures": 1,
+   "file": "img/7101.png"
+  },
+  {
+   "i": 7102,
+   "number": "USD552412S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Hamilton Beach/Proctor-Silex, Inc.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/7102.png"
+  },
+  {
+   "i": 7103,
+   "number": "USD371270S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/7103.png"
+  },
+  {
+   "i": 7104,
+   "number": "USD280330S",
+   "term": "electric guitar",
+   "title": "Electric guitar string locking device",
+   "assignee": "Tokai Gakki Co., Ltd.",
+   "year": 1985,
+   "figures": 1,
+   "file": "img/7104.png"
+  },
+  {
+   "i": 7105,
+   "number": "USD354761S",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Swift Instruments, Inc.",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/7105.png"
+  },
+  {
+   "i": 7106,
+   "number": "USD339715S",
+   "term": "blender",
+   "title": "Blender appliance",
+   "assignee": "Moulinex (Societe Anonyme)",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/7106.png"
+  },
+  {
+   "i": 7107,
+   "number": "USD317546S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "North American Philips Corporation",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/7107.png"
+  },
+  {
+   "i": 7108,
+   "number": "USD1048166S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Luis Jose Ortiz Samar",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/7108.png"
+  },
+  {
+   "i": 7109,
+   "number": "USD1075401S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/7109.png"
+  },
+  {
+   "i": 7110,
+   "number": "USD707070S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "De'Longhi Appliances S.R.L. Con Unico Socio",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/7110.png"
+  },
+  {
+   "i": 7111,
+   "number": "USD254792S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Baldwin Piano & Organ Company",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/7111.png"
+  },
+  {
+   "i": 7112,
+   "number": "USD1018622S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Beaver Technology (Shenzhen) Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/7112.png"
+  },
+  {
+   "i": 7113,
+   "number": "USD613547S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Sunbeam Products, Inc.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/7113.png"
+  },
+  {
+   "i": 7114,
+   "number": "USD530969S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corp.",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/7114.png"
+  },
+  {
+   "i": 7115,
+   "number": "USD311750S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Roberts Curt P",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/7115.png"
+  },
+  {
+   "i": 7116,
+   "number": "USD440242S1",
+   "term": "microscope",
+   "title": "Microscope slide moisture chamber assembly",
+   "assignee": "Evergreen Industries, Inc.",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/7116.png"
+  },
+  {
+   "i": 7117,
+   "number": "USD884405S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Peugeot Saveurs",
+   "year": 2020,
+   "figures": 3,
+   "file": "img/7117.png"
+  },
+  {
+   "i": 7118,
+   "number": "USD517114S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Paul Reed Smith Guitars Lp",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/7118.png"
+  },
+  {
+   "i": 7119,
+   "number": "USD246564S",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Sunbeam Corporation",
+   "year": 1977,
+   "figures": 2,
+   "file": "img/7119.png"
+  },
+  {
+   "i": 7120,
+   "number": "USD86426S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "",
+   "year": 1932,
+   "figures": 1,
+   "file": "img/7120.png"
+  },
+  {
+   "i": 7121,
+   "number": "USD407430S",
+   "term": "electric guitar",
+   "title": "Electric guitar body",
+   "assignee": "Gibson Guitar Corp.",
+   "year": 1999,
+   "figures": 3,
+   "file": "img/7121.png"
+  },
+  {
+   "i": 7122,
+   "number": "USD577047S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Leica Microsystems (Schweiz) Ag",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/7122.png"
+  },
+  {
+   "i": 7123,
+   "number": "USD611760S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Conair Corporation",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/7123.png"
+  },
+  {
+   "i": 7124,
+   "number": "USD892530S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Koninklijke Philips N.V.",
+   "year": 2020,
+   "figures": 3,
+   "file": "img/7124.png"
+  },
+  {
+   "i": 7125,
+   "number": "USD257727S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Baldwin Piano And Organ Company",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/7125.png"
+  },
+  {
+   "i": 7126,
+   "number": "USD646518S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "De' Longhi Appliances Srl Con Unico Socio",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/7126.png"
+  },
+  {
+   "i": 7127,
+   "number": "USD768763S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Yamaha Corporation",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/7127.png"
+  },
+  {
+   "i": 7128,
+   "number": "USD95670S",
+   "term": "microscope",
+   "title": "Design for a microscope",
+   "assignee": "",
+   "year": 1935,
+   "figures": 1,
+   "file": "img/7128.png"
+  },
+  {
+   "i": 7129,
+   "number": "USD862961S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "K-Fee System Gmbh",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/7129.png"
+  },
+  {
+   "i": 7130,
+   "number": "USD344747S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Harper James S",
+   "year": 1994,
+   "figures": 2,
+   "file": "img/7130.png"
+  },
+  {
+   "i": 7131,
+   "number": "USD702078S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Euro-Pro Operating Llc",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/7131.png"
+  },
+  {
+   "i": 7132,
+   "number": "USD542078S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/7132.png"
+  },
+  {
+   "i": 7133,
+   "number": "USD400563S",
+   "term": "electric guitar",
+   "title": "Electric guitar body",
+   "assignee": "Jones Phillip R",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/7133.png"
+  },
+  {
+   "i": 7134,
+   "number": "USD509521S1",
+   "term": "microscope",
+   "title": "Microscope with tripod base",
+   "assignee": "Swift Instruments, Inc.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/7134.png"
+  },
+  {
+   "i": 7135,
+   "number": "USD845698S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Vita-Mix Management Corporation",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/7135.png"
+  },
+  {
+   "i": 7136,
+   "number": "USD646107S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Jura Elecktroapparate AG",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/7136.png"
+  },
+  {
+   "i": 7137,
+   "number": "USD568377S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Kwang Won Kim",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/7137.png"
+  },
+  {
+   "i": 7138,
+   "number": "USD866630S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Laxco Incorporated",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/7138.png"
+  },
+  {
+   "i": 7139,
+   "number": "USD336590S",
+   "term": "blender",
+   "title": "Blender with pitcher and base components",
+   "assignee": "Vita-Mix Corporation",
+   "year": 1993,
+   "figures": 2,
+   "file": "img/7139.png"
+  },
+  {
+   "i": 7140,
+   "number": "USD134169S",
+   "term": "coffee maker",
+   "title": "Design for a coffee maker",
+   "assignee": "Sears",
+   "year": 1942,
+   "figures": 1,
+   "file": "img/7140.png"
+  },
+  {
+   "i": 7141,
+   "number": "USD258290S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Matsumoku Kogyo Kabushiki Kaisha",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/7141.png"
+  },
+  {
+   "i": 7142,
+   "number": "USD1072900S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Xiling Jian",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/7142.png"
+  },
+  {
+   "i": 7143,
+   "number": "USD661947S1",
+   "term": "blender",
+   "title": "Blender jar",
+   "assignee": "Whirlpool Corporation",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/7143.png"
+  },
+  {
+   "i": 7144,
+   "number": "USD501751S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corp.",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/7144.png"
+  },
+  {
+   "i": 7145,
+   "number": "USD565093S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Legendary Sound International Ltd.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/7145.png"
+  },
+  {
+   "i": 7146,
+   "number": "USD477008S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Olympus Optical Co., Ltd.",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/7146.png"
+  },
+  {
+   "i": 7147,
+   "number": "USD501352S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Uni-Splendor Corp.",
+   "year": 2005,
+   "figures": 2,
+   "file": "img/7147.png"
+  },
+  {
+   "i": 7148,
+   "number": "USD334764S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Fisher Iv Charles H",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/7148.png"
+  },
+  {
+   "i": 7149,
+   "number": "USD273898S",
+   "term": "microscope",
+   "title": "Microscope laboratory slide",
+   "assignee": "Immuno Concepts, Inc.",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/7149.png"
+  },
+  {
+   "i": 7150,
+   "number": "USD530565S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Seb S.A.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/7150.png"
+  },
+  {
+   "i": 7151,
+   "number": "USD863857S1",
+   "term": "coffee maker",
+   "title": "Coffee maker and carafe",
+   "assignee": "Helen Of Troy Limited",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/7151.png"
+  },
+  {
+   "i": 7152,
+   "number": "USD114105S",
+   "term": "electric guitar",
+   "title": "Design fob an electric guitar",
+   "assignee": "",
+   "year": 1939,
+   "figures": 1,
+   "file": "img/7152.png"
+  },
+  {
+   "i": 7153,
+   "number": "USD691185S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Leading Extreme Optimist Industries, Ltd.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/7153.png"
+  },
+  {
+   "i": 7154,
+   "number": "USD530975S1",
+   "term": "blender",
+   "title": "Blender device",
+   "assignee": "Products Of Tomorrow, Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/7154.png"
+  },
+  {
+   "i": 7155,
+   "number": "USD80014S",
+   "term": "coffee maker",
+   "title": "Design for a coppee ma",
+   "assignee": "",
+   "year": 1929,
+   "figures": 1,
+   "file": "img/7155.png"
+  },
+  {
+   "i": 7156,
+   "number": "USD928865S1",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Martin Keith Walker",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/7156.png"
+  },
+  {
+   "i": 7157,
+   "number": "USD431581S",
+   "term": "microscope",
+   "title": "Microscope accessory for controlled movement of an object table",
+   "assignee": "Bohuslandstinget",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/7157.png"
+  },
+  {
+   "i": 7158,
+   "number": "USD320716S",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Robert Krups Stiftung & Co. Kg",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/7158.png"
+  },
+  {
+   "i": 7159,
+   "number": "USD735518S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "De'Longhi Appliances, S.R.L. Con Unico Socio",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/7159.png"
+  },
+  {
+   "i": 7160,
+   "number": "USD337125S",
+   "term": "electric guitar",
+   "title": "Electric guitar body",
+   "assignee": "Rundell Joseph S",
+   "year": 1993,
+   "figures": 2,
+   "file": "img/7160.png"
+  },
+  {
+   "i": 7161,
+   "number": "USD647551S1",
+   "term": "microscope",
+   "title": "Microscope",
+   "assignee": "Vision Engineering Limited",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/7161.png"
+  },
+  {
+   "i": 7162,
+   "number": "USD484357S1",
+   "term": "blender",
+   "title": "Blender",
+   "assignee": "Whirlpool Corporation",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/7162.png"
+  },
+  {
+   "i": 7163,
+   "number": "USD384540S",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Pi-Design Ag",
+   "year": 1997,
+   "figures": 3,
+   "file": "img/7163.png"
+  },
+  {
+   "i": 7164,
+   "number": "USD260404S",
+   "term": "electric guitar",
+   "title": "Electric guitar",
+   "assignee": "Gabriel H Donald",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/7164.png"
+  },
+  {
+   "i": 7165,
+   "number": "USD696063S1",
+   "term": "blender",
+   "title": "Blender base",
+   "assignee": "Euro-Pro Operating Llc",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/7165.png"
+  },
+  {
+   "i": 7166,
+   "number": "USD845054S1",
+   "term": "coffee maker",
+   "title": "Coffee maker",
+   "assignee": "Spectrum Brands, Inc.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/7166.png"
+  },
+  {
+   "i": 7167,
+   "number": "USD662539S1",
+   "term": "electric guitar",
+   "title": "Electric guitar design",
+   "assignee": "Sohrab Mohajerin",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/7167.png"
   }
  ]
 }

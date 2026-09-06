@@ -1,6 +1,6 @@
 {
- "count": 5568,
- "generated_at": 1788707511,
+ "count": 5668,
+ "generated_at": 1788707770,
  "items": [
   {
    "i": 0,
@@ -55681,6 +55681,1006 @@
    "year": 1993,
    "figures": 2,
    "file": "img/5567.png"
+  },
+  {
+   "i": 5568,
+   "number": "USD342538S",
+   "term": "video camera",
+   "title": "Video camera with video tape recorder",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 1993,
+   "figures": 2,
+   "file": "img/5568.png"
+  },
+  {
+   "i": 5569,
+   "number": "USD366471S",
+   "term": "disk drive",
+   "title": "Disk drive unit",
+   "assignee": "Teac Corporation",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/5569.png"
+  },
+  {
+   "i": 5570,
+   "number": "USD512405S1",
+   "term": "video cassette recorder",
+   "title": "Video cassette recorder",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/5570.png"
+  },
+  {
+   "i": 5571,
+   "number": "USD542819S1",
+   "term": "camcorder",
+   "title": "Camcorder",
+   "assignee": "Victor Company Of Japan, Limited",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/5571.png"
+  },
+  {
+   "i": 5572,
+   "number": "USD252399S",
+   "term": "photographic camera",
+   "title": "Photographic camera",
+   "assignee": "Rollei-Werke Franke & Heidecke",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/5572.png"
+  },
+  {
+   "i": 5573,
+   "number": "USD515099S1",
+   "term": "digital audio player",
+   "title": "Digital audio player",
+   "assignee": "Cowon Systems, Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/5573.png"
+  },
+  {
+   "i": 5574,
+   "number": "USD963630S1",
+   "term": "router",
+   "title": "Router",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/5574.png"
+  },
+  {
+   "i": 5575,
+   "number": "USD594828S1",
+   "term": "set-top box",
+   "title": "Set-top box",
+   "assignee": "Zillion Tv Corporation",
+   "year": 2009,
+   "figures": 3,
+   "file": "img/5575.png"
+  },
+  {
+   "i": 5576,
+   "number": "USD1016810S1",
+   "term": "head mounted display",
+   "title": "Head-mounted display",
+   "assignee": "Sony Interactive Entertainment Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/5576.png"
+  },
+  {
+   "i": 5577,
+   "number": "USD570099S1",
+   "term": "calculator",
+   "title": "Calculator pencil box",
+   "assignee": "Sun Coast Merchandise Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/5577.png"
+  },
+  {
+   "i": 5578,
+   "number": "USD332960S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Smith Corona Corporation",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/5578.png"
+  },
+  {
+   "i": 5579,
+   "number": "USD552097S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Seiko Epson Corporation",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/5579.png"
+  },
+  {
+   "i": 5580,
+   "number": "USD477346S1",
+   "term": "video camera",
+   "title": "Video camera",
+   "assignee": "Sony Corporation",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/5580.png"
+  },
+  {
+   "i": 5581,
+   "number": "USD282171S",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/5581.png"
+  },
+  {
+   "i": 5582,
+   "number": "USD270430S",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Kabushiki Kaisha Daini Seikosha",
+   "year": 1983,
+   "figures": 1,
+   "file": "img/5582.png"
+  },
+  {
+   "i": 5583,
+   "number": "USD609019S1",
+   "term": "digital photo frame",
+   "title": "Digital photo frame",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/5583.png"
+  },
+  {
+   "i": 5584,
+   "number": "USD836601S1",
+   "term": "audio player",
+   "title": "Audio player",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/5584.png"
+  },
+  {
+   "i": 5585,
+   "number": "USD533202S1",
+   "term": "router",
+   "title": "Router bit",
+   "assignee": "Falcom Co., Ltd.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/5585.png"
+  },
+  {
+   "i": 5586,
+   "number": "USD307156S",
+   "term": "calculator",
+   "title": "Calculator or similar article",
+   "assignee": "Cal-Comp Electronics, Inc.",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/5586.png"
+  },
+  {
+   "i": 5587,
+   "number": "USD325735S",
+   "term": "radio receiver",
+   "title": "Radio receiver",
+   "assignee": "U.S. Philips Corporation",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/5587.png"
+  },
+  {
+   "i": 5588,
+   "number": "USD284672S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "International Business Machines Corporation",
+   "year": 1986,
+   "figures": 2,
+   "file": "img/5588.png"
+  },
+  {
+   "i": 5589,
+   "number": "USD317619S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator with solar cell",
+   "assignee": "Sharp Corporation",
+   "year": 1991,
+   "figures": 1,
+   "file": "img/5589.png"
+  },
+  {
+   "i": 5590,
+   "number": "USD958794S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Pfu Limited",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/5590.png"
+  },
+  {
+   "i": 5591,
+   "number": "USD386771S",
+   "term": "video camera",
+   "title": "Video camera with video tape recorder",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 1997,
+   "figures": 2,
+   "file": "img/5591.png"
+  },
+  {
+   "i": 5592,
+   "number": "USD571325S1",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Sony Corporation",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/5592.png"
+  },
+  {
+   "i": 5593,
+   "number": "USD306250S",
+   "term": "router",
+   "title": "Router guide for door hinges",
+   "assignee": "Kyrklund John A",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/5593.png"
+  },
+  {
+   "i": 5594,
+   "number": "USD593972S1",
+   "term": "set-top box",
+   "title": "Set top box",
+   "assignee": "Samsung Electronics, Co., Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/5594.png"
+  },
+  {
+   "i": 5595,
+   "number": "USD997940S1",
+   "term": "head mounted display",
+   "title": "Head-mounted display device",
+   "assignee": "Qingdao Pico Technology Co., Ltd.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/5595.png"
+  },
+  {
+   "i": 5596,
+   "number": "USD287370S",
+   "term": "calculator",
+   "title": "Calculator for a shopping cart",
+   "assignee": "Stoll Scott A",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/5596.png"
+  },
+  {
+   "i": 5597,
+   "number": "USD219621S",
+   "term": "radio receiver",
+   "title": "Radio receiver",
+   "assignee": "",
+   "year": 1970,
+   "figures": 1,
+   "file": "img/5597.png"
+  },
+  {
+   "i": 5598,
+   "number": "USD331594S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Sharp Corporation",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/5598.png"
+  },
+  {
+   "i": 5599,
+   "number": "USD810190S1",
+   "term": "electronic calculator",
+   "title": "Electronic calculator",
+   "assignee": "Sharp Kabushiki Kaisha",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/5599.png"
+  },
+  {
+   "i": 5600,
+   "number": "USD533555S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Nobel Biocare Services Ag",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/5600.png"
+  },
+  {
+   "i": 5601,
+   "number": "USD446800S1",
+   "term": "video camera",
+   "title": "Video camera with video tape recorder",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/5601.png"
+  },
+  {
+   "i": 5602,
+   "number": "USD567194S1",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Pioneer Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/5602.png"
+  },
+  {
+   "i": 5603,
+   "number": "USD611841S1",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Bertolucci Sa",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/5603.png"
+  },
+  {
+   "i": 5604,
+   "number": "USD628218S1",
+   "term": "router",
+   "title": "Router bit guide",
+   "assignee": "C.M.T. Utensili S.P.A.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/5604.png"
+  },
+  {
+   "i": 5605,
+   "number": "USD674367S1",
+   "term": "set-top box",
+   "title": "Set top box",
+   "assignee": "Thomson Licensing",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/5605.png"
+  },
+  {
+   "i": 5606,
+   "number": "USD468342S1",
+   "term": "calculator",
+   "title": "Calculator",
+   "assignee": "Pi-Design Ag",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/5606.png"
+  },
+  {
+   "i": 5607,
+   "number": "USD354071S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Lexmark International, Inc.",
+   "year": 1995,
+   "figures": 1,
+   "file": "img/5607.png"
+  },
+  {
+   "i": 5608,
+   "number": "USD268422S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 1983,
+   "figures": 1,
+   "file": "img/5608.png"
+  },
+  {
+   "i": 5609,
+   "number": "USD709890S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Pfu Limited",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/5609.png"
+  },
+  {
+   "i": 5610,
+   "number": "USD562372S1",
+   "term": "video camera",
+   "title": "Video camera",
+   "assignee": "Sony Corporation",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/5610.png"
+  },
+  {
+   "i": 5611,
+   "number": "USD581887S1",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Sony Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/5611.png"
+  },
+  {
+   "i": 5612,
+   "number": "USD309576S",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Christian Dior S.A.",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/5612.png"
+  },
+  {
+   "i": 5613,
+   "number": "USD491576S1",
+   "term": "facsimile machine",
+   "title": "Facsimile machine",
+   "assignee": "Brother Industries, Limited",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/5613.png"
+  },
+  {
+   "i": 5614,
+   "number": "USD196396S",
+   "term": "photographic camera",
+   "title": "Photographic camera",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/5614.png"
+  },
+  {
+   "i": 5615,
+   "number": "USD628544S1",
+   "term": "digital audio player",
+   "title": "Digital audio player",
+   "assignee": "Clarion Co., Ltd.",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/5615.png"
+  },
+  {
+   "i": 5616,
+   "number": "USD769836S1",
+   "term": "set-top box",
+   "title": "Set-top box module and digital video recorder module",
+   "assignee": "Arris Enterprises, Inc.",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/5616.png"
+  },
+  {
+   "i": 5617,
+   "number": "USD247927S",
+   "term": "calculator",
+   "title": "Calculator casing",
+   "assignee": "Texas Instruments Incorporated",
+   "year": 1978,
+   "figures": 1,
+   "file": "img/5617.png"
+  },
+  {
+   "i": 5618,
+   "number": "USD160467S",
+   "term": "typewriter",
+   "title": "Typewriter frame",
+   "assignee": "Ing",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/5618.png"
+  },
+  {
+   "i": 5619,
+   "number": "USD222140S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/5619.png"
+  },
+  {
+   "i": 5620,
+   "number": "USD462687S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Seiko Epson Corporation",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/5620.png"
+  },
+  {
+   "i": 5621,
+   "number": "USD563913S1",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Pioneer Corporation",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/5621.png"
+  },
+  {
+   "i": 5622,
+   "number": "USD350072S",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Sportime Watches AG",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/5622.png"
+  },
+  {
+   "i": 5623,
+   "number": "USD551664S1",
+   "term": "personal digital assistant",
+   "title": "Personal digital assistant device",
+   "assignee": "First International Computer, Inc.",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/5623.png"
+  },
+  {
+   "i": 5624,
+   "number": "USD309731S",
+   "term": "modem",
+   "title": "Modem cabinet",
+   "assignee": "Oki Electric Industry Co., Ltd.",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/5624.png"
+  },
+  {
+   "i": 5625,
+   "number": "USD215363S",
+   "term": "photographic camera",
+   "title": "Photographic camera or similar article",
+   "assignee": "",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/5625.png"
+  },
+  {
+   "i": 5626,
+   "number": "USD971903S1",
+   "term": "router",
+   "title": "Router",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/5626.png"
+  },
+  {
+   "i": 5627,
+   "number": "USD640650S1",
+   "term": "set-top box",
+   "title": "Set top box",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/5627.png"
+  },
+  {
+   "i": 5628,
+   "number": "USD266005S",
+   "term": "calculator",
+   "title": "Calculator keyboard module",
+   "assignee": "Litton Business Systems, Inc.",
+   "year": 1982,
+   "figures": 1,
+   "file": "img/5628.png"
+  },
+  {
+   "i": 5629,
+   "number": "USD219990S",
+   "term": "typewriter",
+   "title": "Typewriter table",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/5629.png"
+  },
+  {
+   "i": 5630,
+   "number": "USD284201S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator",
+   "assignee": "Sharp Corporation",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/5630.png"
+  },
+  {
+   "i": 5631,
+   "number": "USD621404S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Pfu Limited",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/5631.png"
+  },
+  {
+   "i": 5632,
+   "number": "USD676043S1",
+   "term": "portable computer",
+   "title": "Portable computer",
+   "assignee": "Panasonic Corporation",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/5632.png"
+  },
+  {
+   "i": 5633,
+   "number": "USD320166S",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Jason Shell",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/5633.png"
+  },
+  {
+   "i": 5634,
+   "number": "USD542289S1",
+   "term": "disk drive",
+   "title": "Disk drive enclosure with morse code pattern air vent",
+   "assignee": "Western Digital Technologies, Inc.",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/5634.png"
+  },
+  {
+   "i": 5635,
+   "number": "USD346606S",
+   "term": "modem",
+   "title": "Modem",
+   "assignee": "Hayes Microcomputer Products, Inc.",
+   "year": 1994,
+   "figures": 2,
+   "file": "img/5635.png"
+  },
+  {
+   "i": 5636,
+   "number": "USD682336S1",
+   "term": "camcorder",
+   "title": "Camcorder",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/5636.png"
+  },
+  {
+   "i": 5637,
+   "number": "USD558792S1",
+   "term": "digital audio player",
+   "title": "Digital audio player",
+   "assignee": "Kabushiki Kaisha Toshiba",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/5637.png"
+  },
+  {
+   "i": 5638,
+   "number": "USD969788S1",
+   "term": "router",
+   "title": "Router",
+   "assignee": "Kyocera Corporation",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/5638.png"
+  },
+  {
+   "i": 5639,
+   "number": "USD584701S1",
+   "term": "set-top box",
+   "title": "Set top box",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/5639.png"
+  },
+  {
+   "i": 5640,
+   "number": "USD505938S1",
+   "term": "radio receiver",
+   "title": "Radio receiver",
+   "assignee": "Tcu (Hong Kong) Limited",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/5640.png"
+  },
+  {
+   "i": 5641,
+   "number": "USD285311S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator",
+   "assignee": "Sharp Corporation",
+   "year": 1986,
+   "figures": 2,
+   "file": "img/5641.png"
+  },
+  {
+   "i": 5642,
+   "number": "USD757010S1",
+   "term": "scanner",
+   "title": "Scanner turntable",
+   "assignee": "Hewlett-Packard Development Company, L.P.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/5642.png"
+  },
+  {
+   "i": 5643,
+   "number": "USD561800S1",
+   "term": "video camera",
+   "title": "Video camera",
+   "assignee": "Sony Corporation",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/5643.png"
+  },
+  {
+   "i": 5644,
+   "number": "USD919451S1",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Luxury Goods International (L.G.I.) SA",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/5644.png"
+  },
+  {
+   "i": 5645,
+   "number": "USD296434S",
+   "term": "disk drive",
+   "title": "Disk drive control panel",
+   "assignee": "Ampex Corporation",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/5645.png"
+  },
+  {
+   "i": 5646,
+   "number": "USD313799S",
+   "term": "video cassette recorder",
+   "title": "Video cassette recorder",
+   "assignee": "Gold Star Co., Ltd.",
+   "year": 1991,
+   "figures": 1,
+   "file": "img/5646.png"
+  },
+  {
+   "i": 5647,
+   "number": "USD915341S1",
+   "term": "audio player",
+   "title": "Audio player",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/5647.png"
+  },
+  {
+   "i": 5648,
+   "number": "USD345053S",
+   "term": "pager",
+   "title": "Pager holster",
+   "assignee": "Motorola, Inc.",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/5648.png"
+  },
+  {
+   "i": 5649,
+   "number": "USD555169S1",
+   "term": "digital audio player",
+   "title": "Digital audio player",
+   "assignee": "Teac Corporation",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/5649.png"
+  },
+  {
+   "i": 5650,
+   "number": "USD577693S1",
+   "term": "set-top box",
+   "title": "Set-top box",
+   "assignee": "Amino Holdings Limited",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/5650.png"
+  },
+  {
+   "i": 5651,
+   "number": "USD716365S1",
+   "term": "head mounted display",
+   "title": "Head mounted display",
+   "assignee": "Seiko Epson Corporation",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/5651.png"
+  },
+  {
+   "i": 5652,
+   "number": "USD529535S1",
+   "term": "calculator",
+   "title": "Calculator with clock",
+   "assignee": "Kabushiki Kaisha Hiromori",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/5652.png"
+  },
+  {
+   "i": 5653,
+   "number": "USD493796S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Benq Corporation",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/5653.png"
+  },
+  {
+   "i": 5654,
+   "number": "USD365585S",
+   "term": "video camera",
+   "title": "Video camera used with personal computer",
+   "assignee": "Silicon Graphics, Inc.",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/5654.png"
+  },
+  {
+   "i": 5655,
+   "number": "USD469362S1",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "The Swatch Group Management Services Ag",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/5655.png"
+  },
+  {
+   "i": 5656,
+   "number": "USD409203S",
+   "term": "modem",
+   "title": "Modem",
+   "assignee": "Sony Corporation",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/5656.png"
+  },
+  {
+   "i": 5657,
+   "number": "USD383742S",
+   "term": "facsimile machine",
+   "title": "Facsimile machine",
+   "assignee": "Sharp Kabushiki Kaisha",
+   "year": 1997,
+   "figures": 2,
+   "file": "img/5657.png"
+  },
+  {
+   "i": 5658,
+   "number": "USD552142S1",
+   "term": "camcorder",
+   "title": "Camcorder",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/5658.png"
+  },
+  {
+   "i": 5659,
+   "number": "USD224982S",
+   "term": "photographic camera",
+   "title": "Photographic camera",
+   "assignee": "",
+   "year": 1972,
+   "figures": 1,
+   "file": "img/5659.png"
+  },
+  {
+   "i": 5660,
+   "number": "USD662904S1",
+   "term": "set-top box",
+   "title": "Set-top box",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/5660.png"
+  },
+  {
+   "i": 5661,
+   "number": "USD1070854S1",
+   "term": "head mounted display",
+   "title": "Head-mounted display",
+   "assignee": "Apple Inc.",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/5661.png"
+  },
+  {
+   "i": 5662,
+   "number": "USD362013S",
+   "term": "calculator",
+   "title": "Calculator for use by nurses",
+   "assignee": "George Benjamin",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/5662.png"
+  },
+  {
+   "i": 5663,
+   "number": "USD103928S",
+   "term": "typewriter",
+   "title": "Design for a typewriter",
+   "assignee": "",
+   "year": 1937,
+   "figures": 1,
+   "file": "img/5663.png"
+  },
+  {
+   "i": 5664,
+   "number": "USD353827S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator having the functions of telephone book, address book,",
+   "assignee": "Casio Computer Co., Ltd.",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/5664.png"
+  },
+  {
+   "i": 5665,
+   "number": "USD856394S1",
+   "term": "video camera",
+   "title": "Video camera rig",
+   "assignee": "Google Llc",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/5665.png"
+  },
+  {
+   "i": 5666,
+   "number": "USD297139S",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Hyundai Electronics Industries Co., Ltd.",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/5666.png"
+  },
+  {
+   "i": 5667,
+   "number": "USD951323S1",
+   "term": "camera",
+   "title": "Camera",
+   "assignee": "Jingshui Wu",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/5667.png"
   }
  ]
 }

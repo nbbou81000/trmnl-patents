@@ -1,6 +1,6 @@
 {
- "count": 6368,
- "generated_at": 1788710028,
+ "count": 6468,
+ "generated_at": 1788712548,
  "items": [
   {
    "i": 0,
@@ -63681,6 +63681,1006 @@
    "year": 2019,
    "figures": 2,
    "file": "img/6367.png"
+  },
+  {
+   "i": 6368,
+   "number": "USD325030S",
+   "term": "juke box",
+   "title": "Juke box telephone",
+   "assignee": "Ralph Ochoa",
+   "year": 1992,
+   "figures": 3,
+   "file": "img/6368.png"
+  },
+  {
+   "i": 6369,
+   "number": "USD57857S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1921,
+   "figures": 1,
+   "file": "img/6369.png"
+  },
+  {
+   "i": 6370,
+   "number": "USD645651S1",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Mateo Queency D",
+   "year": 2011,
+   "figures": 3,
+   "file": "img/6370.png"
+  },
+  {
+   "i": 6371,
+   "number": "USD300434S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Silver Seiko Limited",
+   "year": 1989,
+   "figures": 1,
+   "file": "img/6371.png"
+  },
+  {
+   "i": 6372,
+   "number": "USD677042S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "The Rockport Company, Llc",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/6372.png"
+  },
+  {
+   "i": 6373,
+   "number": "USD237210S",
+   "term": "juke box",
+   "title": "Juke box",
+   "assignee": "",
+   "year": 1975,
+   "figures": 1,
+   "file": "img/6373.png"
+  },
+  {
+   "i": 6374,
+   "number": "USD56320S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "Sonora",
+   "year": 1920,
+   "figures": 1,
+   "file": "img/6374.png"
+  },
+  {
+   "i": 6375,
+   "number": "USD262411S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Eltra Corporation",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/6375.png"
+  },
+  {
+   "i": 6376,
+   "number": "USD889087S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Der-Dau Inc.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/6376.png"
+  },
+  {
+   "i": 6377,
+   "number": "USD390333S",
+   "term": "juke box",
+   "title": "Juke box toy bank",
+   "assignee": "Funrise Toys, Ltd.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/6377.png"
+  },
+  {
+   "i": 6378,
+   "number": "USD63187S",
+   "term": "phonograph",
+   "title": "Design for a phonograph cabinet",
+   "assignee": "",
+   "year": 1923,
+   "figures": 1,
+   "file": "img/6378.png"
+  },
+  {
+   "i": 6379,
+   "number": "USD288621S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe insole",
+   "assignee": "Scholl, Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/6379.png"
+  },
+  {
+   "i": 6380,
+   "number": "USD322087S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Smith Corona Corporation",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/6380.png"
+  },
+  {
+   "i": 6381,
+   "number": "USD659356S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Native Shoes, Ltd.",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/6381.png"
+  },
+  {
+   "i": 6382,
+   "number": "USD560651S1",
+   "term": "juke box",
+   "title": "Juke box with controls and speakers",
+   "assignee": "Tyrell Corporation",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/6382.png"
+  },
+  {
+   "i": 6383,
+   "number": "USD57091S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1921,
+   "figures": 1,
+   "file": "img/6383.png"
+  },
+  {
+   "i": 6384,
+   "number": "USD245736S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe sole",
+   "assignee": "Famolare, Inc.",
+   "year": 1977,
+   "figures": 1,
+   "file": "img/6384.png"
+  },
+  {
+   "i": 6385,
+   "number": "USD284673S",
+   "term": "typewriter",
+   "title": "Typewriter feature attachment",
+   "assignee": "International Business Machines Corporation",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/6385.png"
+  },
+  {
+   "i": 6386,
+   "number": "USD467709S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Bergann Llc",
+   "year": 2002,
+   "figures": 1,
+   "file": "img/6386.png"
+  },
+  {
+   "i": 6387,
+   "number": "USD49655S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "The Windsor Furniture company",
+   "year": 1916,
+   "figures": 1,
+   "file": "img/6387.png"
+  },
+  {
+   "i": 6388,
+   "number": "USD264393S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Sasaki Co., Ltd.",
+   "year": 1982,
+   "figures": 1,
+   "file": "img/6388.png"
+  },
+  {
+   "i": 6389,
+   "number": "USD1054164S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Asics Corporation",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/6389.png"
+  },
+  {
+   "i": 6390,
+   "number": "USD38447S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-horn",
+   "assignee": "",
+   "year": 1907,
+   "figures": 1,
+   "file": "img/6390.png"
+  },
+  {
+   "i": 6391,
+   "number": "USD270870S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Tilles Harvey G",
+   "year": 1983,
+   "figures": 1,
+   "file": "img/6391.png"
+  },
+  {
+   "i": 6392,
+   "number": "USD556431S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Aerogroup International, Inc.",
+   "year": 2007,
+   "figures": 3,
+   "file": "img/6392.png"
+  },
+  {
+   "i": 6393,
+   "number": "USD519263S1",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Lin Canhuang",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/6393.png"
+  },
+  {
+   "i": 6394,
+   "number": "USD191997S",
+   "term": "typewriter",
+   "title": "Page 3 figure",
+   "assignee": "Smith",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/6394.png"
+  },
+  {
+   "i": 6395,
+   "number": "USD389995S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Shoes For Crews, Inc.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/6395.png"
+  },
+  {
+   "i": 6396,
+   "number": "USD56232S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1920,
+   "figures": 1,
+   "file": "img/6396.png"
+  },
+  {
+   "i": 6397,
+   "number": "USD519720S1",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Lin Canhuang",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/6397.png"
+  },
+  {
+   "i": 6398,
+   "number": "USD195917S",
+   "term": "typewriter",
+   "title": "Page 6 fig.g bib",
+   "assignee": "Sperry Rand Corporation",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/6398.png"
+  },
+  {
+   "i": 6399,
+   "number": "USD64223S",
+   "term": "phonograph",
+   "title": "Design for a phonograph cabinet",
+   "assignee": "Sonora",
+   "year": 1924,
+   "figures": 1,
+   "file": "img/6399.png"
+  },
+  {
+   "i": 6400,
+   "number": "USD274955S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "E.S. Originals Inc.",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/6400.png"
+  },
+  {
+   "i": 6401,
+   "number": "USD190693S",
+   "term": "typewriter",
+   "title": "Typewriter carriage",
+   "assignee": "Smith",
+   "year": 1961,
+   "figures": 2,
+   "file": "img/6401.png"
+  },
+  {
+   "i": 6402,
+   "number": "USD929711S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Cole Haan Llc",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/6402.png"
+  },
+  {
+   "i": 6403,
+   "number": "USD55863S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1920,
+   "figures": 1,
+   "file": "img/6403.png"
+  },
+  {
+   "i": 6404,
+   "number": "USD262751S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Adidas Fabrique De Chaussures De Sport",
+   "year": 1982,
+   "figures": 1,
+   "file": "img/6404.png"
+  },
+  {
+   "i": 6405,
+   "number": "USD368796S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "The Keds Corporation",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/6405.png"
+  },
+  {
+   "i": 6406,
+   "number": "USD111598S",
+   "term": "phonograph",
+   "title": "Design for a phonograph cabinet",
+   "assignee": "",
+   "year": 1938,
+   "figures": 1,
+   "file": "img/6406.png"
+  },
+  {
+   "i": 6407,
+   "number": "USD296611S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe upper",
+   "assignee": "Reebok International Ltd.",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/6407.png"
+  },
+  {
+   "i": 6408,
+   "number": "USD556982S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Harper Michael D",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/6408.png"
+  },
+  {
+   "i": 6409,
+   "number": "USD56325S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "Sonora",
+   "year": 1920,
+   "figures": 1,
+   "file": "img/6409.png"
+  },
+  {
+   "i": 6410,
+   "number": "USD416672S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe vertical insertion independent locking spike",
+   "assignee": "Curley Jr John J",
+   "year": 1999,
+   "figures": 2,
+   "file": "img/6410.png"
+  },
+  {
+   "i": 6411,
+   "number": "USD38820S",
+   "term": "typewriter",
+   "title": "Design for a type-writer-carriage frame",
+   "assignee": "",
+   "year": 1907,
+   "figures": 1,
+   "file": "img/6411.png"
+  },
+  {
+   "i": 6412,
+   "number": "USD935756S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Consitex S.A.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/6412.png"
+  },
+  {
+   "i": 6413,
+   "number": "USD50544S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1917,
+   "figures": 1,
+   "file": "img/6413.png"
+  },
+  {
+   "i": 6414,
+   "number": "USD295229S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe upper",
+   "assignee": "Reebok International Ltd.",
+   "year": 1988,
+   "figures": 2,
+   "file": "img/6414.png"
+  },
+  {
+   "i": 6415,
+   "number": "USD666390S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Native Shoes, Ltd.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/6415.png"
+  },
+  {
+   "i": 6416,
+   "number": "USD50478S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "The Windsor Furniture company",
+   "year": 1917,
+   "figures": 1,
+   "file": "img/6416.png"
+  },
+  {
+   "i": 6417,
+   "number": "USD205280S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/6417.png"
+  },
+  {
+   "i": 6418,
+   "number": "USD190695S",
+   "term": "typewriter",
+   "title": "Page 2 cm",
+   "assignee": "Sperry Rand Corporation",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/6418.png"
+  },
+  {
+   "i": 6419,
+   "number": "USD1047382S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Haohao ZHENG",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/6419.png"
+  },
+  {
+   "i": 6420,
+   "number": "USD894864S1",
+   "term": "phonograph",
+   "title": "Phonograph",
+   "assignee": "Changsha Nuokewei Electronic Commerce Co., Ltd.",
+   "year": 2020,
+   "figures": 3,
+   "file": "img/6420.png"
+  },
+  {
+   "i": 6421,
+   "number": "USD300083S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Kangaroos U.S.A., Inc.",
+   "year": 1989,
+   "figures": 2,
+   "file": "img/6421.png"
+  },
+  {
+   "i": 6422,
+   "number": "USD192194S",
+   "term": "typewriter",
+   "title": "Page 4 ftetff",
+   "assignee": "Smith",
+   "year": 1962,
+   "figures": 2,
+   "file": "img/6422.png"
+  },
+  {
+   "i": 6423,
+   "number": "USD968061S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Quanzhou Yuzhen Clothing Trading Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/6423.png"
+  },
+  {
+   "i": 6424,
+   "number": "USD55217S",
+   "term": "phonograph",
+   "title": "Design for a phonograph",
+   "assignee": "The Electric phonograph Corporation",
+   "year": 1920,
+   "figures": 1,
+   "file": "img/6424.png"
+  },
+  {
+   "i": 6425,
+   "number": "USD240470S",
+   "term": "athletic shoe",
+   "title": "Patent USD240470S",
+   "assignee": "",
+   "year": 1976,
+   "figures": 1,
+   "file": "img/6425.png"
+  },
+  {
+   "i": 6426,
+   "number": "USD274956S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Nippon Rubber Co., Ltd.",
+   "year": 1984,
+   "figures": 2,
+   "file": "img/6426.png"
+  },
+  {
+   "i": 6427,
+   "number": "USD58964S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1921,
+   "figures": 1,
+   "file": "img/6427.png"
+  },
+  {
+   "i": 6428,
+   "number": "USD240371S",
+   "term": "athletic shoe",
+   "title": "Patent USD240371S",
+   "assignee": "",
+   "year": 1976,
+   "figures": 1,
+   "file": "img/6428.png"
+  },
+  {
+   "i": 6429,
+   "number": "USD81750S",
+   "term": "typewriter",
+   "title": "Design for a typewriter table",
+   "assignee": "",
+   "year": 1930,
+   "figures": 1,
+   "file": "img/6429.png"
+  },
+  {
+   "i": 6430,
+   "number": "USD496776S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Jack Schwartz Shoes, Inc.",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/6430.png"
+  },
+  {
+   "i": 6431,
+   "number": "USD293847S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe upper",
+   "assignee": "Reebok International Ltd.",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/6431.png"
+  },
+  {
+   "i": 6432,
+   "number": "USD281434S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Tokyo Juki Industrial Co., Ltd.",
+   "year": 1985,
+   "figures": 1,
+   "file": "img/6432.png"
+  },
+  {
+   "i": 6433,
+   "number": "USD393146S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Valsport S.P.A.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/6433.png"
+  },
+  {
+   "i": 6434,
+   "number": "USD56287S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1920,
+   "figures": 1,
+   "file": "img/6434.png"
+  },
+  {
+   "i": 6435,
+   "number": "USD732284S1",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Ssk Corporation",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/6435.png"
+  },
+  {
+   "i": 6436,
+   "number": "USD190256S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/6436.png"
+  },
+  {
+   "i": 6437,
+   "number": "USD258774S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Adidas Fabrique De Chaussures De Sport",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/6437.png"
+  },
+  {
+   "i": 6438,
+   "number": "USD58968S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1921,
+   "figures": 1,
+   "file": "img/6438.png"
+  },
+  {
+   "i": 6439,
+   "number": "USD332688S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe upper and sole periphery",
+   "assignee": "Autry Industries, Inc.",
+   "year": 1993,
+   "figures": 2,
+   "file": "img/6439.png"
+  },
+  {
+   "i": 6440,
+   "number": "USD293275S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Reebok International, Ltd.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/6440.png"
+  },
+  {
+   "i": 6441,
+   "number": "USD57313S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "",
+   "year": 1921,
+   "figures": 1,
+   "file": "img/6441.png"
+  },
+  {
+   "i": 6442,
+   "number": "USD487610S1",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Lin Canhuang",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/6442.png"
+  },
+  {
+   "i": 6443,
+   "number": "USD507694S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Rocky Shoes & Boots, Inc.",
+   "year": 2005,
+   "figures": 2,
+   "file": "img/6443.png"
+  },
+  {
+   "i": 6444,
+   "number": "USD153675S",
+   "term": "phonograph",
+   "title": "Design for a phonograph cabinet",
+   "assignee": "",
+   "year": 1949,
+   "figures": 1,
+   "file": "img/6444.png"
+  },
+  {
+   "i": 6445,
+   "number": "USD768367S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Cole Haan Llc",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/6445.png"
+  },
+  {
+   "i": 6446,
+   "number": "USD50706S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "Pathe Freres phonograph Company",
+   "year": 1917,
+   "figures": 1,
+   "file": "img/6446.png"
+  },
+  {
+   "i": 6447,
+   "number": "USD290182S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe sole",
+   "assignee": "Contax Sports, Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/6447.png"
+  },
+  {
+   "i": 6448,
+   "number": "USD231264S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/6448.png"
+  },
+  {
+   "i": 6449,
+   "number": "USD478714S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Rocky Shoes & Boots, Inc.",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/6449.png"
+  },
+  {
+   "i": 6450,
+   "number": "USD90918S",
+   "term": "phonograph",
+   "title": "Design for a phonograph cabinet or",
+   "assignee": "Dictaphone Corporation",
+   "year": 1933,
+   "figures": 1,
+   "file": "img/6450.png"
+  },
+  {
+   "i": 6451,
+   "number": "USD299284S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe upper",
+   "assignee": "Reebok Group International Ltd.",
+   "year": 1989,
+   "figures": 2,
+   "file": "img/6451.png"
+  },
+  {
+   "i": 6452,
+   "number": "USD291945S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Avia Group International, Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/6452.png"
+  },
+  {
+   "i": 6453,
+   "number": "USD66363S",
+   "term": "phonograph",
+   "title": "Design for a phonograph cabinet",
+   "assignee": "",
+   "year": 1925,
+   "figures": 1,
+   "file": "img/6453.png"
+  },
+  {
+   "i": 6454,
+   "number": "USD318751S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Logan Evelyn M",
+   "year": 1991,
+   "figures": 1,
+   "file": "img/6454.png"
+  },
+  {
+   "i": 6455,
+   "number": "USD287138S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Sharp Corporation",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/6455.png"
+  },
+  {
+   "i": 6456,
+   "number": "USD1059010S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Top Glory Trading Group Inc",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/6456.png"
+  },
+  {
+   "i": 6457,
+   "number": "USD50483S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "The Windsor Furniture company",
+   "year": 1917,
+   "figures": 1,
+   "file": "img/6457.png"
+  },
+  {
+   "i": 6458,
+   "number": "USD404192S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe cleat",
+   "assignee": "Softspikes, Inc.",
+   "year": 1999,
+   "figures": 3,
+   "file": "img/6458.png"
+  },
+  {
+   "i": 6459,
+   "number": "USD894571S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Cole Haan Llc",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/6459.png"
+  },
+  {
+   "i": 6460,
+   "number": "USD50479S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "The Windsor Furniture company",
+   "year": 1917,
+   "figures": 1,
+   "file": "img/6460.png"
+  },
+  {
+   "i": 6461,
+   "number": "USD393142S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Quincy Brown",
+   "year": 1998,
+   "figures": 2,
+   "file": "img/6461.png"
+  },
+  {
+   "i": 6462,
+   "number": "USD710079S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Dashamerica, Inc.",
+   "year": 2014,
+   "figures": 2,
+   "file": "img/6462.png"
+  },
+  {
+   "i": 6463,
+   "number": "USD52370S",
+   "term": "phonograph",
+   "title": "Design for a phonograph-cabinet",
+   "assignee": "Sonora Phonograph corporation",
+   "year": 1918,
+   "figures": 1,
+   "file": "img/6463.png"
+  },
+  {
+   "i": 6464,
+   "number": "USD265016S",
+   "term": "athletic shoe",
+   "title": "Athletic shoe",
+   "assignee": "Haddox Billy J",
+   "year": 1982,
+   "figures": 2,
+   "file": "img/6464.png"
+  },
+  {
+   "i": 6465,
+   "number": "USD229782S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Louis Marx a Co",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/6465.png"
+  },
+  {
+   "i": 6466,
+   "number": "USD301801S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Avia Group International, Inc.",
+   "year": 1989,
+   "figures": 1,
+   "file": "img/6466.png"
+  },
+  {
+   "i": 6467,
+   "number": "USD111599S",
+   "term": "phonograph",
+   "title": "Design for a phonograph cabinet",
+   "assignee": "The Rudolph Wurlitzer Company",
+   "year": 1938,
+   "figures": 1,
+   "file": "img/6467.png"
   }
  ]
 }

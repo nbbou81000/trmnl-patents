@@ -82,11 +82,29 @@ def main(corpus_path, cap):
     if os.path.exists(MANIFEST):
         done = {e["number"]: e for e in json.load(open(MANIFEST))["items"]}
 
-    # ordre stable et mélangé : la rotation par horodatage paraît aléatoire
-    # sans qu'aucun tirage n'ait lieu côté appareil
+    # Sélection stratifiée par catégorie.
+    #
+    # Un simple mélange conserverait les proportions du corpus, et celles-ci sont
+    # très déséquilibrées : les termes larges ("telephone", "mobile phone")
+    # saturent leur plafond de 1000 quand un terme précis n'apporte qu'une poignée
+    # de brevets. À plat, les trois quarts des planches seraient des téléphones.
+    #
+    # On mélange donc chaque catégorie séparément, puis on pioche en tourniquet :
+    # chaque terme fournit une planche à tour de rôle, et les catégories rares
+    # sont épuisées avant que les grosses aient rendu tout leur stock.
     random.seed(1789)
-    pool = sorted(corpus, key=lambda p: p["number"])
-    random.shuffle(pool)
+    buckets = {}
+    for item in sorted(corpus, key=lambda p: p["number"]):
+        buckets.setdefault(item.get("term", "divers"), []).append(item)
+    for b in buckets.values():
+        random.shuffle(b)
+
+    order = sorted(buckets, key=lambda k: len(buckets[k]))
+    pool = []
+    while any(buckets[k] for k in order):
+        for k in order:
+            if buckets[k]:
+                pool.append(buckets[k].pop())
 
     items = list(done.values())
     skipped = 0

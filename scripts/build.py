@@ -49,19 +49,42 @@ CHECKPOINT = int(os.environ.get("CHECKPOINT", "100"))   # commit intermédiaire
 TIME_BUDGET = int(os.environ.get("TIME_BUDGET", "9000"))   # 2 h 30
 
 
+def save_plates(items):
+    """
+    Un petit JSON par planche, interrogé directement par l'URL de polling.
+
+    L'URL de polling accepte du Liquid : en y tirant l'index, l'URL change à
+    chaque appel, donc le payload aussi, et TRMNL régénère l'écran. C'est ce
+    qui débloque la rotation — avec un count.json figé, TRMNL considérait
+    qu'il n'y avait rien de neuf et gardait la même image indéfiniment.
+    """
+    d = os.path.join("docs", "plate")
+    os.makedirs(d, exist_ok=True)
+    for it in items:
+        f = os.path.join(d, f"{it['i']}.json")
+        if os.path.exists(f):
+            continue
+        json.dump({"i": it["i"], "image": it["file"], "title": it.get("title", ""),
+                   "assignee": it.get("assignee", ""), "year": it.get("year", "")},
+                  open(f, "w"), ensure_ascii=False)
+
+
 def save_manifest(items, terms_by_number=None):
     # Les entrées rendues avant l'ajout du champ "term" sont complétées
     # depuis le corpus, sinon la galerie ne pourrait pas les filtrer.
     if terms_by_number:
         for it in items:
             if not it.get("term"):
-                it["term"] = terms_by_number.get(it["number"], "")
+                found = terms_by_number.get(it["number"], "")
+                if found:
+                    it["term"] = found
     json.dump(
         {"count": len(items), "generated_at": int(time.time()), "items": items},
         open(MANIFEST, "w"),
         indent=1,
     )
     json.dump({"count": len(items)}, open("docs/count.json", "w"))
+    save_plates(items)
 
 
 def checkpoint(items, terms_by_number=None):
@@ -95,6 +118,12 @@ def checkpoint(items, terms_by_number=None):
 
 def main(corpus_path, cap):
     corpus = json.load(open(corpus_path))
+    # La table des catégories se construit sur le corpus COMPLET, avant tout
+    # filtrage : elle sert à rétro-remplir le champ "term" des planches déjà
+    # rendues. La construire après un filtrage ONLY vidait la catégorie de
+    # toutes les autres planches du manifeste.
+    terms_by_number = {p["number"]: p.get("term", "") for p in corpus}
+
     if ONLY:
         kept = [p for p in corpus if (p.get("term") or "").lower() in ONLY]
         available = sorted({(p.get("term") or "") for p in corpus})
@@ -104,7 +133,6 @@ def main(corpus_path, cap):
             raise SystemExit(1)
         print(f"Passe restreinte à : {', '.join(ONLY)} — {len(kept)} brevets candidats")
         corpus = kept
-    terms_by_number = {p["number"]: p.get("term", "") for p in corpus}
     os.makedirs(OUT_IMG, exist_ok=True)
 
     done = {}

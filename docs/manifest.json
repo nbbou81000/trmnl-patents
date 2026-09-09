@@ -1,6 +1,6 @@
 {
- "count": 9576,
- "generated_at": 1788980513,
+ "count": 9676,
+ "generated_at": 1788981514,
  "items": [
   {
    "i": 0,
@@ -95761,6 +95761,1006 @@
    "year": 2011,
    "figures": 2,
    "file": "img/9575.png"
+  },
+  {
+   "i": 9576,
+   "number": "USD975155S1",
+   "term": "robot arm",
+   "title": "Robot arm apparatus",
+   "assignee": "Thk Co., Ltd.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9576.png"
+  },
+  {
+   "i": 9577,
+   "number": "USD1020828S1",
+   "term": "robotic arm",
+   "title": "Robotic arm for medical and industrial purposes",
+   "assignee": "Agile Robots AG",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/9577.png"
+  },
+  {
+   "i": 9578,
+   "number": "USD1026058S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Denso Wave Incorporated",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/9578.png"
+  },
+  {
+   "i": 9579,
+   "number": "USD993420S1",
+   "term": "robotic arm",
+   "title": "Robotic arm for exoscopes",
+   "assignee": "Karl Storz Se & Co. Kg",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9579.png"
+  },
+  {
+   "i": 9580,
+   "number": "USD931351S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9580.png"
+  },
+  {
+   "i": 9581,
+   "number": "USD781943S1",
+   "term": "robotic arm",
+   "title": "Robotic arm component",
+   "assignee": "Abb Gomtec Gmbh",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/9581.png"
+  },
+  {
+   "i": 9582,
+   "number": "USD892885S1",
+   "term": "robotic arm",
+   "title": "Robotic arm segment",
+   "assignee": "Carbon Robotics, Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9582.png"
+  },
+  {
+   "i": 9583,
+   "number": "USD898091S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9583.png"
+  },
+  {
+   "i": 9584,
+   "number": "USD841710S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Genesis Robotics And Motion Technologies Canada, Ulc",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/9584.png"
+  },
+  {
+   "i": 9585,
+   "number": "USD1019725S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Daihen Corporation",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/9585.png"
+  },
+  {
+   "i": 9586,
+   "number": "USD267883S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Thermwood Corporation",
+   "year": 1983,
+   "figures": 2,
+   "file": "img/9586.png"
+  },
+  {
+   "i": 9587,
+   "number": "USD1004663S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Agile Robots AG",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9587.png"
+  },
+  {
+   "i": 9588,
+   "number": "USD409636S",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Genmark Automation, Inc.",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/9588.png"
+  },
+  {
+   "i": 9589,
+   "number": "USD292000S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1987,
+   "figures": 2,
+   "file": "img/9589.png"
+  },
+  {
+   "i": 9590,
+   "number": "USD290263S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1987,
+   "figures": 3,
+   "file": "img/9590.png"
+  },
+  {
+   "i": 9591,
+   "number": "USD344280S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Kawasaki Jukogyo Kabushiki Kaisha",
+   "year": 1994,
+   "figures": 3,
+   "file": "img/9591.png"
+  },
+  {
+   "i": 9592,
+   "number": "USD827006S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Hiwin Technologies Corp.",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/9592.png"
+  },
+  {
+   "i": 9593,
+   "number": "USD1061654S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Agile Robots AG",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/9593.png"
+  },
+  {
+   "i": 9594,
+   "number": "USD880549S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9594.png"
+  },
+  {
+   "i": 9595,
+   "number": "USD973605S1",
+   "term": "robotic arm",
+   "title": "Robotic arm controller",
+   "assignee": "Kinova Inc.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/9595.png"
+  },
+  {
+   "i": 9596,
+   "number": "USD287368S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1986,
+   "figures": 3,
+   "file": "img/9596.png"
+  },
+  {
+   "i": 9597,
+   "number": "USD763337S1",
+   "term": "robotic arm",
+   "title": "Robotic arm component",
+   "assignee": "Abb Gomtec Gmbh",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/9597.png"
+  },
+  {
+   "i": 9598,
+   "number": "USD800813S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Abb Schweiz Ag",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/9598.png"
+  },
+  {
+   "i": 9599,
+   "number": "USD824979S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "AM Networks LLC",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/9599.png"
+  },
+  {
+   "i": 9600,
+   "number": "USD343630S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Nec Corporation",
+   "year": 1994,
+   "figures": 2,
+   "file": "img/9600.png"
+  },
+  {
+   "i": 9601,
+   "number": "USD334581S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/9601.png"
+  },
+  {
+   "i": 9602,
+   "number": "USD289407S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/9602.png"
+  },
+  {
+   "i": 9603,
+   "number": "USD915487S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Universal Robots A/S",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9603.png"
+  },
+  {
+   "i": 9604,
+   "number": "USD774580S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/9604.png"
+  },
+  {
+   "i": 9605,
+   "number": "USD913350S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Evodyne Robotics Corporation",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9605.png"
+  },
+  {
+   "i": 9606,
+   "number": "USD410660S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Janome Sewing Machine Co., Ltd.",
+   "year": 1999,
+   "figures": 2,
+   "file": "img/9606.png"
+  },
+  {
+   "i": 9607,
+   "number": "USD1026059S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Shenzhen Yuejiang Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/9607.png"
+  },
+  {
+   "i": 9608,
+   "number": "USD833496S1",
+   "term": "industrial robot",
+   "title": "Industrial robot upper arm",
+   "assignee": "Abb Schweiz Ag",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9608.png"
+  },
+  {
+   "i": 9609,
+   "number": "USD837853S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Shenzhen Ufactory Technology Co., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9609.png"
+  },
+  {
+   "i": 9610,
+   "number": "USD298834S",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Universal Machine Intelligence Limited",
+   "year": 1988,
+   "figures": 2,
+   "file": "img/9610.png"
+  },
+  {
+   "i": 9611,
+   "number": "USD636803S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Kobe Steel, Ltd.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9611.png"
+  },
+  {
+   "i": 9612,
+   "number": "USD914781S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Mobius Imaging Llc",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9612.png"
+  },
+  {
+   "i": 9613,
+   "number": "USD958859S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Kinova Inc.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9613.png"
+  },
+  {
+   "i": 9614,
+   "number": "USD1001861S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/9614.png"
+  },
+  {
+   "i": 9615,
+   "number": "USD416568S",
+   "term": "robotic arm",
+   "title": "Robotic arm assembly",
+   "assignee": "Industrial Research Limited",
+   "year": 1999,
+   "figures": 3,
+   "file": "img/9615.png"
+  },
+  {
+   "i": 9616,
+   "number": "USD852862S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9616.png"
+  },
+  {
+   "i": 9617,
+   "number": "USD825632S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "MerchSource, LLC",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/9617.png"
+  },
+  {
+   "i": 9618,
+   "number": "USD906392S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Agile Robots AG",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9618.png"
+  },
+  {
+   "i": 9619,
+   "number": "USD911409S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Delta Electronics, Inc.",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/9619.png"
+  },
+  {
+   "i": 9620,
+   "number": "USD818511S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Delta Electronics, Inc.",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/9620.png"
+  },
+  {
+   "i": 9621,
+   "number": "USD1001860S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/9621.png"
+  },
+  {
+   "i": 9622,
+   "number": "USD1008328S1",
+   "term": "robotic arm",
+   "title": "Robotic arm for medical purposes",
+   "assignee": "Agile Robots AG",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/9622.png"
+  },
+  {
+   "i": 9623,
+   "number": "USD844041S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Life Robotics Inc.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/9623.png"
+  },
+  {
+   "i": 9624,
+   "number": "USD921733S1",
+   "term": "robotic arm",
+   "title": "Robotic arm exterior",
+   "assignee": "Flexiv Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9624.png"
+  },
+  {
+   "i": 9625,
+   "number": "USD978941S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Auris Health, Inc.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9625.png"
+  },
+  {
+   "i": 9626,
+   "number": "USD802041S1",
+   "term": "robotic arm",
+   "title": "Robotic arm",
+   "assignee": "Engineering Services Inc",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/9626.png"
+  },
+  {
+   "i": 9627,
+   "number": "USD711447S1",
+   "term": "industrial robot",
+   "title": "Industrial robot with extendable arms",
+   "assignee": "Daihen Corporation",
+   "year": 2014,
+   "figures": 2,
+   "file": "img/9627.png"
+  },
+  {
+   "i": 9628,
+   "number": "USD289406S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1987,
+   "figures": 2,
+   "file": "img/9628.png"
+  },
+  {
+   "i": 9629,
+   "number": "USD998668S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9629.png"
+  },
+  {
+   "i": 9630,
+   "number": "USD892888S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9630.png"
+  },
+  {
+   "i": 9631,
+   "number": "USD905775S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9631.png"
+  },
+  {
+   "i": 9632,
+   "number": "USD892889S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9632.png"
+  },
+  {
+   "i": 9633,
+   "number": "USD239862S",
+   "term": "industrial robot",
+   "title": "Patent USD239862S",
+   "assignee": "",
+   "year": 1976,
+   "figures": 1,
+   "file": "img/9633.png"
+  },
+  {
+   "i": 9634,
+   "number": "USD896859S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9634.png"
+  },
+  {
+   "i": 9635,
+   "number": "USD293250S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Asea Ab",
+   "year": 1987,
+   "figures": 2,
+   "file": "img/9635.png"
+  },
+  {
+   "i": 9636,
+   "number": "USD935502S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/9636.png"
+  },
+  {
+   "i": 9637,
+   "number": "USD885453S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Furhat Robotics Ab",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9637.png"
+  },
+  {
+   "i": 9638,
+   "number": "USD946069S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mobile Industrial Robots A/S",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9638.png"
+  },
+  {
+   "i": 9639,
+   "number": "USD455163S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Janome Sewing Machine Co., Ltd.",
+   "year": 2002,
+   "figures": 1,
+   "file": "img/9639.png"
+  },
+  {
+   "i": 9640,
+   "number": "USD877223S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 3,
+   "file": "img/9640.png"
+  },
+  {
+   "i": 9641,
+   "number": "USD831087S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Denso Wave Incorporated",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9641.png"
+  },
+  {
+   "i": 9642,
+   "number": "USD883352S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9642.png"
+  },
+  {
+   "i": 9643,
+   "number": "USD852863S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/9643.png"
+  },
+  {
+   "i": 9644,
+   "number": "USD840450S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Denso Wave Incorporated",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9644.png"
+  },
+  {
+   "i": 9645,
+   "number": "USD1070944S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Abb Schweiz Ag",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/9645.png"
+  },
+  {
+   "i": 9646,
+   "number": "USD292002S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/9646.png"
+  },
+  {
+   "i": 9647,
+   "number": "USD952718S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/9647.png"
+  },
+  {
+   "i": 9648,
+   "number": "USD768220S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Kabushiki Kaisha Yaskawa Denki",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/9648.png"
+  },
+  {
+   "i": 9649,
+   "number": "USD273870S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1984,
+   "figures": 2,
+   "file": "img/9649.png"
+  },
+  {
+   "i": 9650,
+   "number": "USD870169S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/9650.png"
+  },
+  {
+   "i": 9651,
+   "number": "USD759139S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Abb Technology Ltd",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/9651.png"
+  },
+  {
+   "i": 9652,
+   "number": "USD844042S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Life Robotics Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9652.png"
+  },
+  {
+   "i": 9653,
+   "number": "USD274182S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Yamaha Hatsudoki Kabushiki Kaisha",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/9653.png"
+  },
+  {
+   "i": 9654,
+   "number": "USD307282S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Cincinnati Milacron Inc.",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/9654.png"
+  },
+  {
+   "i": 9655,
+   "number": "USD841712S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Nachi-Fujikoshi Corp.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9655.png"
+  },
+  {
+   "i": 9656,
+   "number": "USD293116S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Cincinnati Milacron Inc.",
+   "year": 1987,
+   "figures": 3,
+   "file": "img/9656.png"
+  },
+  {
+   "i": 9657,
+   "number": "USD1002695S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Delta Electronics, Inc.",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/9657.png"
+  },
+  {
+   "i": 9658,
+   "number": "USD980299S1",
+   "term": "industrial robot",
+   "title": "Industrial robot tool",
+   "assignee": "Lamiflex Group Ab",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/9658.png"
+  },
+  {
+   "i": 9659,
+   "number": "USD645488S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9659.png"
+  },
+  {
+   "i": 9660,
+   "number": "USD279571S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Mitsubishi Denki Kabushiki Kaisha",
+   "year": 1985,
+   "figures": 1,
+   "file": "img/9660.png"
+  },
+  {
+   "i": 9661,
+   "number": "USD998670S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9661.png"
+  },
+  {
+   "i": 9662,
+   "number": "USD905774S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9662.png"
+  },
+  {
+   "i": 9663,
+   "number": "USD902276S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Daihen Corporation",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9663.png"
+  },
+  {
+   "i": 9664,
+   "number": "USD782553S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Seiko Epson Corporation",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/9664.png"
+  },
+  {
+   "i": 9665,
+   "number": "USD841065S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Nachi-Fujikoshi Corp.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9665.png"
+  },
+  {
+   "i": 9666,
+   "number": "USD844039S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Life Robotics Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9666.png"
+  },
+  {
+   "i": 9667,
+   "number": "USD636004S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Kobe Steel, Ltd.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9667.png"
+  },
+  {
+   "i": 9668,
+   "number": "USD877222S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 3,
+   "file": "img/9668.png"
+  },
+  {
+   "i": 9669,
+   "number": "USD366054S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Janome Sewing Machine Co., Ltd.",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/9669.png"
+  },
+  {
+   "i": 9670,
+   "number": "USD844040S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Life Robotics Inc.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/9670.png"
+  },
+  {
+   "i": 9671,
+   "number": "USD1016871S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "PROTOM ROBOTICS s.r.l.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/9671.png"
+  },
+  {
+   "i": 9672,
+   "number": "USD839941S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Abb Schweiz Ag",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9672.png"
+  },
+  {
+   "i": 9673,
+   "number": "USD881251S1",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Fanuc Corporation",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9673.png"
+  },
+  {
+   "i": 9674,
+   "number": "USD293324S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/9674.png"
+  },
+  {
+   "i": 9675,
+   "number": "USD296790S",
+   "term": "industrial robot",
+   "title": "Industrial robot",
+   "assignee": "Hitachi, Ltd.",
+   "year": 1988,
+   "figures": 3,
+   "file": "img/9675.png"
   }
  ]
 }

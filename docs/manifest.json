@@ -1,6 +1,6 @@
 {
- "count": 9400,
- "generated_at": 1788977009,
+ "count": 9500,
+ "generated_at": 1788977222,
  "items": [
   {
    "i": 0,
@@ -94001,6 +94001,1006 @@
    "year": 2024,
    "figures": 2,
    "file": "img/9399.png"
+  },
+  {
+   "i": 9400,
+   "number": "USD641032S1",
+   "term": "digital camera",
+   "title": "Digital camera",
+   "assignee": "Olympus Imaging Corp.",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/9400.png"
+  },
+  {
+   "i": 9401,
+   "number": "USD527712S1",
+   "term": "remote control",
+   "title": "Remote control",
+   "assignee": "Luigi Fernando Milone",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/9401.png"
+  },
+  {
+   "i": 9402,
+   "number": "USD1032160S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Shiyun Dai",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/9402.png"
+  },
+  {
+   "i": 9403,
+   "number": "USD518089S1",
+   "term": "printer",
+   "title": "Printer",
+   "assignee": "Hewlett-Packard Development Company, Lp.",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/9403.png"
+  },
+  {
+   "i": 9404,
+   "number": "USD801970S1",
+   "term": "head mounted display",
+   "title": "Head mounted display",
+   "assignee": "Oculus Vr, Llc",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/9404.png"
+  },
+  {
+   "i": 9405,
+   "number": "USD225146S",
+   "term": "armchair",
+   "title": "Taob z",
+   "assignee": "Heinz Kettler",
+   "year": 1972,
+   "figures": 1,
+   "file": "img/9405.png"
+  },
+  {
+   "i": 9406,
+   "number": "USD317458S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator with solar cell",
+   "assignee": "Sharp Corporation",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/9406.png"
+  },
+  {
+   "i": 9407,
+   "number": "USD706649S1",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Bulgari Horlogerie Sa",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/9407.png"
+  },
+  {
+   "i": 9408,
+   "number": "USD246710S",
+   "term": "loudspeaker",
+   "title": "Loudspeaker cabinet",
+   "assignee": "Norman Leonard Thomasen",
+   "year": 1977,
+   "figures": 1,
+   "file": "img/9408.png"
+  },
+  {
+   "i": 9409,
+   "number": "USD971984S1",
+   "term": "digital camera",
+   "title": "Digital camera",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9409.png"
+  },
+  {
+   "i": 9410,
+   "number": "USD689539S1",
+   "term": "camera",
+   "title": "Camera stabilizer",
+   "assignee": "Michael Zaletel",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/9410.png"
+  },
+  {
+   "i": 9411,
+   "number": "USD616399S1",
+   "term": "television",
+   "title": "Television monitor",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9411.png"
+  },
+  {
+   "i": 9412,
+   "number": "USD851076S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Guangdong Oppo Mobile Telecommunications Corp., Ltd.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/9412.png"
+  },
+  {
+   "i": 9413,
+   "number": "USD401396S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Asics Corporation",
+   "year": 1998,
+   "figures": 3,
+   "file": "img/9413.png"
+  },
+  {
+   "i": 9414,
+   "number": "USD276725S",
+   "term": "printer",
+   "title": "Printer for electronic computers",
+   "assignee": "Tokyo Shibaura Denki Kabushiki Kaisha",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/9414.png"
+  },
+  {
+   "i": 9415,
+   "number": "USD950534S1",
+   "term": "router",
+   "title": "Router",
+   "assignee": "Comcast Cable Communications, Llc",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9415.png"
+  },
+  {
+   "i": 9416,
+   "number": "USD874459S1",
+   "term": "head mounted display",
+   "title": "Head-mounted display with headband attachment",
+   "assignee": "Allomind, Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9416.png"
+  },
+  {
+   "i": 9417,
+   "number": "USD939499S1",
+   "term": "smart watch",
+   "title": "Smart watch",
+   "assignee": "Shenzhen Qian Hai Woer Technology Limited.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9417.png"
+  },
+  {
+   "i": 9418,
+   "number": "USD328827S",
+   "term": "armchair",
+   "title": "Armchair",
+   "assignee": "Grosfillex",
+   "year": 1992,
+   "figures": 3,
+   "file": "img/9418.png"
+  },
+  {
+   "i": 9419,
+   "number": "USD219837S",
+   "term": "radio receiver",
+   "title": "Radio receiver or similar article",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/9419.png"
+  },
+  {
+   "i": 9420,
+   "number": "USD546376S1",
+   "term": "electronic calculator",
+   "title": "Electronic calculator with printer",
+   "assignee": "Casio Keisanki Kabushiki Kaisha",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9420.png"
+  },
+  {
+   "i": 9421,
+   "number": "USD562325S1",
+   "term": "computer mouse",
+   "title": "Computer mouse",
+   "assignee": "Cherry Gmbh",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/9421.png"
+  },
+  {
+   "i": 9422,
+   "number": "USD426547S",
+   "term": "scanner",
+   "title": "Scanner body front end portion",
+   "assignee": "Hewlett-Packard Company",
+   "year": 2000,
+   "figures": 3,
+   "file": "img/9422.png"
+  },
+  {
+   "i": 9423,
+   "number": "USD550177S1",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Sony Corporation",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/9423.png"
+  },
+  {
+   "i": 9424,
+   "number": "USD1076490S1",
+   "term": "chair",
+   "title": "Chair",
+   "assignee": "Shenyang Xinchuang Business Management Consulting Co., Ltd",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/9424.png"
+  },
+  {
+   "i": 9425,
+   "number": "USD742952S1",
+   "term": "digital camera",
+   "title": "Digital camera",
+   "assignee": "Nikon Corporation",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/9425.png"
+  },
+  {
+   "i": 9426,
+   "number": "USD577049S1",
+   "term": "camera",
+   "title": "Camera",
+   "assignee": "Creative Technology Ltd",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/9426.png"
+  },
+  {
+   "i": 9427,
+   "number": "USD722306S1",
+   "term": "remote control",
+   "title": "Remote control",
+   "assignee": "Bose Corporation",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/9427.png"
+  },
+  {
+   "i": 9428,
+   "number": "USD343272S",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Guess?, Inc.",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/9428.png"
+  },
+  {
+   "i": 9429,
+   "number": "USD445815S1",
+   "term": "set-top box",
+   "title": "Set-top box with embedded tracking video camera",
+   "assignee": "Webemage Corp.",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/9429.png"
+  },
+  {
+   "i": 9430,
+   "number": "USD973656S1",
+   "term": "smart watch",
+   "title": "Smart watch",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/9430.png"
+  },
+  {
+   "i": 9431,
+   "number": "USD398627S",
+   "term": "calculator",
+   "title": "Calculator",
+   "assignee": "Stelex Electronics Company Limited",
+   "year": 1998,
+   "figures": 2,
+   "file": "img/9431.png"
+  },
+  {
+   "i": 9432,
+   "number": "USD308536S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator with telephone dialer",
+   "assignee": "Casio Computer Co., Ltd.",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/9432.png"
+  },
+  {
+   "i": 9433,
+   "number": "USD405069S",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Umax Data Systems Inc.",
+   "year": 1999,
+   "figures": 2,
+   "file": "img/9433.png"
+  },
+  {
+   "i": 9434,
+   "number": "USD477622S1",
+   "term": "video camera",
+   "title": "Video camera system",
+   "assignee": "Polycom, Inc.",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/9434.png"
+  },
+  {
+   "i": 9435,
+   "number": "USD532386S1",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/9435.png"
+  },
+  {
+   "i": 9436,
+   "number": "USD484134S1",
+   "term": "display device",
+   "title": "Display device for programmable controller",
+   "assignee": "Omron Corporatin",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/9436.png"
+  },
+  {
+   "i": 9437,
+   "number": "USD840618S1",
+   "term": "robot",
+   "title": "Robot for cleaning",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9437.png"
+  },
+  {
+   "i": 9438,
+   "number": "USD551095S1",
+   "term": "wristwatch",
+   "title": "Wristwatch",
+   "assignee": "Omega Ltd.",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/9438.png"
+  },
+  {
+   "i": 9439,
+   "number": "USD819351S1",
+   "term": "chair",
+   "title": "Chair",
+   "assignee": "David John Peterson",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9439.png"
+  },
+  {
+   "i": 9440,
+   "number": "USD554684S1",
+   "term": "digital camera",
+   "title": "Digital camera",
+   "assignee": "Casio Keisanki Kabushiki Kaisha",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/9440.png"
+  },
+  {
+   "i": 9441,
+   "number": "USD971990S1",
+   "term": "camera",
+   "title": "Camera",
+   "assignee": "Shenzhen Ausek Electronic Technology Co., Ltd.",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/9441.png"
+  },
+  {
+   "i": 9442,
+   "number": "USD961537S1",
+   "term": "television",
+   "title": "Television receiver",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9442.png"
+  },
+  {
+   "i": 9443,
+   "number": "USD591943S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Rocky Brands, Inc.",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/9443.png"
+  },
+  {
+   "i": 9444,
+   "number": "USD649183S1",
+   "term": "printer",
+   "title": "Printer",
+   "assignee": "Seiko Epson Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9444.png"
+  },
+  {
+   "i": 9445,
+   "number": "USD204834S",
+   "term": "photographic camera",
+   "title": "Photographic camera or similar article",
+   "assignee": "Polaroid Corporation",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/9445.png"
+  },
+  {
+   "i": 9446,
+   "number": "USD575251S1",
+   "term": "digital audio player",
+   "title": "Digital audio player",
+   "assignee": "Clarion Co., Ltd.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/9446.png"
+  },
+  {
+   "i": 9447,
+   "number": "USD544455S1",
+   "term": "set-top box",
+   "title": "Set top box",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9447.png"
+  },
+  {
+   "i": 9448,
+   "number": "USD923002S1",
+   "term": "smart watch",
+   "title": "Smart watch body",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9448.png"
+  },
+  {
+   "i": 9449,
+   "number": "USD437351S1",
+   "term": "calculator",
+   "title": "Calculator with perpetual calendar",
+   "assignee": "Limax Electronics Co., Ltd.",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/9449.png"
+  },
+  {
+   "i": 9450,
+   "number": "USD166294S",
+   "term": "radio receiver",
+   "title": "Radio receiver",
+   "assignee": "",
+   "year": 1952,
+   "figures": 1,
+   "file": "img/9450.png"
+  },
+  {
+   "i": 9451,
+   "number": "USD278247S",
+   "term": "typewriter",
+   "title": "Typewriter",
+   "assignee": "Kyushu Matsushita Electric Co., Ltd.",
+   "year": 1985,
+   "figures": 2,
+   "file": "img/9451.png"
+  },
+  {
+   "i": 9452,
+   "number": "USD450075S1",
+   "term": "video camera",
+   "title": "Video camera",
+   "assignee": "Sony Corporation",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/9452.png"
+  },
+  {
+   "i": 9453,
+   "number": "USD985952S1",
+   "term": "chair",
+   "title": "Chair",
+   "assignee": "Ledge Lounger, Inc.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9453.png"
+  },
+  {
+   "i": 9454,
+   "number": "USD524348S1",
+   "term": "digital camera",
+   "title": "Digital camera",
+   "assignee": "Casio Keisanki Kabushiki Kaisha",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/9454.png"
+  },
+  {
+   "i": 9455,
+   "number": "USD680570S1",
+   "term": "camera",
+   "title": "Camera for image detector",
+   "assignee": "Omron Corporation",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/9455.png"
+  },
+  {
+   "i": 9456,
+   "number": "USD1072692S1",
+   "term": "remote control",
+   "title": "Remote control lever for UAV",
+   "assignee": "Lianyong Li",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/9456.png"
+  },
+  {
+   "i": 9457,
+   "number": "USD948189S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Graziano Mazza",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/9457.png"
+  },
+  {
+   "i": 9458,
+   "number": "USD665017S1",
+   "term": "printer",
+   "title": "Printer",
+   "assignee": "Domino Printing Sciences Plc",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/9458.png"
+  },
+  {
+   "i": 9459,
+   "number": "USD465481S1",
+   "term": "modem",
+   "title": "Modem",
+   "assignee": "Vdsl Systems Oy",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/9459.png"
+  },
+  {
+   "i": 9460,
+   "number": "USD626548S1",
+   "term": "laptop computer",
+   "title": "Laptop computer",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/9460.png"
+  },
+  {
+   "i": 9461,
+   "number": "USD810743S1",
+   "term": "head mounted display",
+   "title": "Head mounted display",
+   "assignee": "Oculus Vr, Llc",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9461.png"
+  },
+  {
+   "i": 9462,
+   "number": "USD279381S",
+   "term": "calculator",
+   "title": "Calculator ruler or similar article",
+   "assignee": "Cal-Comp Electronice, Inc.",
+   "year": 1985,
+   "figures": 1,
+   "file": "img/9462.png"
+  },
+  {
+   "i": 9463,
+   "number": "USD230632S",
+   "term": "radio receiver",
+   "title": "Radio receiver",
+   "assignee": "Matsu",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/9463.png"
+  },
+  {
+   "i": 9464,
+   "number": "USD273200S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator with solar batteries",
+   "assignee": "Sharp Corporation",
+   "year": 1984,
+   "figures": 2,
+   "file": "img/9464.png"
+  },
+  {
+   "i": 9465,
+   "number": "USD720752S1",
+   "term": "scanner",
+   "title": "Scanner",
+   "assignee": "Mobile Technology Holdings Limited",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/9465.png"
+  },
+  {
+   "i": 9466,
+   "number": "USD564988S1",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Sony Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/9466.png"
+  },
+  {
+   "i": 9467,
+   "number": "USD916987S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Huan-Qun Chen",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9467.png"
+  },
+  {
+   "i": 9468,
+   "number": "USD238342S",
+   "term": "wristwatch",
+   "title": "Patent USD238342S",
+   "assignee": "",
+   "year": 1976,
+   "figures": 1,
+   "file": "img/9468.png"
+  },
+  {
+   "i": 9469,
+   "number": "USD955122S1",
+   "term": "chair",
+   "title": "Chair",
+   "assignee": "GoPlus Corp.",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/9469.png"
+  },
+  {
+   "i": 9470,
+   "number": "USD1012880S1",
+   "term": "loudspeaker",
+   "title": "Loudspeaker",
+   "assignee": "Harman International Industries, Incorporated",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/9470.png"
+  },
+  {
+   "i": 9471,
+   "number": "USD873880S1",
+   "term": "digital camera",
+   "title": "Digital camera",
+   "assignee": "Fujifilm Corporation",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9471.png"
+  },
+  {
+   "i": 9472,
+   "number": "USD721116S1",
+   "term": "camera",
+   "title": "Camera",
+   "assignee": "Ip Holdings, Inc.",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/9472.png"
+  },
+  {
+   "i": 9473,
+   "number": "USD1082752S1",
+   "term": "remote control",
+   "title": "Remote control",
+   "assignee": "Yealink (Xiamen) Network Technology Co., Ltd.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/9473.png"
+  },
+  {
+   "i": 9474,
+   "number": "USD327907S",
+   "term": "printer",
+   "title": "Printer",
+   "assignee": "Sharp Corporation",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/9474.png"
+  },
+  {
+   "i": 9475,
+   "number": "USD184541S",
+   "term": "photographic camera",
+   "title": "Photographic camera",
+   "assignee": "",
+   "year": 1959,
+   "figures": 1,
+   "file": "img/9475.png"
+  },
+  {
+   "i": 9476,
+   "number": "USD638811S1",
+   "term": "set-top box",
+   "title": "Set-top box",
+   "assignee": "General Instrument Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9476.png"
+  },
+  {
+   "i": 9477,
+   "number": "USD811394S1",
+   "term": "head mounted display",
+   "title": "Head mounted display",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/9477.png"
+  },
+  {
+   "i": 9478,
+   "number": "USD262077S",
+   "term": "armchair",
+   "title": "Arm chair or similar article",
+   "assignee": "Allibert Exploitation",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/9478.png"
+  },
+  {
+   "i": 9479,
+   "number": "USD222266S",
+   "term": "electronic calculator",
+   "title": "Electronic calculator",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/9479.png"
+  },
+  {
+   "i": 9480,
+   "number": "USD559878S1",
+   "term": "video camera",
+   "title": "Video camera",
+   "assignee": "Sony Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/9480.png"
+  },
+  {
+   "i": 9481,
+   "number": "USD378752S",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/9481.png"
+  },
+  {
+   "i": 9482,
+   "number": "USD351070S",
+   "term": "chair",
+   "title": "Chair",
+   "assignee": "Steelcase Inc.",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/9482.png"
+  },
+  {
+   "i": 9483,
+   "number": "USD1063896S1",
+   "term": "loudspeaker",
+   "title": "Loudspeaker grille",
+   "assignee": "Meyer Sound Laboratories, Incorporated",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/9483.png"
+  },
+  {
+   "i": 9484,
+   "number": "USD484158S1",
+   "term": "digital camera",
+   "title": "Digital camera",
+   "assignee": "Samsung Techwin Co., Ltd",
+   "year": 2003,
+   "figures": 3,
+   "file": "img/9484.png"
+  },
+  {
+   "i": 9485,
+   "number": "USD543519S1",
+   "term": "television",
+   "title": "Television set",
+   "assignee": "Sharp Kabushiki Kaisha",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9485.png"
+  },
+  {
+   "i": 9486,
+   "number": "USD868905S1",
+   "term": "remote control",
+   "title": "Remote control car",
+   "assignee": "MerchSource, LLC",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9486.png"
+  },
+  {
+   "i": 9487,
+   "number": "USD917845S1",
+   "term": "shoe sole",
+   "title": "Shoe sole",
+   "assignee": "Shenzhen Micro Jasmine Electronic Commerce Co., Ltd.",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/9487.png"
+  },
+  {
+   "i": 9488,
+   "number": "USD910111S1",
+   "term": "printer",
+   "title": "Printer for nail sticker",
+   "assignee": "Ds Global",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/9488.png"
+  },
+  {
+   "i": 9489,
+   "number": "USD962230S1",
+   "term": "smart watch",
+   "title": "Smart watch",
+   "assignee": "Xinyan Wu",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9489.png"
+  },
+  {
+   "i": 9490,
+   "number": "USD512410S1",
+   "term": "radio receiver",
+   "title": "Radio receiver",
+   "assignee": "Chit Shun Enterprises Co., Ltd.",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/9490.png"
+  },
+  {
+   "i": 9491,
+   "number": "USD335875S",
+   "term": "computer mouse",
+   "title": "Computer mouse",
+   "assignee": "Jimmy Chen",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/9491.png"
+  },
+  {
+   "i": 9492,
+   "number": "USD439610S1",
+   "term": "scanner",
+   "title": "Scanner cartridge for printer",
+   "assignee": "Canon Kabushiki Kaisha",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/9492.png"
+  },
+  {
+   "i": 9493,
+   "number": "USD430587S",
+   "term": "video camera",
+   "title": "Video camera",
+   "assignee": "Logitech, Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/9493.png"
+  },
+  {
+   "i": 9494,
+   "number": "USD349698S",
+   "term": "television receiver",
+   "title": "Television receiver",
+   "assignee": "Goldstar Co., Ltd.",
+   "year": 1994,
+   "figures": 2,
+   "file": "img/9494.png"
+  },
+  {
+   "i": 9495,
+   "number": "USD969898S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "GoBe Robots ApS",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/9495.png"
+  },
+  {
+   "i": 9496,
+   "number": "USD348572S",
+   "term": "chair",
+   "title": "Chair",
+   "assignee": "Peter Glass",
+   "year": 1994,
+   "figures": 3,
+   "file": "img/9496.png"
+  },
+  {
+   "i": 9497,
+   "number": "USD669927S1",
+   "term": "camera",
+   "title": "Camera",
+   "assignee": "Sony Corporation",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/9497.png"
+  },
+  {
+   "i": 9498,
+   "number": "USD661268S1",
+   "term": "television",
+   "title": "Television apparatus",
+   "assignee": "Panasonic Corporation",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/9498.png"
+  },
+  {
+   "i": 9499,
+   "number": "USD631849S1",
+   "term": "remote control",
+   "title": "Remote control keypad",
+   "assignee": "Lutron Electronics Co., Inc.",
+   "year": 2011,
+   "figures": 3,
+   "file": "img/9499.png"
   }
  ]
 }

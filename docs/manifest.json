@@ -1,6 +1,6 @@
 {
- "count": 8900,
- "generated_at": 1788973619,
+ "count": 9000,
+ "generated_at": 1788973785,
  "items": [
   {
    "i": 0,
@@ -89001,6 +89001,1006 @@
    "year": 2019,
    "figures": 3,
    "file": "img/8899.png"
+  },
+  {
+   "i": 8900,
+   "number": "USD1051529S1",
+   "term": "robot",
+   "title": "Robot vacuum",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/8900.png"
+  },
+  {
+   "i": 8901,
+   "number": "USD833893S1",
+   "term": "thermostat",
+   "title": "Thermostat device",
+   "assignee": "Ecobee Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8901.png"
+  },
+  {
+   "i": 8902,
+   "number": "USD1027677S1",
+   "term": "thermostat",
+   "title": "Thermostat device",
+   "assignee": "Cielo WiGle Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8902.png"
+  },
+  {
+   "i": 8903,
+   "number": "USD713436S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/8903.png"
+  },
+  {
+   "i": 8904,
+   "number": "USD876971S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Johnson Controls Technology Company",
+   "year": 2020,
+   "figures": 3,
+   "file": "img/8904.png"
+  },
+  {
+   "i": 8905,
+   "number": "USD881289S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Tomy Company, Ltd.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/8905.png"
+  },
+  {
+   "i": 8906,
+   "number": "USD319403S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Itt Corporation",
+   "year": 1991,
+   "figures": 1,
+   "file": "img/8906.png"
+  },
+  {
+   "i": 8907,
+   "number": "USD925634S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Shenzhen Yuejiang Technology Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/8907.png"
+  },
+  {
+   "i": 8908,
+   "number": "USD291895S",
+   "term": "thermostat",
+   "title": "Thermostat magnifier",
+   "assignee": "Steiner Gerald R",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/8908.png"
+  },
+  {
+   "i": 8909,
+   "number": "USD784640S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Irobot Corporation",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/8909.png"
+  },
+  {
+   "i": 8910,
+   "number": "USD676768S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Orbit Irrigation Products, Inc.",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/8910.png"
+  },
+  {
+   "i": 8911,
+   "number": "USD971981S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Clutterbot, Inc.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8911.png"
+  },
+  {
+   "i": 8912,
+   "number": "USD772735S1",
+   "term": "thermostat",
+   "title": "Thermostat/hub for climate control and monitoring",
+   "assignee": "Tronac Pty Ltd",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/8912.png"
+  },
+  {
+   "i": 8913,
+   "number": "USD993786S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Ocean Controls Limited",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/8913.png"
+  },
+  {
+   "i": 8914,
+   "number": "USD625347S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/8914.png"
+  },
+  {
+   "i": 8915,
+   "number": "USD188218S",
+   "term": "thermostat",
+   "title": "Thermostat guard or like article",
+   "assignee": "",
+   "year": 1960,
+   "figures": 1,
+   "file": "img/8915.png"
+  },
+  {
+   "i": 8916,
+   "number": "USD1041107S1",
+   "term": "robot",
+   "title": "Robot vacuum cleaner dust bag",
+   "assignee": "Yu Xu",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8916.png"
+  },
+  {
+   "i": 8917,
+   "number": "USD659560S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Emerson Electric Co.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/8917.png"
+  },
+  {
+   "i": 8918,
+   "number": "USD792917S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Schuler Ag",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/8918.png"
+  },
+  {
+   "i": 8919,
+   "number": "USD875569S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Johnson Controls, Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/8919.png"
+  },
+  {
+   "i": 8920,
+   "number": "USD959526S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Google Llc",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8920.png"
+  },
+  {
+   "i": 8921,
+   "number": "USD705094S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Orbit Irrigation Products, Inc.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/8921.png"
+  },
+  {
+   "i": 8922,
+   "number": "USD814542S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/8922.png"
+  },
+  {
+   "i": 8923,
+   "number": "USD219617S",
+   "term": "thermostat",
+   "title": "Thermostat socket",
+   "assignee": "",
+   "year": 1970,
+   "figures": 1,
+   "file": "img/8923.png"
+  },
+  {
+   "i": 8924,
+   "number": "USD669943S1",
+   "term": "robot",
+   "title": "Robot attachment",
+   "assignee": "Innovation First, Inc.",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/8924.png"
+  },
+  {
+   "i": 8925,
+   "number": "USD876260S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Johnson Controls Technology Company",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/8925.png"
+  },
+  {
+   "i": 8926,
+   "number": "USD997223S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Primate Robot Hong Kong Co., Limited",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/8926.png"
+  },
+  {
+   "i": 8927,
+   "number": "USD1018332S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Johnson Controls Tyco IP Holdings LLP",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8927.png"
+  },
+  {
+   "i": 8928,
+   "number": "USD871694S1",
+   "term": "robot",
+   "title": "Robot cleaner",
+   "assignee": "Carl Freudenberg Kg",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/8928.png"
+  },
+  {
+   "i": 8929,
+   "number": "USD715165S1",
+   "term": "thermostat",
+   "title": "Thermostat unit",
+   "assignee": "Energate Inc.",
+   "year": 2014,
+   "figures": 2,
+   "file": "img/8929.png"
+  },
+  {
+   "i": 8930,
+   "number": "USD622299S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/8930.png"
+  },
+  {
+   "i": 8931,
+   "number": "USD928857S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Shape Robotics ApS",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/8931.png"
+  },
+  {
+   "i": 8932,
+   "number": "USD795712S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Dometic Sweden Ab",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/8932.png"
+  },
+  {
+   "i": 8933,
+   "number": "USD314401S",
+   "term": "robot",
+   "title": "Robot newspaper vending machine",
+   "assignee": "Lehman Communications Corporation",
+   "year": 1991,
+   "figures": 2,
+   "file": "img/8933.png"
+  },
+  {
+   "i": 8934,
+   "number": "USD290235S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Honeywell Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/8934.png"
+  },
+  {
+   "i": 8935,
+   "number": "USD734180S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Lux Products Corporation",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/8935.png"
+  },
+  {
+   "i": 8936,
+   "number": "USD839511S1",
+   "term": "robot",
+   "title": "Robot vacuum cleaner",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8936.png"
+  },
+  {
+   "i": 8937,
+   "number": "USD209777S",
+   "term": "thermostat",
+   "title": "Thermostat or similar article",
+   "assignee": "International Tele",
+   "year": 1968,
+   "figures": 1,
+   "file": "img/8937.png"
+  },
+  {
+   "i": 8938,
+   "number": "USD954120S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Ubtech Robotics Corp Ltd",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/8938.png"
+  },
+  {
+   "i": 8939,
+   "number": "USD191955S",
+   "term": "thermostat",
+   "title": "Figure",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/8939.png"
+  },
+  {
+   "i": 8940,
+   "number": "USD978263S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Shenzhen Huipin Design Co., Ltd",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/8940.png"
+  },
+  {
+   "i": 8941,
+   "number": "USD705092S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Prol IAQ Inc.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/8941.png"
+  },
+  {
+   "i": 8942,
+   "number": "USD273300S",
+   "term": "robot",
+   "title": "Robot for automatic paint spraying or the like",
+   "assignee": "Ole Molaug",
+   "year": 1984,
+   "figures": 2,
+   "file": "img/8942.png"
+  },
+  {
+   "i": 8943,
+   "number": "USD608804S1",
+   "term": "robot",
+   "title": "Robot shoulder",
+   "assignee": "Mako Surgical Corp.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/8943.png"
+  },
+  {
+   "i": 8944,
+   "number": "USD987447S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Johnson Controls Tyco IP Holdings LLP",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/8944.png"
+  },
+  {
+   "i": 8945,
+   "number": "USD869108S1",
+   "term": "robot",
+   "title": "Robot comprising a service module",
+   "assignee": "Discovery Robotics",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8945.png"
+  },
+  {
+   "i": 8946,
+   "number": "USD705093S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Prol IAQ Inc.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/8946.png"
+  },
+  {
+   "i": 8947,
+   "number": "USD738585S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Irobot Corporation",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/8947.png"
+  },
+  {
+   "i": 8948,
+   "number": "USD172499S",
+   "term": "thermostat",
+   "title": "Thermostat casing or similar article",
+   "assignee": "",
+   "year": 1954,
+   "figures": 1,
+   "file": "img/8948.png"
+  },
+  {
+   "i": 8949,
+   "number": "USD869573S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Tomy Company, Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8949.png"
+  },
+  {
+   "i": 8950,
+   "number": "USD1048228S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Cicaboom S.R.L.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/8950.png"
+  },
+  {
+   "i": 8951,
+   "number": "USD870573S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Dongguan Zhongjin Electronic Technology Co., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8951.png"
+  },
+  {
+   "i": 8952,
+   "number": "USD749159S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/8952.png"
+  },
+  {
+   "i": 8953,
+   "number": "USD93452S",
+   "term": "thermostat",
+   "title": "Design for a thermostat casing",
+   "assignee": "",
+   "year": 1934,
+   "figures": 1,
+   "file": "img/8953.png"
+  },
+  {
+   "i": 8954,
+   "number": "USD869533S1",
+   "term": "robot",
+   "title": "Robot for guiding people",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/8954.png"
+  },
+  {
+   "i": 8955,
+   "number": "USD181678S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "",
+   "year": 1957,
+   "figures": 1,
+   "file": "img/8955.png"
+  },
+  {
+   "i": 8956,
+   "number": "USD604753S1",
+   "term": "robot",
+   "title": "Robot end effector",
+   "assignee": "Mako Surgical Corp.",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/8956.png"
+  },
+  {
+   "i": 8957,
+   "number": "USD179500S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Detroit Controls Corporation",
+   "year": 1957,
+   "figures": 1,
+   "file": "img/8957.png"
+  },
+  {
+   "i": 8958,
+   "number": "USD570927S1",
+   "term": "robot",
+   "title": "Robot toy figure",
+   "assignee": "Robinson Dyke N",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/8958.png"
+  },
+  {
+   "i": 8959,
+   "number": "USD460131S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Honda Giken Kogyo Kabushiki Kaisha",
+   "year": 2002,
+   "figures": 1,
+   "file": "img/8959.png"
+  },
+  {
+   "i": 8960,
+   "number": "USD386987S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Hunter Fan Company",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/8960.png"
+  },
+  {
+   "i": 8961,
+   "number": "USD818951S1",
+   "term": "robot",
+   "title": "Robot vacuum charging unit",
+   "assignee": "AI Incorporated",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8961.png"
+  },
+  {
+   "i": 8962,
+   "number": "USD978275S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Shenzhen Huipin Design Co., Ltd",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/8962.png"
+  },
+  {
+   "i": 8963,
+   "number": "USD720510S1",
+   "term": "robot",
+   "title": "Robot vacuum cleaner",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/8963.png"
+  },
+  {
+   "i": 8964,
+   "number": "USD727180S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Hailin Energy Technology Inc.",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/8964.png"
+  },
+  {
+   "i": 8965,
+   "number": "USD933319S1",
+   "term": "robot",
+   "title": "Robot vacuum cleaner",
+   "assignee": "Midea Group Co., Ltd.",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/8965.png"
+  },
+  {
+   "i": 8966,
+   "number": "USD915480S1",
+   "term": "robot",
+   "title": "Robot welding cell",
+   "assignee": "Abb Schweiz Ag",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/8966.png"
+  },
+  {
+   "i": 8967,
+   "number": "USD1048129S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Beijing Geekplus Technology Co. Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8967.png"
+  },
+  {
+   "i": 8968,
+   "number": "USD208814S",
+   "term": "thermostat",
+   "title": "Thermostat casing",
+   "assignee": "",
+   "year": 1967,
+   "figures": 1,
+   "file": "img/8968.png"
+  },
+  {
+   "i": 8969,
+   "number": "USD183337S",
+   "term": "thermostat",
+   "title": "Thermostat or similar article",
+   "assignee": "Metals a Controls Corporation",
+   "year": 1958,
+   "figures": 1,
+   "file": "img/8969.png"
+  },
+  {
+   "i": 8970,
+   "number": "USD290147S",
+   "term": "robot",
+   "title": "Robot action figure",
+   "assignee": "The Mel Appel Company",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/8970.png"
+  },
+  {
+   "i": 8971,
+   "number": "USD870215S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Tomy Company, Ltd.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/8971.png"
+  },
+  {
+   "i": 8972,
+   "number": "USD582801S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Carrier Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/8972.png"
+  },
+  {
+   "i": 8973,
+   "number": "USD838786S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Icon Corp.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/8973.png"
+  },
+  {
+   "i": 8974,
+   "number": "USD835214S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Ubtech Education (Shenzhen) Co., Ltd",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/8974.png"
+  },
+  {
+   "i": 8975,
+   "number": "USD119644S",
+   "term": "thermostat",
+   "title": "Design foe a thermostat",
+   "assignee": "Cook Electric Company",
+   "year": 1940,
+   "figures": 1,
+   "file": "img/8975.png"
+  },
+  {
+   "i": 8976,
+   "number": "USD790141S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Irobot Corporation",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/8976.png"
+  },
+  {
+   "i": 8977,
+   "number": "USD183369S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "General Controls Co",
+   "year": 1958,
+   "figures": 1,
+   "file": "img/8977.png"
+  },
+  {
+   "i": 8978,
+   "number": "USD179501S",
+   "term": "thermostat",
+   "title": "Heat xoff x xfan i icf",
+   "assignee": "",
+   "year": 1957,
+   "figures": 1,
+   "file": "img/8978.png"
+  },
+  {
+   "i": 8979,
+   "number": "USD927805S1",
+   "term": "robot",
+   "title": "Robot cleaner",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/8979.png"
+  },
+  {
+   "i": 8980,
+   "number": "USD854876S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Shenzhen Kinglooyuan Technology Co., Ltd",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/8980.png"
+  },
+  {
+   "i": 8981,
+   "number": "USD719620S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Aldebaran Robotics",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/8981.png"
+  },
+  {
+   "i": 8982,
+   "number": "USD228468S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "",
+   "year": 1973,
+   "figures": 1,
+   "file": "img/8982.png"
+  },
+  {
+   "i": 8983,
+   "number": "USD1057575S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Siterwell Electronics Co., Limited",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/8983.png"
+  },
+  {
+   "i": 8984,
+   "number": "USD292981S",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Asea Ab",
+   "year": 1987,
+   "figures": 2,
+   "file": "img/8984.png"
+  },
+  {
+   "i": 8985,
+   "number": "USD772085S1",
+   "term": "thermostat",
+   "title": "Thermostat controller",
+   "assignee": "Johnson Controls Technology Company",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/8985.png"
+  },
+  {
+   "i": 8986,
+   "number": "USD194613S",
+   "term": "robot",
+   "title": "Robot amusement ride device",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/8986.png"
+  },
+  {
+   "i": 8987,
+   "number": "USD937689S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Belimo Holdinng Ag",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/8987.png"
+  },
+  {
+   "i": 8988,
+   "number": "USD842907S1",
+   "term": "robot",
+   "title": "Robot lawn mower",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/8988.png"
+  },
+  {
+   "i": 8989,
+   "number": "USD44077S",
+   "term": "thermostat",
+   "title": "Planogkaph co",
+   "assignee": "",
+   "year": 1913,
+   "figures": 1,
+   "file": "img/8989.png"
+  },
+  {
+   "i": 8990,
+   "number": "USD921082S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Ubtech Robotics Corp Ltd",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/8990.png"
+  },
+  {
+   "i": 8991,
+   "number": "USD662839S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Braeburn Systems Llc",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/8991.png"
+  },
+  {
+   "i": 8992,
+   "number": "USD895702S1",
+   "term": "robot",
+   "title": "Robot with flexible arms",
+   "assignee": "Abb Schweiz Ag",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/8992.png"
+  },
+  {
+   "i": 8993,
+   "number": "USD498684S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Alan N. Friedman",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/8993.png"
+  },
+  {
+   "i": 8994,
+   "number": "USD744709S1",
+   "term": "robot",
+   "title": "Robot cleaner body",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/8994.png"
+  },
+  {
+   "i": 8995,
+   "number": "USD796757S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Irobot Corporation",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/8995.png"
+  },
+  {
+   "i": 8996,
+   "number": "USD569886S1",
+   "term": "robot",
+   "title": "Robot arm",
+   "assignee": "Abb Ab",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/8996.png"
+  },
+  {
+   "i": 8997,
+   "number": "USD846663S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Woobo Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8997.png"
+  },
+  {
+   "i": 8998,
+   "number": "USD527854S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Reckitt Benckiser Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/8998.png"
+  },
+  {
+   "i": 8999,
+   "number": "USD826303S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Fondazione Istituto Italiano Di Tecnologia",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8999.png"
   }
  ]
 }

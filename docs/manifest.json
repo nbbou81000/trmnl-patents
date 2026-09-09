@@ -1,6 +1,6 @@
 {
- "count": 9500,
- "generated_at": 1788979837,
+ "count": 9576,
+ "generated_at": 1788980513,
  "items": [
   {
    "i": 0,
@@ -95001,6 +95001,766 @@
    "year": 2011,
    "figures": 3,
    "file": "img/9499.png"
+  },
+  {
+   "i": 9500,
+   "number": "USD886757S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9500.png"
+  },
+  {
+   "i": 9501,
+   "number": "USD491158S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Dbtel Incorporated",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/9501.png"
+  },
+  {
+   "i": 9502,
+   "number": "USD609669S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Fih (Hong Kong) Limited",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/9502.png"
+  },
+  {
+   "i": 9503,
+   "number": "USD558179S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9503.png"
+  },
+  {
+   "i": 9504,
+   "number": "USD619988S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9504.png"
+  },
+  {
+   "i": 9505,
+   "number": "USD525229S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Fujitsu Limited",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/9505.png"
+  },
+  {
+   "i": 9506,
+   "number": "USD653231S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/9506.png"
+  },
+  {
+   "i": 9507,
+   "number": "USD697887S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Huawei Device Co., Ltd.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/9507.png"
+  },
+  {
+   "i": 9508,
+   "number": "USD534892S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2007,
+   "figures": 3,
+   "file": "img/9508.png"
+  },
+  {
+   "i": 9509,
+   "number": "USD680998S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/9509.png"
+  },
+  {
+   "i": 9510,
+   "number": "USD630199S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Japan, Inc.",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/9510.png"
+  },
+  {
+   "i": 9511,
+   "number": "USD712866S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Mobile Communications Ab",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/9511.png"
+  },
+  {
+   "i": 9512,
+   "number": "USD926150S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Honor Device Co., Ltd.",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/9512.png"
+  },
+  {
+   "i": 9513,
+   "number": "USD879736S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9513.png"
+  },
+  {
+   "i": 9514,
+   "number": "USD928140S1",
+   "term": "mobile phone",
+   "title": "Mobile phone support",
+   "assignee": "Aukey Technology Co., Ltd",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9514.png"
+  },
+  {
+   "i": 9515,
+   "number": "USD631461S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Huawei Device Co., Ltd.",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/9515.png"
+  },
+  {
+   "i": 9516,
+   "number": "USD650351S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Chi Mei Communication Systems, Inc.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9516.png"
+  },
+  {
+   "i": 9517,
+   "number": "USD890712S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Beijing Xiaomi Mobile Software Co., Ltd.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9517.png"
+  },
+  {
+   "i": 9518,
+   "number": "USD783591S1",
+   "term": "mobile phone",
+   "title": "Mobile phone keychain cradle",
+   "assignee": "Joseph John Grutzik",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/9518.png"
+  },
+  {
+   "i": 9519,
+   "number": "USD827604S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9519.png"
+  },
+  {
+   "i": 9520,
+   "number": "USD713373S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Mobile Communications Ab",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/9520.png"
+  },
+  {
+   "i": 9521,
+   "number": "USD631031S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Fih (Hong Kong) Limited",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9521.png"
+  },
+  {
+   "i": 9522,
+   "number": "USD627755S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Chi Mei Communication Systems, Inc.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9522.png"
+  },
+  {
+   "i": 9523,
+   "number": "USD967790S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Hmd Global Oy",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9523.png"
+  },
+  {
+   "i": 9524,
+   "number": "USD598888S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Inventec Appliances Corp.",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/9524.png"
+  },
+  {
+   "i": 9525,
+   "number": "USD966225S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/9525.png"
+  },
+  {
+   "i": 9526,
+   "number": "USD688639S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Chi Mei Communication Systems, Inc.",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/9526.png"
+  },
+  {
+   "i": 9527,
+   "number": "USD1062706S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Beijing Xiaomi Mobile Software Co., Ltd.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/9527.png"
+  },
+  {
+   "i": 9528,
+   "number": "USD714269S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Display Co., Ltd.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/9528.png"
+  },
+  {
+   "i": 9529,
+   "number": "USD856296S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Hmd Global Oy",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9529.png"
+  },
+  {
+   "i": 9530,
+   "number": "USD901483S1",
+   "term": "mobile phone",
+   "title": "Mobile phone support connector",
+   "assignee": "Popsockets Llc",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9530.png"
+  },
+  {
+   "i": 9531,
+   "number": "USD639265S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Cheng Uei Precision Industry Co., Ltd.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9531.png"
+  },
+  {
+   "i": 9532,
+   "number": "USD574808S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/9532.png"
+  },
+  {
+   "i": 9533,
+   "number": "USD671939S1",
+   "term": "mobile phone",
+   "title": "Mobile phone monitor",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/9533.png"
+  },
+  {
+   "i": 9534,
+   "number": "USD539257S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9534.png"
+  },
+  {
+   "i": 9535,
+   "number": "USD492657S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/9535.png"
+  },
+  {
+   "i": 9536,
+   "number": "USD628182S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9536.png"
+  },
+  {
+   "i": 9537,
+   "number": "USD585044S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/9537.png"
+  },
+  {
+   "i": 9538,
+   "number": "USD608749S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Fih (Hong Kong) Limited",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9538.png"
+  },
+  {
+   "i": 9539,
+   "number": "USD920305S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9539.png"
+  },
+  {
+   "i": 9540,
+   "number": "USD730310S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Htc Corporation",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/9540.png"
+  },
+  {
+   "i": 9541,
+   "number": "USD900049S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Beijing Xiaomi Mobile Software Co., Ltd.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9541.png"
+  },
+  {
+   "i": 9542,
+   "number": "USD618656S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9542.png"
+  },
+  {
+   "i": 9543,
+   "number": "USD834553S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Hmd Global Oy",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/9543.png"
+  },
+  {
+   "i": 9544,
+   "number": "USD635949S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/9544.png"
+  },
+  {
+   "i": 9545,
+   "number": "USD656474S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/9545.png"
+  },
+  {
+   "i": 9546,
+   "number": "USD742875S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/9546.png"
+  },
+  {
+   "i": 9547,
+   "number": "USD890114S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Beijing Xiaomi Mobile Software Co., Ltd.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9547.png"
+  },
+  {
+   "i": 9548,
+   "number": "USD854507S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Hmd Global Oy",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/9548.png"
+  },
+  {
+   "i": 9549,
+   "number": "USD863246S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Guangdong Oppo Mobile Telecommunications Corp., Ltd.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/9549.png"
+  },
+  {
+   "i": 9550,
+   "number": "USD752010S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/9550.png"
+  },
+  {
+   "i": 9551,
+   "number": "USD862407S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9551.png"
+  },
+  {
+   "i": 9552,
+   "number": "USD665372S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/9552.png"
+  },
+  {
+   "i": 9553,
+   "number": "USD981389S1",
+   "term": "mobile phone",
+   "title": "Mobile phone waterproof container",
+   "assignee": "Hanping Wang",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/9553.png"
+  },
+  {
+   "i": 9554,
+   "number": "USD515532S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/9554.png"
+  },
+  {
+   "i": 9555,
+   "number": "USD512398S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Fih Co., Ltd.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/9555.png"
+  },
+  {
+   "i": 9556,
+   "number": "USD828319S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/9556.png"
+  },
+  {
+   "i": 9557,
+   "number": "USD638816S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Fih (Hong Kong) Limited",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9557.png"
+  },
+  {
+   "i": 9558,
+   "number": "USD831017S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9558.png"
+  },
+  {
+   "i": 9559,
+   "number": "USD694730S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/9559.png"
+  },
+  {
+   "i": 9560,
+   "number": "USD641332S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9560.png"
+  },
+  {
+   "i": 9561,
+   "number": "USD601112S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/9561.png"
+  },
+  {
+   "i": 9562,
+   "number": "USD626527S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/9562.png"
+  },
+  {
+   "i": 9563,
+   "number": "USD849709S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9563.png"
+  },
+  {
+   "i": 9564,
+   "number": "USD956043S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9564.png"
+  },
+  {
+   "i": 9565,
+   "number": "USD544460S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Quanta Computer Inc.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9565.png"
+  },
+  {
+   "i": 9566,
+   "number": "USD616860S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/9566.png"
+  },
+  {
+   "i": 9567,
+   "number": "USD858475S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Guangdong Oppo Mobile Telecommunications Corp., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9567.png"
+  },
+  {
+   "i": 9568,
+   "number": "USD617757S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9568.png"
+  },
+  {
+   "i": 9569,
+   "number": "USD909326S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Beijing Xiaomi Mobile Software Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9569.png"
+  },
+  {
+   "i": 9570,
+   "number": "USD700163S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Chi Mei Communication Systems, Inc.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/9570.png"
+  },
+  {
+   "i": 9571,
+   "number": "USD949119S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/9571.png"
+  },
+  {
+   "i": 9572,
+   "number": "USD1016027S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Huawei Technologies Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/9572.png"
+  },
+  {
+   "i": 9573,
+   "number": "USD427983S",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/9573.png"
+  },
+  {
+   "i": 9574,
+   "number": "USD829679S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9574.png"
+  },
+  {
+   "i": 9575,
+   "number": "USD633885S1",
+   "term": "mobile phone",
+   "title": "Mobile phone",
+   "assignee": "Sony Ericsson Mobile Communications Ab",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/9575.png"
   }
  ]
 }

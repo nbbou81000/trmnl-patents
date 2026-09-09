@@ -1,6 +1,6 @@
 {
- "count": 8500,
- "generated_at": 1788970351,
+ "count": 8600,
+ "generated_at": 1788973082,
  "items": [
   {
    "i": 0,
@@ -85001,6 +85001,1006 @@
    "year": 2023,
    "figures": 1,
    "file": "img/8499.png"
+  },
+  {
+   "i": 8500,
+   "number": "USD1067751S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Assa Abloy Access And Egress Hardware Group, Inc.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/8500.png"
+  },
+  {
+   "i": 8501,
+   "number": "USD860048S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Parrot Drones",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/8501.png"
+  },
+  {
+   "i": 8502,
+   "number": "USD802450S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Vivint, Inc.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/8502.png"
+  },
+  {
+   "i": 8503,
+   "number": "USD812329S1",
+   "term": "robot",
+   "title": "Robot cleaner",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8503.png"
+  },
+  {
+   "i": 8504,
+   "number": "USD1037924S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "Guangdong Hengdi Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8504.png"
+  },
+  {
+   "i": 8505,
+   "number": "USD966070S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Assa Abloy Access And Egress Hardware Group, Inc.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8505.png"
+  },
+  {
+   "i": 8506,
+   "number": "USD145672S",
+   "term": "alarm clock",
+   "title": "Design for an alarm clock",
+   "assignee": "",
+   "year": 1946,
+   "figures": 1,
+   "file": "img/8506.png"
+  },
+  {
+   "i": 8507,
+   "number": "USD890629S1",
+   "term": "drone",
+   "title": "Drone body",
+   "assignee": "Teal Drones, Inc.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/8507.png"
+  },
+  {
+   "i": 8508,
+   "number": "USD711061S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/8508.png"
+  },
+  {
+   "i": 8509,
+   "number": "USD808301S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "Trend Right Research And Development Corporation",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/8509.png"
+  },
+  {
+   "i": 8510,
+   "number": "USD766067S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "RPH Engineering",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/8510.png"
+  },
+  {
+   "i": 8511,
+   "number": "USD546327S1",
+   "term": "memory card",
+   "title": "Memory-card type USB mass storage device",
+   "assignee": "I-Ming Chen",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/8511.png"
+  },
+  {
+   "i": 8512,
+   "number": "USD275844S",
+   "term": "alarm clock",
+   "title": "Alarm clock dial",
+   "assignee": "Timex Corporation",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/8512.png"
+  },
+  {
+   "i": 8513,
+   "number": "USD1075568S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Zhaoquan Lin",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/8513.png"
+  },
+  {
+   "i": 8514,
+   "number": "USD650404S1",
+   "term": "robot",
+   "title": "Robot hand",
+   "assignee": "Panasonic Corporation",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/8514.png"
+  },
+  {
+   "i": 8515,
+   "number": "USD840884S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle ground control station",
+   "assignee": "Autel Robotics Co., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8515.png"
+  },
+  {
+   "i": 8516,
+   "number": "USD554974S1",
+   "term": "door lock",
+   "title": "Door lock escutcheon",
+   "assignee": "Taiwan Fu Hsing Industrial Co., Ltd.",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/8516.png"
+  },
+  {
+   "i": 8517,
+   "number": "USD656043S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Bellman & Symfon Europe AB",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/8517.png"
+  },
+  {
+   "i": 8518,
+   "number": "USD952553S1",
+   "term": "drone",
+   "title": "Drone battery pack",
+   "assignee": "Uavpatent Corp.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8518.png"
+  },
+  {
+   "i": 8519,
+   "number": "USD650819S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/8519.png"
+  },
+  {
+   "i": 8520,
+   "number": "USD885301S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "Guangzhou Walkera Technology Co., Ltd",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/8520.png"
+  },
+  {
+   "i": 8521,
+   "number": "USD972973S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Wenhui Xu",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8521.png"
+  },
+  {
+   "i": 8522,
+   "number": "USD582803S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Carrier Corporation",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/8522.png"
+  },
+  {
+   "i": 8523,
+   "number": "USD981059S1",
+   "term": "robot",
+   "title": "Robot vacuum cleaner",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/8523.png"
+  },
+  {
+   "i": 8524,
+   "number": "USD830228S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "Adrian A. Grassi",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8524.png"
+  },
+  {
+   "i": 8525,
+   "number": "USD1061215S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Master Lock Company Llc",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/8525.png"
+  },
+  {
+   "i": 8526,
+   "number": "USD413524S",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Alfa Technology Limited",
+   "year": 1999,
+   "figures": 2,
+   "file": "img/8526.png"
+  },
+  {
+   "i": 8527,
+   "number": "USD1032409S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Autoflight (Kunshan) Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/8527.png"
+  },
+  {
+   "i": 8528,
+   "number": "USD927106S1",
+   "term": "robot",
+   "title": "Robot cleaner",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/8528.png"
+  },
+  {
+   "i": 8529,
+   "number": "USD1075567S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "OnE Engineering LLC",
+   "year": 2025,
+   "figures": 3,
+   "file": "img/8529.png"
+  },
+  {
+   "i": 8530,
+   "number": "USD733520S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "William Barna",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/8530.png"
+  },
+  {
+   "i": 8531,
+   "number": "USD1020742S1",
+   "term": "memory card",
+   "title": "Memory card reader for programmable controller",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8531.png"
+  },
+  {
+   "i": 8532,
+   "number": "USD1014329S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Argosdyne Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/8532.png"
+  },
+  {
+   "i": 8533,
+   "number": "USD870572S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Dongguan Zhongjin Electronic Technology Co., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8533.png"
+  },
+  {
+   "i": 8534,
+   "number": "USD776570S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "Matternet, Inc.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/8534.png"
+  },
+  {
+   "i": 8535,
+   "number": "USD935301S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Feifei CHEN",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/8535.png"
+  },
+  {
+   "i": 8536,
+   "number": "USD736216S1",
+   "term": "memory card",
+   "title": "Memory card",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/8536.png"
+  },
+  {
+   "i": 8537,
+   "number": "USD386988S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Hunter Fan Company",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/8537.png"
+  },
+  {
+   "i": 8538,
+   "number": "USD944117S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "Zero Zero Robotics Inc.",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8538.png"
+  },
+  {
+   "i": 8539,
+   "number": "USD607303S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Seoul Commtech Co., Ltd.",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/8539.png"
+  },
+  {
+   "i": 8540,
+   "number": "USD398245S",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Soleil Sun Alarm Company LLC",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/8540.png"
+  },
+  {
+   "i": 8541,
+   "number": "USD885976S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Suk Ho Jang",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/8541.png"
+  },
+  {
+   "i": 8542,
+   "number": "USD425801S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Carrier Corporation",
+   "year": 2000,
+   "figures": 3,
+   "file": "img/8542.png"
+  },
+  {
+   "i": 8543,
+   "number": "USD829139S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle ground control station",
+   "assignee": "Autel Robotics Co., Ltd.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8543.png"
+  },
+  {
+   "i": 8544,
+   "number": "USD986025S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Panasonic Intellectual Property Management Co., Ltd.",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/8544.png"
+  },
+  {
+   "i": 8545,
+   "number": "USD1051768S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Shantou Xingdu Intelligent Control Technology Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8545.png"
+  },
+  {
+   "i": 8546,
+   "number": "USD720378S1",
+   "term": "robot",
+   "title": "Robot interface",
+   "assignee": "Rethink Robotics, Inc.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/8546.png"
+  },
+  {
+   "i": 8547,
+   "number": "USD498147S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Bellman & Symfon Ab",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/8547.png"
+  },
+  {
+   "i": 8548,
+   "number": "USD175679S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Iron Fireman Manufacturing Company",
+   "year": 1955,
+   "figures": 1,
+   "file": "img/8548.png"
+  },
+  {
+   "i": 8549,
+   "number": "USD716357S1",
+   "term": "robot",
+   "title": "Robot arm",
+   "assignee": "Rg Mechatronics Gmbh",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/8549.png"
+  },
+  {
+   "i": 8550,
+   "number": "USD832154S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle with multiple propellers",
+   "assignee": "Yuneec Technology Co.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8550.png"
+  },
+  {
+   "i": 8551,
+   "number": "USD562819S1",
+   "term": "memory card",
+   "title": "Memory card reader",
+   "assignee": "Shenzhen Futaihong Precision Industry Co., Ltd.",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/8551.png"
+  },
+  {
+   "i": 8552,
+   "number": "USD513193S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Disney Enterprises, Inc.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/8552.png"
+  },
+  {
+   "i": 8553,
+   "number": "USD777587S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Robert Bosch Gmbh",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/8553.png"
+  },
+  {
+   "i": 8554,
+   "number": "USD1081750S1",
+   "term": "robot",
+   "title": "Robot body",
+   "assignee": "Mikul Saravanan",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/8554.png"
+  },
+  {
+   "i": 8555,
+   "number": "USD830897S1",
+   "term": "unmanned aerial vehicle",
+   "title": "Unmanned aerial vehicle",
+   "assignee": "Hyunhwan CHOI",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/8555.png"
+  },
+  {
+   "i": 8556,
+   "number": "USD993787S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Ocean Controls Limited",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/8556.png"
+  },
+  {
+   "i": 8557,
+   "number": "USD766348S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/8557.png"
+  },
+  {
+   "i": 8558,
+   "number": "USD793205S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Gate Labs Inc.",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/8558.png"
+  },
+  {
+   "i": 8559,
+   "number": "USD495679S1",
+   "term": "alarm clock",
+   "title": "Alarm clock radio",
+   "assignee": "Johnson Chen",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/8559.png"
+  },
+  {
+   "i": 8560,
+   "number": "USD816546S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Alex Wang",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/8560.png"
+  },
+  {
+   "i": 8561,
+   "number": "USD582800S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Carrier Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/8561.png"
+  },
+  {
+   "i": 8562,
+   "number": "USD943685S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Shantou P&C Plastic Products Company Limited",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8562.png"
+  },
+  {
+   "i": 8563,
+   "number": "USD75534S",
+   "term": "door lock",
+   "title": "Design for a door lock",
+   "assignee": "",
+   "year": 1928,
+   "figures": 1,
+   "file": "img/8563.png"
+  },
+  {
+   "i": 8564,
+   "number": "USD585766S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Outside In (Cambridge) Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/8564.png"
+  },
+  {
+   "i": 8565,
+   "number": "USD805431S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "ZEROTECH (Shenzhen) Intelligence Robot Co., Ltd.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/8565.png"
+  },
+  {
+   "i": 8566,
+   "number": "USD891491S1",
+   "term": "robot",
+   "title": "Robot toy",
+   "assignee": "Cicaboom S.R.L.",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/8566.png"
+  },
+  {
+   "i": 8567,
+   "number": "USD348397S",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Gtc Properties, Inc.",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/8567.png"
+  },
+  {
+   "i": 8568,
+   "number": "USD1032410S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Autoflight (Kunshan) Co., Ltd.",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/8568.png"
+  },
+  {
+   "i": 8569,
+   "number": "USD584645S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Beijing Hailin Auto Control Equipment Co., Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/8569.png"
+  },
+  {
+   "i": 8570,
+   "number": "USD251628S",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Twentieth Century-Fox Film Corporation",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/8570.png"
+  },
+  {
+   "i": 8571,
+   "number": "USD1044596S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Shenzhen Vantop Technology & Innovation Co., Ltd.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8571.png"
+  },
+  {
+   "i": 8572,
+   "number": "USD1002396S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Ocean Controls Limited",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/8572.png"
+  },
+  {
+   "i": 8573,
+   "number": "USD407321S",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Larry Robert Taylor",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/8573.png"
+  },
+  {
+   "i": 8574,
+   "number": "USD797602S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "ZEROTECH (Shenzhen) Intelligence Robot Co., Ltd.",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/8574.png"
+  },
+  {
+   "i": 8575,
+   "number": "USD386989S",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Hunter Fan Company",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/8575.png"
+  },
+  {
+   "i": 8576,
+   "number": "USD870787S1",
+   "term": "robot",
+   "title": "Robot for guiding people",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/8576.png"
+  },
+  {
+   "i": 8577,
+   "number": "USD887248S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "SimpliSafe, Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/8577.png"
+  },
+  {
+   "i": 8578,
+   "number": "USD821890S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Huimin Jin",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/8578.png"
+  },
+  {
+   "i": 8579,
+   "number": "USD814350S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Eyedea Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8579.png"
+  },
+  {
+   "i": 8580,
+   "number": "USD242532S",
+   "term": "thermostat",
+   "title": "Patent USD242532S",
+   "assignee": "",
+   "year": 1976,
+   "figures": 1,
+   "file": "img/8580.png"
+  },
+  {
+   "i": 8581,
+   "number": "USD572739S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Motoman, Inc.",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/8581.png"
+  },
+  {
+   "i": 8582,
+   "number": "USD456813S1",
+   "term": "memory card",
+   "title": "Memory card with hockey mask symbol for an electronic game system",
+   "assignee": "Std Manufacturing, Ltd.",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/8582.png"
+  },
+  {
+   "i": 8583,
+   "number": "USD442870S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Larry Robert Taylor",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/8583.png"
+  },
+  {
+   "i": 8584,
+   "number": "USD962087S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Ocean Controls Limited",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/8584.png"
+  },
+  {
+   "i": 8585,
+   "number": "USD561215S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "The Robot Factory, Llc",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/8585.png"
+  },
+  {
+   "i": 8586,
+   "number": "USD818795S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "ASSA ABLOY Residential Group, Inc.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/8586.png"
+  },
+  {
+   "i": 8587,
+   "number": "USD1027664S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Shenzhen futuristic innovative technology Co., Ltd",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/8587.png"
+  },
+  {
+   "i": 8588,
+   "number": "USD846440S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2019,
+   "figures": 2,
+   "file": "img/8588.png"
+  },
+  {
+   "i": 8589,
+   "number": "USD651627S1",
+   "term": "robot",
+   "title": "Robot",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/8589.png"
+  },
+  {
+   "i": 8590,
+   "number": "USD993741S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Nanyang dongtuo import and export trade Co., Ltd",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/8590.png"
+  },
+  {
+   "i": 8591,
+   "number": "USD604738S1",
+   "term": "memory card",
+   "title": "Memory-card attachment",
+   "assignee": "Olympus Imaging Co., Ltd.",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/8591.png"
+  },
+  {
+   "i": 8592,
+   "number": "USD881023S1",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Mpow Technology Co., Limited",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/8592.png"
+  },
+  {
+   "i": 8593,
+   "number": "USD866395S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "Spin Master Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8593.png"
+  },
+  {
+   "i": 8594,
+   "number": "USD996187S1",
+   "term": "door lock",
+   "title": "Door lock",
+   "assignee": "Shenzhen huikaida Technology Co., Ltd",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/8594.png"
+  },
+  {
+   "i": 8595,
+   "number": "USD323297S",
+   "term": "alarm clock",
+   "title": "Alarm clock",
+   "assignee": "Zeller Noel E",
+   "year": 1992,
+   "figures": 1,
+   "file": "img/8595.png"
+  },
+  {
+   "i": 8596,
+   "number": "USD862285S1",
+   "term": "drone",
+   "title": "Drone",
+   "assignee": "MerchSource, LLC",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/8596.png"
+  },
+  {
+   "i": 8597,
+   "number": "USD489010S1",
+   "term": "thermostat",
+   "title": "Thermostat",
+   "assignee": "Hunter Fan Company",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/8597.png"
+  },
+  {
+   "i": 8598,
+   "number": "USD890457S1",
+   "term": "robot",
+   "title": "Robot vacuum",
+   "assignee": "Sharkninja Operating Llc",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/8598.png"
+  },
+  {
+   "i": 8599,
+   "number": "USD1058392S1",
+   "term": "thermostat",
+   "title": "Thermostat lock box",
+   "assignee": "Guangzhou Niuchaling Trading Co., Ltd.",
+   "year": 2025,
+   "figures": 2,
+   "file": "img/8599.png"
   }
  ]
 }

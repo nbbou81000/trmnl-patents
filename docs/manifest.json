@@ -1,6 +1,6 @@
 {
- "count": 9721,
- "generated_at": 1788981640,
+ "count": 9725,
+ "generated_at": 1788983965,
  "items": [
   {
    "i": 0,
@@ -97211,6 +97211,46 @@
    "year": 2023,
    "figures": 3,
    "file": "img/9720.png"
+  },
+  {
+   "i": 9721,
+   "number": "USD844786S1",
+   "term": "mri",
+   "title": "MRI head coil apparatus",
+   "assignee": "General Electric Company",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9721.png"
+  },
+  {
+   "i": 9722,
+   "number": "USD882092S1",
+   "term": "mri",
+   "title": "MRI head coil",
+   "assignee": "Mr Instruments, Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9722.png"
+  },
+  {
+   "i": 9723,
+   "number": "USD843577S1",
+   "term": "mri",
+   "title": "MRI equipment",
+   "assignee": "Shanghai United Imaging Healthcare Co., Ltd.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9723.png"
+  },
+  {
+   "i": 9724,
+   "number": "USD752223S1",
+   "term": "mri",
+   "title": "Mri",
+   "assignee": "Samsung Electronics Co., Ltd.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/9724.png"
   }
  ]
 }

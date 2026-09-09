@@ -1,6 +1,6 @@
 {
- "count": 10225,
- "generated_at": 1788986680,
+ "count": 10325,
+ "generated_at": 1788987546,
  "items": [
   {
    "i": 0,
@@ -102251,6 +102251,1006 @@
    "year": 1995,
    "figures": 3,
    "file": "img/10224.png"
+  },
+  {
+   "i": 10225,
+   "number": "USD531068S1",
+   "term": "satellite",
+   "title": "Satellite locator",
+   "assignee": "Lite-On Technology Corporation",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/10225.png"
+  },
+  {
+   "i": 10226,
+   "number": "USD981465S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Gaodi Digital (Qingdao) Co., Ltd.",
+   "year": 2023,
+   "figures": 3,
+   "file": "img/10226.png"
+  },
+  {
+   "i": 10227,
+   "number": "USD625679S1",
+   "term": "spacecraft",
+   "title": "Spacecraft",
+   "assignee": "Tsc, Llc",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/10227.png"
+  },
+  {
+   "i": 10228,
+   "number": "USD533148S1",
+   "term": "satellite",
+   "title": "Satellite receiver",
+   "assignee": "Lg Electronics Inc.",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/10228.png"
+  },
+  {
+   "i": 10229,
+   "number": "USD135561S",
+   "term": "telescope",
+   "title": "Design fok a telescope or the like",
+   "assignee": "",
+   "year": 1943,
+   "figures": 1,
+   "file": "img/10229.png"
+  },
+  {
+   "i": 10230,
+   "number": "USD1011989S1",
+   "term": "spacecraft",
+   "title": "Spacecraft",
+   "assignee": "Applied Physics, Inc.",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/10230.png"
+  },
+  {
+   "i": 10231,
+   "number": "USD746263S1",
+   "term": "satellite",
+   "title": "Satellite speaker",
+   "assignee": "Bose Corporation",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/10231.png"
+  },
+  {
+   "i": 10232,
+   "number": "USD676886S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Nikon Corporation",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/10232.png"
+  },
+  {
+   "i": 10233,
+   "number": "USD387122S",
+   "term": "spacecraft",
+   "title": "Spacecraft simulator for an entertainment system",
+   "assignee": "Habilas, Inc.",
+   "year": 1997,
+   "figures": 1,
+   "file": "img/10233.png"
+  },
+  {
+   "i": 10234,
+   "number": "USD832810S1",
+   "term": "satellite",
+   "title": "Satellite Speaker",
+   "assignee": "Vizio, Inc",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/10234.png"
+  },
+  {
+   "i": 10235,
+   "number": "USD159719S",
+   "term": "telescope",
+   "title": "Davidson telescope",
+   "assignee": "",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/10235.png"
+  },
+  {
+   "i": 10236,
+   "number": "USD320378S",
+   "term": "spacecraft",
+   "title": "Spacecraft aircraft",
+   "assignee": "Webster Steven N",
+   "year": 1991,
+   "figures": 1,
+   "file": "img/10236.png"
+  },
+  {
+   "i": 10237,
+   "number": "USD594493S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Kowa Company, Ltd",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/10237.png"
+  },
+  {
+   "i": 10238,
+   "number": "USD401587S",
+   "term": "satellite",
+   "title": "Satellite receiver remote control",
+   "assignee": "Echostar Communications Corporation",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/10238.png"
+  },
+  {
+   "i": 10239,
+   "number": "USD98685S",
+   "term": "telescope",
+   "title": "Design for a telescope",
+   "assignee": "Eugene Dietzgen Company",
+   "year": 1936,
+   "figures": 1,
+   "file": "img/10239.png"
+  },
+  {
+   "i": 10240,
+   "number": "USD322254S",
+   "term": "satellite",
+   "title": "Satellite antenna",
+   "assignee": "Richard Su",
+   "year": 1991,
+   "figures": 1,
+   "file": "img/10240.png"
+  },
+  {
+   "i": 10241,
+   "number": "USD285792S",
+   "term": "satellite",
+   "title": "Satellite dish antenna support rib",
+   "assignee": "Winegard Company",
+   "year": 1986,
+   "figures": 2,
+   "file": "img/10241.png"
+  },
+  {
+   "i": 10242,
+   "number": "USD686264S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Nikon Corporation",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/10242.png"
+  },
+  {
+   "i": 10243,
+   "number": "USD595276S1",
+   "term": "satellite",
+   "title": "Satellite terminal (receiver) with parabolic antenna",
+   "assignee": "Swe-Dish Satellite Systems Ab",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/10243.png"
+  },
+  {
+   "i": 10244,
+   "number": "USD191378S",
+   "term": "telescope",
+   "title": "Telescope or similar article",
+   "assignee": "Fa",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/10244.png"
+  },
+  {
+   "i": 10245,
+   "number": "USD696650S1",
+   "term": "satellite",
+   "title": "Satellite antenna",
+   "assignee": "C-Com Satellite Systems Inc.",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/10245.png"
+  },
+  {
+   "i": 10246,
+   "number": "USD285074S",
+   "term": "satellite",
+   "title": "Satellite dish antenna outer rim",
+   "assignee": "Winegard Company",
+   "year": 1986,
+   "figures": 2,
+   "file": "img/10246.png"
+  },
+  {
+   "i": 10247,
+   "number": "USD253238S",
+   "term": "telescope",
+   "title": "Telescope cradle",
+   "assignee": "Edmund Scientific Company",
+   "year": 1979,
+   "figures": 2,
+   "file": "img/10247.png"
+  },
+  {
+   "i": 10248,
+   "number": "USD597085S1",
+   "term": "satellite",
+   "title": "Satellite terminal (receiver) with parabolic antenna",
+   "assignee": "Propeller Design AB",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/10248.png"
+  },
+  {
+   "i": 10249,
+   "number": "USD145313S",
+   "term": "telescope",
+   "title": "Design for a telescope support",
+   "assignee": "",
+   "year": 1946,
+   "figures": 1,
+   "file": "img/10249.png"
+  },
+  {
+   "i": 10250,
+   "number": "USD696649S1",
+   "term": "satellite",
+   "title": "Satellite antenna",
+   "assignee": "C-Com Satellite Systems Inc.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/10250.png"
+  },
+  {
+   "i": 10251,
+   "number": "USD305128S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Sanrio Company, Ltd.",
+   "year": 1989,
+   "figures": 1,
+   "file": "img/10251.png"
+  },
+  {
+   "i": 10252,
+   "number": "USD288565S",
+   "term": "satellite",
+   "title": "Satellite reception locating device",
+   "assignee": "Roberts James M",
+   "year": 1987,
+   "figures": 2,
+   "file": "img/10252.png"
+  },
+  {
+   "i": 10253,
+   "number": "USD196531S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/10253.png"
+  },
+  {
+   "i": 10254,
+   "number": "USD392285S",
+   "term": "satellite",
+   "title": "Satellite telephone",
+   "assignee": "Telefonaktiebolaget Lm Ericsson",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/10254.png"
+  },
+  {
+   "i": 10255,
+   "number": "USD513274S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Chun-Hao Chen",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/10255.png"
+  },
+  {
+   "i": 10256,
+   "number": "USD554600S1",
+   "term": "satellite",
+   "title": "Satellite receiver",
+   "assignee": "Tim Ziemann",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/10256.png"
+  },
+  {
+   "i": 10257,
+   "number": "USD247854S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Edmund Scientific Company",
+   "year": 1978,
+   "figures": 2,
+   "file": "img/10257.png"
+  },
+  {
+   "i": 10258,
+   "number": "USD392657S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Meade Instruments Corporation",
+   "year": 1998,
+   "figures": 3,
+   "file": "img/10258.png"
+  },
+  {
+   "i": 10259,
+   "number": "USD480712S1",
+   "term": "satellite",
+   "title": "Satellite radio broadcast receiving antenna",
+   "assignee": "Mitsumi Electric Co., Ltd.",
+   "year": 2003,
+   "figures": 3,
+   "file": "img/10259.png"
+  },
+  {
+   "i": 10260,
+   "number": "USD676885S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Nikon Corporation",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/10260.png"
+  },
+  {
+   "i": 10261,
+   "number": "USD759627S1",
+   "term": "satellite",
+   "title": "Satellite speaker",
+   "assignee": "Vizio Inc",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/10261.png"
+  },
+  {
+   "i": 10262,
+   "number": "USD731571S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Nikon Vision Co., Ltd.",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/10262.png"
+  },
+  {
+   "i": 10263,
+   "number": "USD588558S1",
+   "term": "satellite",
+   "title": "Satellite receiver",
+   "assignee": "Dream Property Gmbh",
+   "year": 2009,
+   "figures": 3,
+   "file": "img/10263.png"
+  },
+  {
+   "i": 10264,
+   "number": "USD369370S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Wray James D",
+   "year": 1996,
+   "figures": 3,
+   "file": "img/10264.png"
+  },
+  {
+   "i": 10265,
+   "number": "USD429718S",
+   "term": "satellite",
+   "title": "Satellite receiver remote control",
+   "assignee": "Echostar Engineering Corporation",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/10265.png"
+  },
+  {
+   "i": 10266,
+   "number": "USD98686S",
+   "term": "telescope",
+   "title": "Design for a telescope",
+   "assignee": "",
+   "year": 1936,
+   "figures": 1,
+   "file": "img/10266.png"
+  },
+  {
+   "i": 10267,
+   "number": "USD541790S1",
+   "term": "satellite",
+   "title": "Satellite receiver for home theater system",
+   "assignee": "Koninklijke Philips Electronics N.V.",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/10267.png"
+  },
+  {
+   "i": 10268,
+   "number": "USD534904S1",
+   "term": "satellite",
+   "title": "Satellite antenna mounting plate",
+   "assignee": "Dishmount Products, Llc",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/10268.png"
+  },
+  {
+   "i": 10269,
+   "number": "USD454898S1",
+   "term": "telescope",
+   "title": "Telescope body",
+   "assignee": "Kowa Company Ltd.",
+   "year": 2002,
+   "figures": 3,
+   "file": "img/10269.png"
+  },
+  {
+   "i": 10270,
+   "number": "USD769229S1",
+   "term": "satellite",
+   "title": "Satellite antenna",
+   "assignee": "Chengdu M&S Science and Technology Co., Ltd.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/10270.png"
+  },
+  {
+   "i": 10271,
+   "number": "USD175388S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "",
+   "year": 1955,
+   "figures": 1,
+   "file": "img/10271.png"
+  },
+  {
+   "i": 10272,
+   "number": "USD512980S1",
+   "term": "satellite",
+   "title": "Satellite radio",
+   "assignee": "Robert Bosch Corporation",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/10272.png"
+  },
+  {
+   "i": 10273,
+   "number": "USD443628S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Fuji Photo Optical Co., Ltd.",
+   "year": 2001,
+   "figures": 2,
+   "file": "img/10273.png"
+  },
+  {
+   "i": 10274,
+   "number": "USD707208S1",
+   "term": "satellite",
+   "title": "Satellite antenna",
+   "assignee": "C-Com Satellite Systems Inc.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/10274.png"
+  },
+  {
+   "i": 10275,
+   "number": "USD395440S",
+   "term": "telescope",
+   "title": "Telescope body",
+   "assignee": "Kowa Company Ltd.",
+   "year": 1998,
+   "figures": 2,
+   "file": "img/10275.png"
+  },
+  {
+   "i": 10276,
+   "number": "USD821351S1",
+   "term": "satellite",
+   "title": "Satellite speaker",
+   "assignee": "Vizio, Inc",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/10276.png"
+  },
+  {
+   "i": 10277,
+   "number": "USD253113S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Edmund Scientific Company",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/10277.png"
+  },
+  {
+   "i": 10278,
+   "number": "USD954122S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Yaodong Liu",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/10278.png"
+  },
+  {
+   "i": 10279,
+   "number": "USD331200S",
+   "term": "satellite",
+   "title": "Satellite receiver for ship navigation",
+   "assignee": "Standard Elektrik Lorenz Aktiengesellschaft",
+   "year": 1992,
+   "figures": 3,
+   "file": "img/10279.png"
+  },
+  {
+   "i": 10280,
+   "number": "USD550263S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Liangcheng Zhou",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/10280.png"
+  },
+  {
+   "i": 10281,
+   "number": "USD814540S1",
+   "term": "satellite",
+   "title": "Satellite equipment for robot",
+   "assignee": "Yutou Technology (Hangzhou) Co., Ltd.",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/10281.png"
+  },
+  {
+   "i": 10282,
+   "number": "USD394664S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Nikon Corporation",
+   "year": 1998,
+   "figures": 2,
+   "file": "img/10282.png"
+  },
+  {
+   "i": 10283,
+   "number": "USD997087S1",
+   "term": "satellite",
+   "title": "Satellite",
+   "assignee": "Blink Astro, LLC",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/10283.png"
+  },
+  {
+   "i": 10284,
+   "number": "USD587290S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Leica Camera Ag",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/10284.png"
+  },
+  {
+   "i": 10285,
+   "number": "USD690290S1",
+   "term": "satellite",
+   "title": "Satellite mounting pole",
+   "assignee": "Tubular U.S.A, Inc.",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/10285.png"
+  },
+  {
+   "i": 10286,
+   "number": "USD289057S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Bausch & Lomb Incorporated",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/10286.png"
+  },
+  {
+   "i": 10287,
+   "number": "USD454144S1",
+   "term": "telescope",
+   "title": "Telescope body",
+   "assignee": "Kowa Company Ltd.",
+   "year": 2002,
+   "figures": 3,
+   "file": "img/10287.png"
+  },
+  {
+   "i": 10288,
+   "number": "USD286288S",
+   "term": "satellite",
+   "title": "Satellite antenna mounting base",
+   "assignee": "Skinner Jerald P",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/10288.png"
+  },
+  {
+   "i": 10289,
+   "number": "USD506766S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Eastcolight (Hong Kong) Limited",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/10289.png"
+  },
+  {
+   "i": 10290,
+   "number": "USD462888S1",
+   "term": "satellite",
+   "title": "Satellite dish stabilizing clamp",
+   "assignee": "John G. Woosley",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/10290.png"
+  },
+  {
+   "i": 10291,
+   "number": "USD448062S1",
+   "term": "telescope",
+   "title": "Telescope mounting receiver for firearms",
+   "assignee": "Roger D. Criddle",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/10291.png"
+  },
+  {
+   "i": 10292,
+   "number": "USD247625S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Bausch & Lomb Incorporated",
+   "year": 1978,
+   "figures": 1,
+   "file": "img/10292.png"
+  },
+  {
+   "i": 10293,
+   "number": "USD652411S1",
+   "term": "satellite",
+   "title": "Satellite antenna mounting plate",
+   "assignee": "Dishmount Products, Llc",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/10293.png"
+  },
+  {
+   "i": 10294,
+   "number": "USD297646S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "The Quaker Oats Company",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/10294.png"
+  },
+  {
+   "i": 10295,
+   "number": "USD672462S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Karl Storz Gmbh & Co. Kg",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/10295.png"
+  },
+  {
+   "i": 10296,
+   "number": "USD712945S1",
+   "term": "telescope",
+   "title": "Telescope-handling arm",
+   "assignee": "Vallon Gmbh",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/10296.png"
+  },
+  {
+   "i": 10297,
+   "number": "USD519862S1",
+   "term": "satellite",
+   "title": "Satellite surveying receiver",
+   "assignee": "Kabushiki Kaisha Topcon",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/10297.png"
+  },
+  {
+   "i": 10298,
+   "number": "USD334393S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Bausch & Lomb Incorporated",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/10298.png"
+  },
+  {
+   "i": 10299,
+   "number": "USD335822S",
+   "term": "satellite",
+   "title": "Satellite location measuring receiver",
+   "assignee": "Sokkisha Co., Ltd.",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/10299.png"
+  },
+  {
+   "i": 10300,
+   "number": "USD446784S1",
+   "term": "satellite",
+   "title": "Satellite speaker for multimedia computer speaker system",
+   "assignee": "Labtec Corporation",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/10300.png"
+  },
+  {
+   "i": 10301,
+   "number": "USD390580S",
+   "term": "telescope",
+   "title": "Telescope body",
+   "assignee": "Kowa Company Ltd.",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/10301.png"
+  },
+  {
+   "i": 10302,
+   "number": "USD199371S",
+   "term": "telescope",
+   "title": "Telescope or similar article",
+   "assignee": "",
+   "year": 1964,
+   "figures": 1,
+   "file": "img/10302.png"
+  },
+  {
+   "i": 10303,
+   "number": "USD283710S",
+   "term": "satellite",
+   "title": "Satellite radio receiver",
+   "assignee": "R. L. Drake Company",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/10303.png"
+  },
+  {
+   "i": 10304,
+   "number": "USD191377S",
+   "term": "telescope",
+   "title": "Telescope qr similar article",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/10304.png"
+  },
+  {
+   "i": 10305,
+   "number": "USD362443S",
+   "term": "satellite",
+   "title": "Satellite broadcasting receiving antenna",
+   "assignee": "Dx Antenna Company, Limited",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/10305.png"
+  },
+  {
+   "i": 10306,
+   "number": "USD268768S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Meade Instruments Corporation",
+   "year": 1983,
+   "figures": 2,
+   "file": "img/10306.png"
+  },
+  {
+   "i": 10307,
+   "number": "USD776639S1",
+   "term": "satellite",
+   "title": "Satellite speaker",
+   "assignee": "Bose Corporation",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/10307.png"
+  },
+  {
+   "i": 10308,
+   "number": "USD374021S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Leica Camera Gmbh",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/10308.png"
+  },
+  {
+   "i": 10309,
+   "number": "USD638408S1",
+   "term": "satellite",
+   "title": "Satellite reflector",
+   "assignee": "Swe-Dish Satellite Systems Ab",
+   "year": 2011,
+   "figures": 2,
+   "file": "img/10309.png"
+  },
+  {
+   "i": 10310,
+   "number": "USD369612S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Nikon Corporation",
+   "year": 1996,
+   "figures": 2,
+   "file": "img/10310.png"
+  },
+  {
+   "i": 10311,
+   "number": "USD510372S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Eastcolight (Hong Kong) Limited",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/10311.png"
+  },
+  {
+   "i": 10312,
+   "number": "USD817927S1",
+   "term": "satellite",
+   "title": "Satellite speaker",
+   "assignee": "Vizio Inc",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/10312.png"
+  },
+  {
+   "i": 10313,
+   "number": "USD594494S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Kowa Company, Ltd",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/10313.png"
+  },
+  {
+   "i": 10314,
+   "number": "USD669454S1",
+   "term": "satellite",
+   "title": "Satellite television antenna",
+   "assignee": "King Controls",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/10314.png"
+  },
+  {
+   "i": 10315,
+   "number": "USD920412S1",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Unistellar",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/10315.png"
+  },
+  {
+   "i": 10316,
+   "number": "USD519392S1",
+   "term": "satellite",
+   "title": "Satellite surveying receiver",
+   "assignee": "Kabushiki Kaisha Topcon",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/10316.png"
+  },
+  {
+   "i": 10317,
+   "number": "USD311923S",
+   "term": "telescope",
+   "title": "Telescope guider",
+   "assignee": "Charles Jeffrey R",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/10317.png"
+  },
+  {
+   "i": 10318,
+   "number": "USD1061489S1",
+   "term": "satellite",
+   "title": "Satellite communication terminal",
+   "assignee": "All.Space Networks Limited",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/10318.png"
+  },
+  {
+   "i": 10319,
+   "number": "USD265482S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Edmund Scientific Company",
+   "year": 1982,
+   "figures": 1,
+   "file": "img/10319.png"
+  },
+  {
+   "i": 10320,
+   "number": "USD123486S",
+   "term": "telescope",
+   "title": "Design for a telescope",
+   "assignee": "",
+   "year": 1940,
+   "figures": 1,
+   "file": "img/10320.png"
+  },
+  {
+   "i": 10321,
+   "number": "USD349697S",
+   "term": "satellite",
+   "title": "Satellite communication receiving demodulator",
+   "assignee": "Dx Antenna Company Limited",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/10321.png"
+  },
+  {
+   "i": 10322,
+   "number": "USD433430S",
+   "term": "telescope",
+   "title": "Telescope",
+   "assignee": "Leica Camera Ag",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10322.png"
+  },
+  {
+   "i": 10323,
+   "number": "USD421440S",
+   "term": "satellite",
+   "title": "Satellite antenna",
+   "assignee": "Manufacture D'appareillage Electrique De Cahors",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10323.png"
+  },
+  {
+   "i": 10324,
+   "number": "USD190684S",
+   "term": "telescope",
+   "title": "Figure",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/10324.png"
   }
  ]
 }

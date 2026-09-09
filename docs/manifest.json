@@ -1,6 +1,6 @@
 {
- "count": 10025,
- "generated_at": 1788986332,
+ "count": 10125,
+ "generated_at": 1788986503,
  "items": [
   {
    "i": 0,
@@ -100251,6 +100251,1006 @@
    "year": 2022,
    "figures": 3,
    "file": "img/10024.png"
+  },
+  {
+   "i": 10025,
+   "number": "USD202814S",
+   "term": "conveyor",
+   "title": "Conveyor link",
+   "assignee": "",
+   "year": 1965,
+   "figures": 1,
+   "file": "img/10025.png"
+  },
+  {
+   "i": 10026,
+   "number": "USD800783S1",
+   "term": "engine",
+   "title": "Engine rocker box",
+   "assignee": "Harley-Davidson Motor Company Group, LLC",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/10026.png"
+  },
+  {
+   "i": 10027,
+   "number": "USD418528S",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Sony Corporation",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10027.png"
+  },
+  {
+   "i": 10028,
+   "number": "USD800017S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Navya",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/10028.png"
+  },
+  {
+   "i": 10029,
+   "number": "USD565825S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Mitsubishi Heavy Industries, Ltd.",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/10029.png"
+  },
+  {
+   "i": 10030,
+   "number": "USD289734S",
+   "term": "conveyor",
+   "title": "Conveyor chain link",
+   "assignee": "Rexnord Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/10030.png"
+  },
+  {
+   "i": 10031,
+   "number": "USD249484S",
+   "term": "engine",
+   "title": "Engine timing light",
+   "assignee": "Dixson, Inc.",
+   "year": 1978,
+   "figures": 1,
+   "file": "img/10031.png"
+  },
+  {
+   "i": 10032,
+   "number": "USD1029055S1",
+   "term": "machine tool",
+   "title": "Machine tool for metal working",
+   "assignee": "TRUMPF SE + Co. KG",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/10032.png"
+  },
+  {
+   "i": 10033,
+   "number": "USD983090S1",
+   "term": "motor",
+   "title": "Motor vehicle body and/or replica",
+   "assignee": "Czv, Inc.",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/10033.png"
+  },
+  {
+   "i": 10034,
+   "number": "USD338764S",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Kabushiki Kaisha Toyoda Jidoshokki Seisakusho",
+   "year": 1993,
+   "figures": 2,
+   "file": "img/10034.png"
+  },
+  {
+   "i": 10035,
+   "number": "USD332213S",
+   "term": "conveyor",
+   "title": "Conveyor chain link",
+   "assignee": "Rexnord Corporation",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/10035.png"
+  },
+  {
+   "i": 10036,
+   "number": "USD810155S1",
+   "term": "machine tool",
+   "title": "Machine tool display panel",
+   "assignee": "Trumpf Gmbh + Co. Kg",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/10036.png"
+  },
+  {
+   "i": 10037,
+   "number": "USD833331S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/10037.png"
+  },
+  {
+   "i": 10038,
+   "number": "USD934525S1",
+   "term": "conveyor",
+   "title": "Conveyor belt slat",
+   "assignee": "Habasit Ag",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/10038.png"
+  },
+  {
+   "i": 10039,
+   "number": "USD1012992S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Nagase Integrex Co., Ltd",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/10039.png"
+  },
+  {
+   "i": 10040,
+   "number": "USD971081S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy replica and/or other replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/10040.png"
+  },
+  {
+   "i": 10041,
+   "number": "USD386872S",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Mitsubishi Caterpillar Forklift America Inc.",
+   "year": 1997,
+   "figures": 3,
+   "file": "img/10041.png"
+  },
+  {
+   "i": 10042,
+   "number": "USD809238S1",
+   "term": "conveyor",
+   "title": "Conveyor intake",
+   "assignee": "Brandt Industries Ltd.",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/10042.png"
+  },
+  {
+   "i": 10043,
+   "number": "USD823205S1",
+   "term": "engine",
+   "title": "Engine oil pan baffle",
+   "assignee": "Improved Racing Products, LLC",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/10043.png"
+  },
+  {
+   "i": 10044,
+   "number": "USD472250S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Agie Sa",
+   "year": 2003,
+   "figures": 2,
+   "file": "img/10044.png"
+  },
+  {
+   "i": 10045,
+   "number": "USD805435S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/10045.png"
+  },
+  {
+   "i": 10046,
+   "number": "USD808107S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Byd Company Limited",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/10046.png"
+  },
+  {
+   "i": 10047,
+   "number": "USD1052219S1",
+   "term": "conveyor",
+   "title": "Conveyor rail",
+   "assignee": "Makeblock Co., Ltd.",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/10047.png"
+  },
+  {
+   "i": 10048,
+   "number": "USD694787S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "TRUMPF Maschinen Austria Ges. mbH & Co. KG",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/10048.png"
+  },
+  {
+   "i": 10049,
+   "number": "USD1032414S1",
+   "term": "motor",
+   "title": "Motor vehicle body",
+   "assignee": "Ineos Automotive Limited",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/10049.png"
+  },
+  {
+   "i": 10050,
+   "number": "USD722214S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Kabushiki Kaisha Toyota Jidoshokki",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/10050.png"
+  },
+  {
+   "i": 10051,
+   "number": "USD289606S",
+   "term": "conveyor",
+   "title": "Conveyor chain link",
+   "assignee": "Rexnord Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/10051.png"
+  },
+  {
+   "i": 10052,
+   "number": "USD696315S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Supfina Grieshaber Gmbh & Co. Kg",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/10052.png"
+  },
+  {
+   "i": 10053,
+   "number": "USD951140S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy replica and/or other replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/10053.png"
+  },
+  {
+   "i": 10054,
+   "number": "USD776898S1",
+   "term": "forklift",
+   "title": "Forklift mast mounting",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/10054.png"
+  },
+  {
+   "i": 10055,
+   "number": "USD962582S1",
+   "term": "conveyor",
+   "title": "Conveyor belt module",
+   "assignee": "Habasit Italiana S.P.A., Cesano Boscone, R & D Plastics, Zweigniederlassung",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/10055.png"
+  },
+  {
+   "i": 10056,
+   "number": "USD596649S1",
+   "term": "engine",
+   "title": "Engine muffler",
+   "assignee": "Jiangsu Lister Utility Engine Manufacturing Company Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/10056.png"
+  },
+  {
+   "i": 10057,
+   "number": "USD226026S",
+   "term": "machine tool",
+   "title": "Machine tool feed indicator",
+   "assignee": "",
+   "year": 1973,
+   "figures": 1,
+   "file": "img/10057.png"
+  },
+  {
+   "i": 10058,
+   "number": "USD613474S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Kabushiki Kaisha Toyota Jidoshokki",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/10058.png"
+  },
+  {
+   "i": 10059,
+   "number": "USD701015S1",
+   "term": "conveyor",
+   "title": "Conveyor",
+   "assignee": "D'artecon Sagl",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/10059.png"
+  },
+  {
+   "i": 10060,
+   "number": "USD605209S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Seco Tools Ab",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/10060.png"
+  },
+  {
+   "i": 10061,
+   "number": "USD652194S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Mitsubishi Heavy Industries, Ltd.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/10061.png"
+  },
+  {
+   "i": 10062,
+   "number": "USD289608S",
+   "term": "conveyor",
+   "title": "Conveyor chain link",
+   "assignee": "Rexnord Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/10062.png"
+  },
+  {
+   "i": 10063,
+   "number": "USD135648S",
+   "term": "engine",
+   "title": "Engine-driven plural-electric-generator power set",
+   "assignee": "Electric Arc",
+   "year": 1943,
+   "figures": 2,
+   "file": "img/10063.png"
+  },
+  {
+   "i": 10064,
+   "number": "USD676881S1",
+   "term": "machine tool",
+   "title": "Machine tool unit",
+   "assignee": "Trumpf Werkzeugmaschinen Gmbh + Co. Kg",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/10064.png"
+  },
+  {
+   "i": 10065,
+   "number": "USD891985S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replicas thereof",
+   "assignee": "Audi Ag",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/10065.png"
+  },
+  {
+   "i": 10066,
+   "number": "USD731736S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Komatsu Ltd.",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/10066.png"
+  },
+  {
+   "i": 10067,
+   "number": "USD737536S1",
+   "term": "conveyor",
+   "title": "Conveyor",
+   "assignee": "Caljan Rite-Hite Aps",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/10067.png"
+  },
+  {
+   "i": 10068,
+   "number": "USD841519S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/10068.png"
+  },
+  {
+   "i": 10069,
+   "number": "USD657113S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Mitsubishi Heavy Industries, Ltd.",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/10069.png"
+  },
+  {
+   "i": 10070,
+   "number": "USD919922S1",
+   "term": "conveyor",
+   "title": "Conveyor belt",
+   "assignee": "Cambridge International, Inc.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/10070.png"
+  },
+  {
+   "i": 10071,
+   "number": "USD257042S",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Kearney & Trecker Corporation",
+   "year": 1980,
+   "figures": 2,
+   "file": "img/10071.png"
+  },
+  {
+   "i": 10072,
+   "number": "USD978730S1",
+   "term": "motor",
+   "title": "Motor vehicle body, toy vehicle body replica and/or other replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/10072.png"
+  },
+  {
+   "i": 10073,
+   "number": "USD655991S1",
+   "term": "engine",
+   "title": "Engine hedge trimmer",
+   "assignee": "Makita Corporation",
+   "year": 2012,
+   "figures": 3,
+   "file": "img/10073.png"
+  },
+  {
+   "i": 10074,
+   "number": "USD676882S1",
+   "term": "machine tool",
+   "title": "Machine tool unit with conveyor",
+   "assignee": "Trumpf Werkzeugmaschinen Gmbh + Co. Kg",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/10074.png"
+  },
+  {
+   "i": 10075,
+   "number": "USD926082S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/10075.png"
+  },
+  {
+   "i": 10076,
+   "number": "USD928443S1",
+   "term": "conveyor",
+   "title": "Conveyor frame",
+   "assignee": "Precision, Inc.",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/10076.png"
+  },
+  {
+   "i": 10077,
+   "number": "USD105642S",
+   "term": "machine tool",
+   "title": "Design fob a machine tool",
+   "assignee": "Ex",
+   "year": 1937,
+   "figures": 1,
+   "file": "img/10077.png"
+  },
+  {
+   "i": 10078,
+   "number": "USD826781S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/10078.png"
+  },
+  {
+   "i": 10079,
+   "number": "USD570575S1",
+   "term": "forklift",
+   "title": "Forklift, toy and/or other replicas",
+   "assignee": "Dr. Ing. H.C.F. Porsche Aktiengesellschaft",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/10079.png"
+  },
+  {
+   "i": 10080,
+   "number": "USD400680S",
+   "term": "conveyor",
+   "title": "Conveyor belt module",
+   "assignee": "Robert Bosch Gmbh",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/10080.png"
+  },
+  {
+   "i": 10081,
+   "number": "USD749511S1",
+   "term": "engine",
+   "title": "Engine powered generator",
+   "assignee": "Champion Power Equipment, Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/10081.png"
+  },
+  {
+   "i": 10082,
+   "number": "USD726789S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Supfina Grieshaber Gmbh & Co Kg",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/10082.png"
+  },
+  {
+   "i": 10083,
+   "number": "USD913162S1",
+   "term": "motor",
+   "title": "Motor vehicle exterior body",
+   "assignee": "Rivian Ip Holdings, Llc",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/10083.png"
+  },
+  {
+   "i": 10084,
+   "number": "USD752312S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "BYD Company Ltd.",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/10084.png"
+  },
+  {
+   "i": 10085,
+   "number": "USD1069312S1",
+   "term": "conveyor",
+   "title": "Conveyor belt module",
+   "assignee": "Laitram, L.L.C.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/10085.png"
+  },
+  {
+   "i": 10086,
+   "number": "USD600252S1",
+   "term": "engine",
+   "title": "Engine air cleaner",
+   "assignee": "Jiangsu Lister Utility Engine Manufacturing Company Ltd.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/10086.png"
+  },
+  {
+   "i": 10087,
+   "number": "USD960047S1",
+   "term": "motor",
+   "title": "Motor vehicle body, toy vehicle body replica and/or other replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/10087.png"
+  },
+  {
+   "i": 10088,
+   "number": "USD1010970S1",
+   "term": "forklift",
+   "title": "Forklift pad",
+   "assignee": "Emmanuel J. Delorge",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/10088.png"
+  },
+  {
+   "i": 10089,
+   "number": "USD258500S",
+   "term": "conveyor",
+   "title": "Conveyor slat member or similar article",
+   "assignee": "Kloefkorn Deceased Earl W",
+   "year": 1981,
+   "figures": 1,
+   "file": "img/10089.png"
+  },
+  {
+   "i": 10090,
+   "number": "USD898620S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replicas thereof",
+   "assignee": "Audi Ag",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/10090.png"
+  },
+  {
+   "i": 10091,
+   "number": "USD612563S1",
+   "term": "forklift",
+   "title": "Forklift, toy, or likeness thereof",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/10091.png"
+  },
+  {
+   "i": 10092,
+   "number": "USD293037S",
+   "term": "conveyor",
+   "title": "Conveyor cleat",
+   "assignee": "Ross Capawana",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/10092.png"
+  },
+  {
+   "i": 10093,
+   "number": "USD519923S1",
+   "term": "engine",
+   "title": "Engine generator",
+   "assignee": "Honda Motor Co., Ltd.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/10093.png"
+  },
+  {
+   "i": 10094,
+   "number": "USD805437S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/10094.png"
+  },
+  {
+   "i": 10095,
+   "number": "USD741565S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Still Gmbh",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/10095.png"
+  },
+  {
+   "i": 10096,
+   "number": "USD270201S",
+   "term": "conveyor",
+   "title": "Conveyor module",
+   "assignee": "Rexnord Inc.",
+   "year": 1983,
+   "figures": 1,
+   "file": "img/10096.png"
+  },
+  {
+   "i": 10097,
+   "number": "USD214539S",
+   "term": "engine",
+   "title": "Engine",
+   "assignee": "",
+   "year": 1969,
+   "figures": 2,
+   "file": "img/10097.png"
+  },
+  {
+   "i": 10098,
+   "number": "USD852847S1",
+   "term": "motor",
+   "title": "Motor of a vehicle",
+   "assignee": "Harley-Davidson Motor Company Group, LLC",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/10098.png"
+  },
+  {
+   "i": 10099,
+   "number": "USD557872S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Kabushiki Kaisha Toyota Jidoshokki",
+   "year": 2007,
+   "figures": 3,
+   "file": "img/10099.png"
+  },
+  {
+   "i": 10100,
+   "number": "USD603649S1",
+   "term": "conveyor",
+   "title": "Conveyor toaster",
+   "assignee": "Prince Castle, Inc.",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/10100.png"
+  },
+  {
+   "i": 10101,
+   "number": "USD510305S1",
+   "term": "engine",
+   "title": "Engine hood for automobiles",
+   "assignee": "Grand Hc Auto Tooling Corp.",
+   "year": 2005,
+   "figures": 3,
+   "file": "img/10101.png"
+  },
+  {
+   "i": 10102,
+   "number": "USD960766S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy vehicle replica, and/or other replica",
+   "assignee": "GM Global Technology Operations LLC",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/10102.png"
+  },
+  {
+   "i": 10103,
+   "number": "USD1044195S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Byd Company Limited",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/10103.png"
+  },
+  {
+   "i": 10104,
+   "number": "USD59833S",
+   "term": "engine",
+   "title": "Design for an engine-frame",
+   "assignee": "",
+   "year": 1921,
+   "figures": 1,
+   "file": "img/10104.png"
+  },
+  {
+   "i": 10105,
+   "number": "USD805434S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2017,
+   "figures": 2,
+   "file": "img/10105.png"
+  },
+  {
+   "i": 10106,
+   "number": "USD703908S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Tcm Corporation",
+   "year": 2014,
+   "figures": 2,
+   "file": "img/10106.png"
+  },
+  {
+   "i": 10107,
+   "number": "USD740514S1",
+   "term": "conveyor",
+   "title": "Conveyor belt scraper blade",
+   "assignee": "Martin Engineering Company",
+   "year": 2015,
+   "figures": 2,
+   "file": "img/10107.png"
+  },
+  {
+   "i": 10108,
+   "number": "USD297279S",
+   "term": "conveyor",
+   "title": "Conveyor belt assembly, or similar article",
+   "assignee": "Riley Robert A",
+   "year": 1988,
+   "figures": 2,
+   "file": "img/10108.png"
+  },
+  {
+   "i": 10109,
+   "number": "USD939385S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/10109.png"
+  },
+  {
+   "i": 10110,
+   "number": "USD587425S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Kabushiki Kaisha Toyota Jidoshokki",
+   "year": 2009,
+   "figures": 3,
+   "file": "img/10110.png"
+  },
+  {
+   "i": 10111,
+   "number": "USD244370S",
+   "term": "conveyor",
+   "title": "Conveyor dryer",
+   "assignee": "Lawson Printing Machine Co., Inc.",
+   "year": 1977,
+   "figures": 1,
+   "file": "img/10111.png"
+  },
+  {
+   "i": 10112,
+   "number": "USD833481S1",
+   "term": "engine",
+   "title": "Engine",
+   "assignee": "Briggs & Stratton Corporation",
+   "year": 2018,
+   "figures": 3,
+   "file": "img/10112.png"
+  },
+  {
+   "i": 10113,
+   "number": "USD899973S1",
+   "term": "motor",
+   "title": "Motor vehicle exterior body and/or other replica",
+   "assignee": "Ford Global Technologies, Llc",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/10113.png"
+  },
+  {
+   "i": 10114,
+   "number": "USD763538S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Kabushiki Kaisha Toyota Jidoshokki",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/10114.png"
+  },
+  {
+   "i": 10115,
+   "number": "USD772517S1",
+   "term": "conveyor",
+   "title": "Conveyor belt drive roller",
+   "assignee": "Precision, Inc.",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/10115.png"
+  },
+  {
+   "i": 10116,
+   "number": "USD511076S1",
+   "term": "engine",
+   "title": "Engine cylinder valve spring compressor tool",
+   "assignee": "Higdon Jolly R",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/10116.png"
+  },
+  {
+   "i": 10117,
+   "number": "USD930938S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Mitsubishi Logisnext Co., LTD.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/10117.png"
+  },
+  {
+   "i": 10118,
+   "number": "USD232972S",
+   "term": "conveyor",
+   "title": "Conveyor receptacle for carryesg soiled ware in a dishwashing machine",
+   "assignee": "",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/10118.png"
+  },
+  {
+   "i": 10119,
+   "number": "USD1015218S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy replica, and/or other replica",
+   "assignee": "Bayerische Motoren Werke Aktiengesellschaft",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/10119.png"
+  },
+  {
+   "i": 10120,
+   "number": "USD374752S",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Daewoo Heavy Industries Ltd.",
+   "year": 1996,
+   "figures": 3,
+   "file": "img/10120.png"
+  },
+  {
+   "i": 10121,
+   "number": "USD974693S1",
+   "term": "conveyor",
+   "title": "Conveyor idler",
+   "assignee": "NHI Mechanical Motion, LLC",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/10121.png"
+  },
+  {
+   "i": 10122,
+   "number": "USD558799S1",
+   "term": "engine",
+   "title": "Engine hood for tractor",
+   "assignee": "Kubota Corporation",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/10122.png"
+  },
+  {
+   "i": 10123,
+   "number": "USD875608S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/10123.png"
+  },
+  {
+   "i": 10124,
+   "number": "USD663503S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Tailift Co., Ltd.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/10124.png"
   }
  ]
 }

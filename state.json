@@ -110,7 +110,12 @@
   "t:robot arm": "complete",
   "t:robotic arm": "complete",
   "t:industrial robot": "complete",
-  "t:robotics": "complete"
+  "t:robotics": "complete",
+  "t:surgery robot": "complete",
+  "t:surgery electronic devices": "complete",
+  "t:medical electronic devices": "complete",
+  "t:medical robot": "complete",
+  "t:mri": "complete"
  },
  "throttled_at": "2026-09-06T16:56:57.335Z"
 }

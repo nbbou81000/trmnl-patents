@@ -1,6 +1,6 @@
 {
- "count": 9825,
- "generated_at": 1788985996,
+ "count": 9925,
+ "generated_at": 1788986167,
  "items": [
   {
    "i": 0,
@@ -98251,6 +98251,1006 @@
    "year": 2010,
    "figures": 1,
    "file": "img/9824.png"
+  },
+  {
+   "i": 9825,
+   "number": "USD606568S1",
+   "term": "milling machine",
+   "title": "Milling machine",
+   "assignee": "Tormach Llc",
+   "year": 2009,
+   "figures": 1,
+   "file": "img/9825.png"
+  },
+  {
+   "i": 9826,
+   "number": "USD192263S",
+   "term": "lathe",
+   "title": "Lathe bed",
+   "assignee": "",
+   "year": 1962,
+   "figures": 1,
+   "file": "img/9826.png"
+  },
+  {
+   "i": 9827,
+   "number": "USD507578S1",
+   "term": "turbine",
+   "title": "Turbine for a pump",
+   "assignee": "Matsushita Electric Industrial Co., Ltd.",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/9827.png"
+  },
+  {
+   "i": 9828,
+   "number": "USD445807S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "600 Uk Limited",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/9828.png"
+  },
+  {
+   "i": 9829,
+   "number": "USD877658S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9829.png"
+  },
+  {
+   "i": 9830,
+   "number": "USD963282S1",
+   "term": "conveyor",
+   "title": "Conveyor belt module",
+   "assignee": "Habasit Italiana S.P.A., Cesano Boscone, R & D Plastics, Zweigniederlassung",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9830.png"
+  },
+  {
+   "i": 9831,
+   "number": "USD310348S",
+   "term": "engine",
+   "title": "Engine generator",
+   "assignee": "Fuji Jukogyo Kabushiki Kaisha",
+   "year": 1990,
+   "figures": 3,
+   "file": "img/9831.png"
+  },
+  {
+   "i": 9832,
+   "number": "USD133970S",
+   "term": "milling machine",
+   "title": "Milling machine",
+   "assignee": "",
+   "year": 1942,
+   "figures": 2,
+   "file": "img/9832.png"
+  },
+  {
+   "i": 9833,
+   "number": "USD125269S",
+   "term": "lathe",
+   "title": "Design foe a lathe",
+   "assignee": "The R",
+   "year": 1941,
+   "figures": 1,
+   "file": "img/9833.png"
+  },
+  {
+   "i": 9834,
+   "number": "USD494192S1",
+   "term": "turbine",
+   "title": "Turbine for a pump",
+   "assignee": "Matsushita Electric Industries Co., Ltd.",
+   "year": 2004,
+   "figures": 2,
+   "file": "img/9834.png"
+  },
+  {
+   "i": 9835,
+   "number": "USD81479S",
+   "term": "machine tool",
+   "title": "of cincinnati",
+   "assignee": "The Cincinnati milling Machine Company",
+   "year": 1930,
+   "figures": 1,
+   "file": "img/9835.png"
+  },
+  {
+   "i": 9836,
+   "number": "USD906884S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9836.png"
+  },
+  {
+   "i": 9837,
+   "number": "USD942108S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Hangzhou Hikrobot Technology Co., Ltd",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/9837.png"
+  },
+  {
+   "i": 9838,
+   "number": "USD644174S1",
+   "term": "engine",
+   "title": "Engine operated generator",
+   "assignee": "Honda Motor Co., Ltd.",
+   "year": 2011,
+   "figures": 3,
+   "file": "img/9838.png"
+  },
+  {
+   "i": 9839,
+   "number": "USD195441S",
+   "term": "printing press",
+   "title": "Printing press",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/9839.png"
+  },
+  {
+   "i": 9840,
+   "number": "USD592686S1",
+   "term": "milling machine",
+   "title": "Milling machine",
+   "assignee": "3M Innovative Properties Company",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/9840.png"
+  },
+  {
+   "i": 9841,
+   "number": "USD946528S1",
+   "term": "turbine",
+   "title": "Turbine vane",
+   "assignee": "Siemens Energy Global GmbH & Co. KG",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9841.png"
+  },
+  {
+   "i": 9842,
+   "number": "USD251593S",
+   "term": "machine tool",
+   "title": "Machine tool turret",
+   "assignee": "Kennametal Inc.",
+   "year": 1979,
+   "figures": 1,
+   "file": "img/9842.png"
+  },
+  {
+   "i": 9843,
+   "number": "USD924729S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/9843.png"
+  },
+  {
+   "i": 9844,
+   "number": "USD471340S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Mitsubishi Heavy Industries, Ltd.",
+   "year": 2003,
+   "figures": 3,
+   "file": "img/9844.png"
+  },
+  {
+   "i": 9845,
+   "number": "USD614103S1",
+   "term": "engine",
+   "title": "Engine muffler",
+   "assignee": "Uav Engines Limited",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/9845.png"
+  },
+  {
+   "i": 9846,
+   "number": "USD171691S",
+   "term": "printing press",
+   "title": "Printing press",
+   "assignee": "",
+   "year": 1954,
+   "figures": 2,
+   "file": "img/9846.png"
+  },
+  {
+   "i": 9847,
+   "number": "USD172597S",
+   "term": "milling machine",
+   "title": "Henkes milling machine unit",
+   "assignee": "George Gorton Machine Co",
+   "year": 1954,
+   "figures": 2,
+   "file": "img/9847.png"
+  },
+  {
+   "i": 9848,
+   "number": "USD83743S",
+   "term": "machine tool",
+   "title": "Design for a machine tool",
+   "assignee": "The Ingersoll Milling Machine Company",
+   "year": 1931,
+   "figures": 1,
+   "file": "img/9848.png"
+  },
+  {
+   "i": 9849,
+   "number": "USD1019469S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy replica, and/or other replica",
+   "assignee": "Bayerische Motoren Werke Aktiengesellschaft",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/9849.png"
+  },
+  {
+   "i": 9850,
+   "number": "USD595473S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Kabushiki Kaisha Toyota Jidoshokki",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/9850.png"
+  },
+  {
+   "i": 9851,
+   "number": "USD871711S1",
+   "term": "conveyor",
+   "title": "Conveyor belt support",
+   "assignee": "Dallan S.P.A.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9851.png"
+  },
+  {
+   "i": 9852,
+   "number": "USD509716S1",
+   "term": "engine",
+   "title": "Engine cylinder valve spring compressor tool",
+   "assignee": "Higdon Jolly R",
+   "year": 2005,
+   "figures": 1,
+   "file": "img/9852.png"
+  },
+  {
+   "i": 9853,
+   "number": "USD105258S",
+   "term": "printing press",
+   "title": "Design fob a feinting press unit",
+   "assignee": "The Duplex Printing Press Company",
+   "year": 1937,
+   "figures": 1,
+   "file": "img/9853.png"
+  },
+  {
+   "i": 9854,
+   "number": "USD255243S",
+   "term": "milling machine",
+   "title": "Milling machine",
+   "assignee": "Hurco Manufacturing Co. Inc.",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/9854.png"
+  },
+  {
+   "i": 9855,
+   "number": "USD450333S1",
+   "term": "lathe",
+   "title": "Lathe",
+   "assignee": "Delta International Machinery Corp.",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/9855.png"
+  },
+  {
+   "i": 9856,
+   "number": "USD924136S1",
+   "term": "turbine",
+   "title": "Turbine blade for a turbine blade attachment assembly",
+   "assignee": "Dresser-Rand Company",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/9856.png"
+  },
+  {
+   "i": 9857,
+   "number": "USD719064S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/9857.png"
+  },
+  {
+   "i": 9858,
+   "number": "USD895221S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Toyota Material Handling Manufacturing Sweden Ab",
+   "year": 2020,
+   "figures": 3,
+   "file": "img/9858.png"
+  },
+  {
+   "i": 9859,
+   "number": "USD511661S1",
+   "term": "engine",
+   "title": "Engine cylinder valve spring compressor tool",
+   "assignee": "Higdon Jolly R",
+   "year": 2005,
+   "figures": 2,
+   "file": "img/9859.png"
+  },
+  {
+   "i": 9860,
+   "number": "USD612873S1",
+   "term": "milling machine",
+   "title": "Milling machine",
+   "assignee": "Wieland Dental & Technik Gmbh & Co. Kg",
+   "year": 2010,
+   "figures": 1,
+   "file": "img/9860.png"
+  },
+  {
+   "i": 9861,
+   "number": "USD496947S1",
+   "term": "lathe",
+   "title": "Lathe",
+   "assignee": "600 Uk Limited",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/9861.png"
+  },
+  {
+   "i": 9862,
+   "number": "USD766828S1",
+   "term": "turbine",
+   "title": "Turbine generator",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/9862.png"
+  },
+  {
+   "i": 9863,
+   "number": "USD206094S",
+   "term": "machine tool",
+   "title": "Machine tool control console",
+   "assignee": "",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/9863.png"
+  },
+  {
+   "i": 9864,
+   "number": "USD953205S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy replica, and/or other replica",
+   "assignee": "Bayerische Motoren Werke Aktiengesellschaft",
+   "year": 2022,
+   "figures": 2,
+   "file": "img/9864.png"
+  },
+  {
+   "i": 9865,
+   "number": "USD297278S",
+   "term": "conveyor",
+   "title": "Conveyor line parts hanger",
+   "assignee": "Franks Machining, Inc.",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/9865.png"
+  },
+  {
+   "i": 9866,
+   "number": "USD514483S1",
+   "term": "engine",
+   "title": "Engine hood for automobiles",
+   "assignee": "Grand Hc Auto Tooling Corp.",
+   "year": 2006,
+   "figures": 3,
+   "file": "img/9866.png"
+  },
+  {
+   "i": 9867,
+   "number": "USD170560S",
+   "term": "milling machine",
+   "title": "Tree milling machine",
+   "assignee": "",
+   "year": 1953,
+   "figures": 1,
+   "file": "img/9867.png"
+  },
+  {
+   "i": 9868,
+   "number": "USD189992S",
+   "term": "lathe",
+   "title": "Lathe chuck",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/9868.png"
+  },
+  {
+   "i": 9869,
+   "number": "USD247509S",
+   "term": "turbine",
+   "title": "Turbine ventilator",
+   "assignee": "Rousey Donald L",
+   "year": 1978,
+   "figures": 1,
+   "file": "img/9869.png"
+  },
+  {
+   "i": 9870,
+   "number": "USD913856S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2021,
+   "figures": 3,
+   "file": "img/9870.png"
+  },
+  {
+   "i": 9871,
+   "number": "USD818238S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9871.png"
+  },
+  {
+   "i": 9872,
+   "number": "USD867711S1",
+   "term": "conveyor",
+   "title": "Conveyor belt",
+   "assignee": "Trelleborg Slovenija, d.o.o.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9872.png"
+  },
+  {
+   "i": 9873,
+   "number": "USD838292S1",
+   "term": "engine",
+   "title": "Engine intake manifold",
+   "assignee": "Full Tilt Performance Llc",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/9873.png"
+  },
+  {
+   "i": 9874,
+   "number": "USD110237S",
+   "term": "milling machine",
+   "title": "Design for a milling machine knee",
+   "assignee": "Kearney a Trecker Corporation",
+   "year": 1938,
+   "figures": 1,
+   "file": "img/9874.png"
+  },
+  {
+   "i": 9875,
+   "number": "USD687776S1",
+   "term": "turbine",
+   "title": "Turbine rotor",
+   "assignee": "Henry L. Blevio, Sr.",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/9875.png"
+  },
+  {
+   "i": 9876,
+   "number": "USD949941S1",
+   "term": "machine tool",
+   "title": "Machine tool robot",
+   "assignee": "Igus Gmbh",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9876.png"
+  },
+  {
+   "i": 9877,
+   "number": "USD883145S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9877.png"
+  },
+  {
+   "i": 9878,
+   "number": "USD905371S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Byd Company Limited",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9878.png"
+  },
+  {
+   "i": 9879,
+   "number": "USD398729S",
+   "term": "conveyor",
+   "title": "Conveyor belt guiding device",
+   "assignee": "Hovst O Slashed Kenneth",
+   "year": 1998,
+   "figures": 3,
+   "file": "img/9879.png"
+  },
+  {
+   "i": 9880,
+   "number": "USD980292S1",
+   "term": "engine",
+   "title": "Engine hood for working machine",
+   "assignee": "Kubota Corporation",
+   "year": 2023,
+   "figures": 1,
+   "file": "img/9880.png"
+  },
+  {
+   "i": 9881,
+   "number": "USD133193S",
+   "term": "milling machine",
+   "title": "Condon milling machine",
+   "assignee": "",
+   "year": 1942,
+   "figures": 3,
+   "file": "img/9881.png"
+  },
+  {
+   "i": 9882,
+   "number": "USD1050212S1",
+   "term": "machine tool",
+   "title": "Machine tool robot",
+   "assignee": "Neura Robotics GmbH",
+   "year": 2024,
+   "figures": 1,
+   "file": "img/9882.png"
+  },
+  {
+   "i": 9883,
+   "number": "USD887900S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2020,
+   "figures": 2,
+   "file": "img/9883.png"
+  },
+  {
+   "i": 9884,
+   "number": "USD731737S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Komatsu Ltd.",
+   "year": 2015,
+   "figures": 3,
+   "file": "img/9884.png"
+  },
+  {
+   "i": 9885,
+   "number": "USD924530S1",
+   "term": "conveyor",
+   "title": "Conveyor belt slat",
+   "assignee": "Habasit Ag",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/9885.png"
+  },
+  {
+   "i": 9886,
+   "number": "USD255121S",
+   "term": "milling machine",
+   "title": "Milling machine control panel",
+   "assignee": "Hurco Manufacturing Co., Inc.",
+   "year": 1980,
+   "figures": 2,
+   "file": "img/9886.png"
+  },
+  {
+   "i": 9887,
+   "number": "USD149657S",
+   "term": "lathe",
+   "title": "Design for a lathe",
+   "assignee": "Sparks Machine Tool Corporation",
+   "year": 1948,
+   "figures": 3,
+   "file": "img/9887.png"
+  },
+  {
+   "i": 9888,
+   "number": "USD376154S",
+   "term": "turbine",
+   "title": "Turbine inner casing",
+   "assignee": "Gas Research Institute",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/9888.png"
+  },
+  {
+   "i": 9889,
+   "number": "USD597570S1",
+   "term": "machine tool",
+   "title": "Machine tool operation device",
+   "assignee": "Komatsu Ntc Ltd.",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/9889.png"
+  },
+  {
+   "i": 9890,
+   "number": "USD881075S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/9890.png"
+  },
+  {
+   "i": 9891,
+   "number": "USD214529S",
+   "term": "conveyor",
+   "title": "Conveyor trolley hanger",
+   "assignee": "White Machine Co",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/9891.png"
+  },
+  {
+   "i": 9892,
+   "number": "USD120863S",
+   "term": "lathe",
+   "title": "Hoelscher lathe",
+   "assignee": "The American Tool Works Company",
+   "year": 1940,
+   "figures": 2,
+   "file": "img/9892.png"
+  },
+  {
+   "i": 9893,
+   "number": "USD637555S1",
+   "term": "turbine",
+   "title": "Turbine rib",
+   "assignee": "Rodriguez Jaime E",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/9893.png"
+  },
+  {
+   "i": 9894,
+   "number": "USD399493S",
+   "term": "machine tool",
+   "title": "Machine tool operation console",
+   "assignee": "Toshiba Kikai Kabushiki Kaisha",
+   "year": 1998,
+   "figures": 1,
+   "file": "img/9894.png"
+  },
+  {
+   "i": 9895,
+   "number": "USD964890S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9895.png"
+  },
+  {
+   "i": 9896,
+   "number": "USD551421S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Hoei Shokai Co., Ltd.",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9896.png"
+  },
+  {
+   "i": 9897,
+   "number": "USD423178S",
+   "term": "conveyor",
+   "title": "Conveyor roll",
+   "assignee": "Interroll Holding Ag",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/9897.png"
+  },
+  {
+   "i": 9898,
+   "number": "USD1078871S1",
+   "term": "engine",
+   "title": "Engine model",
+   "assignee": "Shenzhen Yongzhe Xinran Technology Co, Ltd.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/9898.png"
+  },
+  {
+   "i": 9899,
+   "number": "USD547458S1",
+   "term": "milling machine",
+   "title": "Milling machine for use in a dental laboratory system",
+   "assignee": "D4D Technologies, Llc",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/9899.png"
+  },
+  {
+   "i": 9900,
+   "number": "USD446527S1",
+   "term": "lathe",
+   "title": "Lathe",
+   "assignee": "Fisch Precision Tools, Inc.",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/9900.png"
+  },
+  {
+   "i": 9901,
+   "number": "USD754066S1",
+   "term": "turbine",
+   "title": "Turbine generator",
+   "assignee": "Mitsubishi Electric Corporation",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/9901.png"
+  },
+  {
+   "i": 9902,
+   "number": "USD204207S",
+   "term": "machine tool",
+   "title": "Machine tool base and bed unit",
+   "assignee": "",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/9902.png"
+  },
+  {
+   "i": 9903,
+   "number": "USD805436S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/9903.png"
+  },
+  {
+   "i": 9904,
+   "number": "USD537226S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Jungheinrich Aktiengesellshcaft",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/9904.png"
+  },
+  {
+   "i": 9905,
+   "number": "USD293384S",
+   "term": "conveyor",
+   "title": "Conveyor",
+   "assignee": "Ventureprise, Inc.",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/9905.png"
+  },
+  {
+   "i": 9906,
+   "number": "USD108690S",
+   "term": "milling machine",
+   "title": "Design for a milling machine saddle",
+   "assignee": "Kearney a Trecker Corporation",
+   "year": 1938,
+   "figures": 2,
+   "file": "img/9906.png"
+  },
+  {
+   "i": 9907,
+   "number": "USD425916S",
+   "term": "lathe",
+   "title": "Lathe",
+   "assignee": "Ching Fa Cheng",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/9907.png"
+  },
+  {
+   "i": 9908,
+   "number": "USD949794S1",
+   "term": "turbine",
+   "title": "Turbine blade",
+   "assignee": "Siemens Energy Global GmbH & Co. KG",
+   "year": 2022,
+   "figures": 1,
+   "file": "img/9908.png"
+  },
+  {
+   "i": 9909,
+   "number": "USD206617S",
+   "term": "machine tool",
+   "title": "Machine tool base and bed unit",
+   "assignee": "",
+   "year": 1967,
+   "figures": 1,
+   "file": "img/9909.png"
+  },
+  {
+   "i": 9910,
+   "number": "USD1018375S1",
+   "term": "motor",
+   "title": "Motor vehicle",
+   "assignee": "Volkswagen Aktiengesellschaft",
+   "year": 2024,
+   "figures": 3,
+   "file": "img/9910.png"
+  },
+  {
+   "i": 9911,
+   "number": "USD923909S1",
+   "term": "forklift",
+   "title": "Forklift truck",
+   "assignee": "Mitsubishi Logisnext Co., LTD.",
+   "year": 2021,
+   "figures": 2,
+   "file": "img/9911.png"
+  },
+  {
+   "i": 9912,
+   "number": "USD254429S",
+   "term": "conveyor",
+   "title": "Conveyor belt",
+   "assignee": "Fabreeka Products Company",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/9912.png"
+  },
+  {
+   "i": 9913,
+   "number": "USD682782S1",
+   "term": "engine",
+   "title": "Engine for a brushcutter",
+   "assignee": "Makita Corporation",
+   "year": 2013,
+   "figures": 3,
+   "file": "img/9913.png"
+  },
+  {
+   "i": 9914,
+   "number": "USD139404S",
+   "term": "milling machine",
+   "title": "Condon milling machine",
+   "assignee": "",
+   "year": 1944,
+   "figures": 1,
+   "file": "img/9914.png"
+  },
+  {
+   "i": 9915,
+   "number": "USD176960S",
+   "term": "lathe",
+   "title": "Lathe",
+   "assignee": "",
+   "year": 1956,
+   "figures": 1,
+   "file": "img/9915.png"
+  },
+  {
+   "i": 9916,
+   "number": "USD680563S1",
+   "term": "machine tool",
+   "title": "Machine tool",
+   "assignee": "Hon Hai Precision Industry Co., Ltd.",
+   "year": 2013,
+   "figures": 2,
+   "file": "img/9916.png"
+  },
+  {
+   "i": 9917,
+   "number": "USD808862S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy and/or replica",
+   "assignee": "Dr. Ing. H.C. F. Porsche Aktiengesellschaft",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/9917.png"
+  },
+  {
+   "i": 9918,
+   "number": "USD696830S1",
+   "term": "forklift",
+   "title": "Forklift",
+   "assignee": "Mitsubishi Nichiyu Forklift Co., Ltd.",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/9918.png"
+  },
+  {
+   "i": 9919,
+   "number": "USD702013S1",
+   "term": "conveyor",
+   "title": "Conveyor scraper blade tip",
+   "assignee": "Martin Engineering Company",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/9919.png"
+  },
+  {
+   "i": 9920,
+   "number": "USD416265S",
+   "term": "engine",
+   "title": "Engine",
+   "assignee": "Komatsu Zenoah Company",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/9920.png"
+  },
+  {
+   "i": 9921,
+   "number": "USD214400S",
+   "term": "milling machine",
+   "title": "Milling machine head",
+   "assignee": "",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/9921.png"
+  },
+  {
+   "i": 9922,
+   "number": "USD133203S",
+   "term": "lathe",
+   "title": "Design for a lathe tool",
+   "assignee": "",
+   "year": 1942,
+   "figures": 1,
+   "file": "img/9922.png"
+  },
+  {
+   "i": 9923,
+   "number": "USD869523S1",
+   "term": "machine tool",
+   "title": "Machine tool for drilling deep holes",
+   "assignee": "Chetocorporation, S.A.",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/9923.png"
+  },
+  {
+   "i": 9924,
+   "number": "USD997783S1",
+   "term": "motor",
+   "title": "Motor vehicle, toy replica, and/or other replica",
+   "assignee": "Bayerische Motoren Werke Aktiengesellschaft",
+   "year": 2023,
+   "figures": 2,
+   "file": "img/9924.png"
   }
  ]
 }

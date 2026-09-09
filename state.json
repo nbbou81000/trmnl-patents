@@ -106,7 +106,11 @@
   "t:streaming media player": "complete",
   "t:smart doorbell": "complete",
   "t:security camera": "complete",
-  "t:door lock": 1
+  "t:door lock": 1,
+  "t:robot arm": "complete",
+  "t:robotic arm": "complete",
+  "t:industrial robot": "complete",
+  "t:robotics": "complete"
  },
  "throttled_at": "2026-09-06T16:56:57.335Z"
 }

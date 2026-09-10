@@ -131,7 +131,20 @@
   "t:motor": 1,
   "t:telescope": "complete",
   "t:satellite": "complete",
-  "t:spacecraft": "complete"
+  "t:spacecraft": "complete",
+  "t:vending machine": "complete",
+  "t:parking meter": "complete",
+  "t:gasoline pump": "complete",
+  "t:fuel dispenser": "complete",
+  "t:traffic signal": "complete",
+  "t:street lamp": "complete",
+  "t:lamp post": "complete",
+  "t:fire hydrant": "complete",
+  "t:mailbox": "complete",
+  "t:letter box": "complete",
+  "t:telephone booth": "complete",
+  "t:public telephone": "complete",
+  "t:bench": "complete"
  },
  "throttled_at": "2026-09-06T16:56:57.335Z"
 }

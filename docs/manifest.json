@@ -1,6 +1,6 @@
 {
- "count": 10657,
- "generated_at": 1789019679,
+ "count": 10757,
+ "generated_at": 1789019799,
  "items": [
   {
    "i": 0,
@@ -106571,6 +106571,1006 @@
    "year": 1961,
    "figures": 1,
    "file": "img/10656.png"
+  },
+  {
+   "i": 10657,
+   "number": "USD169043S",
+   "term": "traffic signal",
+   "title": "Traffic signal",
+   "assignee": "",
+   "year": 1953,
+   "figures": 1,
+   "file": "img/10657.png"
+  },
+  {
+   "i": 10658,
+   "number": "USD954511S1",
+   "term": "fire hydrant",
+   "title": "Fire hydrant knife block",
+   "assignee": "Jerry Spence",
+   "year": 2022,
+   "figures": 3,
+   "file": "img/10658.png"
+  },
+  {
+   "i": 10659,
+   "number": "USD43968S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1913,
+   "figures": 1,
+   "file": "img/10659.png"
+  },
+  {
+   "i": 10660,
+   "number": "USD191392S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/10660.png"
+  },
+  {
+   "i": 10661,
+   "number": "USD44494S",
+   "term": "street lamp",
+   "title": "Design for a street-lamp",
+   "assignee": "MINNEAPOLIS STEEL a MACHINEBY CO",
+   "year": 1913,
+   "figures": 1,
+   "file": "img/10661.png"
+  },
+  {
+   "i": 10662,
+   "number": "USD549243S1",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser",
+   "assignee": "Tatsuno Corporation",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/10662.png"
+  },
+  {
+   "i": 10663,
+   "number": "USD338762S",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "Norma L. Fraser",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/10663.png"
+  },
+  {
+   "i": 10664,
+   "number": "USD544920S1",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "The Coca-Cola Company",
+   "year": 2007,
+   "figures": 2,
+   "file": "img/10664.png"
+  },
+  {
+   "i": 10665,
+   "number": "USD294782S",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Landscape Forms, Inc.",
+   "year": 1988,
+   "figures": 1,
+   "file": "img/10665.png"
+  },
+  {
+   "i": 10666,
+   "number": "USD158451S",
+   "term": "traffic signal",
+   "title": "Traffic signal",
+   "assignee": "",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/10666.png"
+  },
+  {
+   "i": 10667,
+   "number": "USD222695S",
+   "term": "fire hydrant",
+   "title": "Fire hydrant",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/10667.png"
+  },
+  {
+   "i": 10668,
+   "number": "USD42285S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1912,
+   "figures": 1,
+   "file": "img/10668.png"
+  },
+  {
+   "i": 10669,
+   "number": "USD204748S",
+   "term": "telephone booth",
+   "title": "Telephone booth or similar article",
+   "assignee": "",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/10669.png"
+  },
+  {
+   "i": 10670,
+   "number": "USD622432S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Foxsemicon Integrated Technology, Inc.",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/10670.png"
+  },
+  {
+   "i": 10671,
+   "number": "USD755650S1",
+   "term": "parking meter",
+   "title": "Parking meter",
+   "assignee": "Ips Group Inc.",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/10671.png"
+  },
+  {
+   "i": 10672,
+   "number": "USD433036S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser interface",
+   "assignee": "Marconi Commerce Systems Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10672.png"
+  },
+  {
+   "i": 10673,
+   "number": "USD442348S1",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "National Manufacturing Co.",
+   "year": 2001,
+   "figures": 3,
+   "file": "img/10673.png"
+  },
+  {
+   "i": 10674,
+   "number": "USD816770S1",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "'brellabox Inc.",
+   "year": 2018,
+   "figures": 2,
+   "file": "img/10674.png"
+  },
+  {
+   "i": 10675,
+   "number": "USD522282S1",
+   "term": "bench",
+   "title": "Bench support",
+   "assignee": "Landscape Forms, Inc.",
+   "year": 2006,
+   "figures": 1,
+   "file": "img/10675.png"
+  },
+  {
+   "i": 10676,
+   "number": "USD68433S",
+   "term": "traffic signal",
+   "title": "Design for a traffic signal",
+   "assignee": "F One",
+   "year": 1925,
+   "figures": 1,
+   "file": "img/10676.png"
+  },
+  {
+   "i": 10677,
+   "number": "USD215285S",
+   "term": "fire hydrant",
+   "title": "Fire hydrant",
+   "assignee": "M",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/10677.png"
+  },
+  {
+   "i": 10678,
+   "number": "USD226903S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "",
+   "year": 1973,
+   "figures": 2,
+   "file": "img/10678.png"
+  },
+  {
+   "i": 10679,
+   "number": "USD892362S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Xiamen Eco Lighting Co., Ltd.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/10679.png"
+  },
+  {
+   "i": 10680,
+   "number": "USD138681S",
+   "term": "parking meter",
+   "title": "Design for a parking meter",
+   "assignee": "r to Miller Meters",
+   "year": 1944,
+   "figures": 1,
+   "file": "img/10680.png"
+  },
+  {
+   "i": 10681,
+   "number": "USD433688S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser interface",
+   "assignee": "Marconi Commerce Systems Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10681.png"
+  },
+  {
+   "i": 10682,
+   "number": "USD771347S1",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "John G. Kelly",
+   "year": 2016,
+   "figures": 2,
+   "file": "img/10682.png"
+  },
+  {
+   "i": 10683,
+   "number": "USD307446S",
+   "term": "vending machine",
+   "title": "Vending machine for foods",
+   "assignee": "Unidynamics Corporation",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/10683.png"
+  },
+  {
+   "i": 10684,
+   "number": "USD1059874S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Orange Pine Pte. Ltd.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/10684.png"
+  },
+  {
+   "i": 10685,
+   "number": "USD73199S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1927,
+   "figures": 1,
+   "file": "img/10685.png"
+  },
+  {
+   "i": 10686,
+   "number": "USD245431S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "The Post Office",
+   "year": 1977,
+   "figures": 1,
+   "file": "img/10686.png"
+  },
+  {
+   "i": 10687,
+   "number": "USD613894S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Kmw Inc.",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/10687.png"
+  },
+  {
+   "i": 10688,
+   "number": "USD412289S",
+   "term": "parking meter",
+   "title": "Parking meter",
+   "assignee": "MEM Products Pty. Limited",
+   "year": 1999,
+   "figures": 2,
+   "file": "img/10688.png"
+  },
+  {
+   "i": 10689,
+   "number": "USD655315S1",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser",
+   "assignee": "Dresser Wayne Ab",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/10689.png"
+  },
+  {
+   "i": 10690,
+   "number": "USD515268S1",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "John Johnson",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/10690.png"
+  },
+  {
+   "i": 10691,
+   "number": "USD284874S",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "Mars G. B. Limited",
+   "year": 1986,
+   "figures": 1,
+   "file": "img/10691.png"
+  },
+  {
+   "i": 10692,
+   "number": "USD655937S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Chelsea Improvement Company, Inc.",
+   "year": 2012,
+   "figures": 1,
+   "file": "img/10692.png"
+  },
+  {
+   "i": 10693,
+   "number": "USD71842S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1927,
+   "figures": 1,
+   "file": "img/10693.png"
+  },
+  {
+   "i": 10694,
+   "number": "USD223706S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "",
+   "year": 1972,
+   "figures": 1,
+   "file": "img/10694.png"
+  },
+  {
+   "i": 10695,
+   "number": "USD40509S",
+   "term": "street lamp",
+   "title": "Design for a street-lamp",
+   "assignee": "",
+   "year": 1910,
+   "figures": 1,
+   "file": "img/10695.png"
+  },
+  {
+   "i": 10696,
+   "number": "USD100875S",
+   "term": "parking meter",
+   "title": "Design for a parking meter casing",
+   "assignee": "",
+   "year": 1936,
+   "figures": 1,
+   "file": "img/10696.png"
+  },
+  {
+   "i": 10697,
+   "number": "USD496770S1",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "Nathan Stone",
+   "year": 2004,
+   "figures": 1,
+   "file": "img/10697.png"
+  },
+  {
+   "i": 10698,
+   "number": "USD81699S",
+   "term": "vending machine",
+   "title": "Design foe",
+   "assignee": "",
+   "year": 1930,
+   "figures": 1,
+   "file": "img/10698.png"
+  },
+  {
+   "i": 10699,
+   "number": "USD48623S",
+   "term": "bench",
+   "title": "haase",
+   "assignee": "",
+   "year": 1916,
+   "figures": 1,
+   "file": "img/10699.png"
+  },
+  {
+   "i": 10700,
+   "number": "USD40809S",
+   "term": "lamp post",
+   "title": "Design fob",
+   "assignee": "",
+   "year": 1910,
+   "figures": 1,
+   "file": "img/10700.png"
+  },
+  {
+   "i": 10701,
+   "number": "USD336583S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "Acoustics Development Corporation",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/10701.png"
+  },
+  {
+   "i": 10702,
+   "number": "USD45785S",
+   "term": "street lamp",
+   "title": "Design for a street-lamp",
+   "assignee": "Blake Specialty company",
+   "year": 1914,
+   "figures": 1,
+   "file": "img/10702.png"
+  },
+  {
+   "i": 10703,
+   "number": "USD112079S",
+   "term": "parking meter",
+   "title": "Design for a parking meter casing or",
+   "assignee": "",
+   "year": 1938,
+   "figures": 1,
+   "file": "img/10703.png"
+  },
+  {
+   "i": 10704,
+   "number": "USD456820S1",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser loop conductor antenna",
+   "assignee": "Marconi Commerce Systems Inc.",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/10704.png"
+  },
+  {
+   "i": 10705,
+   "number": "USD483545S1",
+   "term": "mailbox",
+   "title": "Mailbox assembly having a bifurcated post",
+   "assignee": "Jacob T. Hostetler",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/10705.png"
+  },
+  {
+   "i": 10706,
+   "number": "USD186466S",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "",
+   "year": 1959,
+   "figures": 1,
+   "file": "img/10706.png"
+  },
+  {
+   "i": 10707,
+   "number": "USD418326S",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Sellex Outdoor",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10707.png"
+  },
+  {
+   "i": 10708,
+   "number": "USD777371S1",
+   "term": "lamp post",
+   "title": "Lamp post of a lamp",
+   "assignee": "Jianqiao YANG",
+   "year": 2017,
+   "figures": 3,
+   "file": "img/10708.png"
+  },
+  {
+   "i": 10709,
+   "number": "USD189570S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/10709.png"
+  },
+  {
+   "i": 10710,
+   "number": "USD623791S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Kmw Inc.",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/10710.png"
+  },
+  {
+   "i": 10711,
+   "number": "USD431788S",
+   "term": "parking meter",
+   "title": "Parking meter",
+   "assignee": "Duncan Industries",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10711.png"
+  },
+  {
+   "i": 10712,
+   "number": "USD898869S1",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser nozzle",
+   "assignee": "Gilbarco Inc.",
+   "year": 2020,
+   "figures": 1,
+   "file": "img/10712.png"
+  },
+  {
+   "i": 10713,
+   "number": "USD176991S",
+   "term": "mailbox",
+   "title": "Mailbox support or the like",
+   "assignee": "",
+   "year": 1956,
+   "figures": 1,
+   "file": "img/10713.png"
+  },
+  {
+   "i": 10714,
+   "number": "USD304614S",
+   "term": "bench",
+   "title": "Bench for physiotherapeutical treatment",
+   "assignee": "Rolf Guttormsen",
+   "year": 1989,
+   "figures": 3,
+   "file": "img/10714.png"
+  },
+  {
+   "i": 10715,
+   "number": "USD41069S",
+   "term": "lamp post",
+   "title": "Design fob a lamp-post",
+   "assignee": "",
+   "year": 1911,
+   "figures": 1,
+   "file": "img/10715.png"
+  },
+  {
+   "i": 10716,
+   "number": "USD197218S",
+   "term": "telephone booth",
+   "title": "Telephone booth for group use",
+   "assignee": "Bell Telephone Laboratories",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/10716.png"
+  },
+  {
+   "i": 10717,
+   "number": "USD42434S",
+   "term": "street lamp",
+   "title": "Design fob a street-lamp",
+   "assignee": "",
+   "year": 1912,
+   "figures": 1,
+   "file": "img/10717.png"
+  },
+  {
+   "i": 10718,
+   "number": "USD164571S",
+   "term": "parking meter",
+   "title": "Parking meter casing",
+   "assignee": "",
+   "year": 1951,
+   "figures": 1,
+   "file": "img/10718.png"
+  },
+  {
+   "i": 10719,
+   "number": "USD276726S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser",
+   "assignee": "Dresser Industries, Inc.",
+   "year": 1984,
+   "figures": 1,
+   "file": "img/10719.png"
+  },
+  {
+   "i": 10720,
+   "number": "USD773772S1",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "John G. Kelly",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/10720.png"
+  },
+  {
+   "i": 10721,
+   "number": "USD477030S1",
+   "term": "vending machine",
+   "title": "Vending machine cashless payment terminal",
+   "assignee": "Usa Technologies, Inc.",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/10721.png"
+  },
+  {
+   "i": 10722,
+   "number": "USD154001S",
+   "term": "bench",
+   "title": "Vogl bench vise or similar article",
+   "assignee": "",
+   "year": 1949,
+   "figures": 1,
+   "file": "img/10722.png"
+  },
+  {
+   "i": 10723,
+   "number": "USD42967S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1912,
+   "figures": 1,
+   "file": "img/10723.png"
+  },
+  {
+   "i": 10724,
+   "number": "USD197220S",
+   "term": "telephone booth",
+   "title": "Telephone booth for group use",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/10724.png"
+  },
+  {
+   "i": 10725,
+   "number": "USD428424S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser interface",
+   "assignee": "Gilbarco Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10725.png"
+  },
+  {
+   "i": 10726,
+   "number": "USD221361S",
+   "term": "mailbox",
+   "title": "Mailbox or similar article",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/10726.png"
+  },
+  {
+   "i": 10727,
+   "number": "USD129933S",
+   "term": "vending machine",
+   "title": "Design for a vending machine",
+   "assignee": "National Vendors",
+   "year": 1941,
+   "figures": 1,
+   "file": "img/10727.png"
+  },
+  {
+   "i": 10728,
+   "number": "USD798076S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Country Casual Teak, Inc.",
+   "year": 2017,
+   "figures": 1,
+   "file": "img/10728.png"
+  },
+  {
+   "i": 10729,
+   "number": "USD177964S",
+   "term": "lamp post",
+   "title": "Lamp post",
+   "assignee": "",
+   "year": 1956,
+   "figures": 1,
+   "file": "img/10729.png"
+  },
+  {
+   "i": 10730,
+   "number": "USD198675S",
+   "term": "telephone booth",
+   "title": "Telephone booth or the like",
+   "assignee": "",
+   "year": 1964,
+   "figures": 1,
+   "file": "img/10730.png"
+  },
+  {
+   "i": 10731,
+   "number": "USD643140S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "GRAH Automotive d.o.o.",
+   "year": 2011,
+   "figures": 1,
+   "file": "img/10731.png"
+  },
+  {
+   "i": 10732,
+   "number": "USD112684S",
+   "term": "parking meter",
+   "title": "Design for a parking meter",
+   "assignee": "M",
+   "year": 1938,
+   "figures": 1,
+   "file": "img/10732.png"
+  },
+  {
+   "i": 10733,
+   "number": "USD413311S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser bar code reader",
+   "assignee": "Gilbarco Inc.",
+   "year": 1999,
+   "figures": 1,
+   "file": "img/10733.png"
+  },
+  {
+   "i": 10734,
+   "number": "USD254455S",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "Jackes-Evans Manufacturing Company",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/10734.png"
+  },
+  {
+   "i": 10735,
+   "number": "USD541350S1",
+   "term": "vending machine",
+   "title": "Vending machine door",
+   "assignee": "Triteq Lock And Security, Llc",
+   "year": 2007,
+   "figures": 1,
+   "file": "img/10735.png"
+  },
+  {
+   "i": 10736,
+   "number": "USD571581S1",
+   "term": "bench",
+   "title": "Bench support",
+   "assignee": "Wabash Valley Mfg. Inc",
+   "year": 2008,
+   "figures": 3,
+   "file": "img/10736.png"
+  },
+  {
+   "i": 10737,
+   "number": "USD75555S",
+   "term": "lamp post",
+   "title": "Design fob a lamp-post",
+   "assignee": "",
+   "year": 1928,
+   "figures": 1,
+   "file": "img/10737.png"
+  },
+  {
+   "i": 10738,
+   "number": "USD244381S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "Northern Electric Company Limited",
+   "year": 1977,
+   "figures": 2,
+   "file": "img/10738.png"
+  },
+  {
+   "i": 10739,
+   "number": "USD624687S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Kmw U.S.A., Inc.",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/10739.png"
+  },
+  {
+   "i": 10740,
+   "number": "USD194406S",
+   "term": "parking meter",
+   "title": "Parking meter",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/10740.png"
+  },
+  {
+   "i": 10741,
+   "number": "USD433420S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser interface",
+   "assignee": "Marconi Commerce Systems Inc.",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/10741.png"
+  },
+  {
+   "i": 10742,
+   "number": "USD569075S1",
+   "term": "mailbox",
+   "title": "Mailbox alert flag",
+   "assignee": "Jeff Ehrbaker",
+   "year": 2008,
+   "figures": 2,
+   "file": "img/10742.png"
+  },
+  {
+   "i": 10743,
+   "number": "USD178358S",
+   "term": "vending machine",
+   "title": "Vending machine for packaged beverages or the like",
+   "assignee": "Almon C",
+   "year": 1956,
+   "figures": 1,
+   "file": "img/10743.png"
+  },
+  {
+   "i": 10744,
+   "number": "USD599570S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Victor Stanley, Inc.",
+   "year": 2009,
+   "figures": 3,
+   "file": "img/10744.png"
+  },
+  {
+   "i": 10745,
+   "number": "USD41874S",
+   "term": "lamp post",
+   "title": "Design fob",
+   "assignee": "",
+   "year": 1911,
+   "figures": 1,
+   "file": "img/10745.png"
+  },
+  {
+   "i": 10746,
+   "number": "USD348232S",
+   "term": "street lamp",
+   "title": "Street lamp ornament",
+   "assignee": "Kurt S. Adler, Inc.",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/10746.png"
+  },
+  {
+   "i": 10747,
+   "number": "USD119389S",
+   "term": "parking meter",
+   "title": "Design fob a parking meter casing",
+   "assignee": "",
+   "year": 1940,
+   "figures": 1,
+   "file": "img/10747.png"
+  },
+  {
+   "i": 10748,
+   "number": "USD516770S1",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "Stephen Stoll",
+   "year": 2006,
+   "figures": 2,
+   "file": "img/10748.png"
+  },
+  {
+   "i": 10749,
+   "number": "USD301253S",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "Hunt Dennis A",
+   "year": 1989,
+   "figures": 2,
+   "file": "img/10749.png"
+  },
+  {
+   "i": 10750,
+   "number": "USD774816S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Landscape Forms, Inc.",
+   "year": 2016,
+   "figures": 1,
+   "file": "img/10750.png"
+  },
+  {
+   "i": 10751,
+   "number": "USD42281S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1912,
+   "figures": 1,
+   "file": "img/10751.png"
+  },
+  {
+   "i": 10752,
+   "number": "USD197507S",
+   "term": "telephone booth",
+   "title": "Telephone booth for group use",
+   "assignee": "Bell Telephone Laboratories",
+   "year": 1964,
+   "figures": 1,
+   "file": "img/10752.png"
+  },
+  {
+   "i": 10753,
+   "number": "USD341595S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser handle",
+   "assignee": "Amoco Corporation",
+   "year": 1993,
+   "figures": 3,
+   "file": "img/10753.png"
+  },
+  {
+   "i": 10754,
+   "number": "USD332341S",
+   "term": "mailbox",
+   "title": "Mailbox handle",
+   "assignee": "Mayfield Ralph L",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/10754.png"
+  },
+  {
+   "i": 10755,
+   "number": "USD403358S",
+   "term": "vending machine",
+   "title": "Vending machine base",
+   "assignee": "Machine-O-Matic Limited",
+   "year": 1998,
+   "figures": 2,
+   "file": "img/10755.png"
+  },
+  {
+   "i": 10756,
+   "number": "USD229803S",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "",
+   "year": 1974,
+   "figures": 1,
+   "file": "img/10756.png"
   }
  ]
 }

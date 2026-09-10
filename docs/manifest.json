@@ -1,6 +1,6 @@
 {
- "count": 10357,
- "generated_at": 1788987606,
+ "count": 10457,
+ "generated_at": 1789019432,
  "items": [
   {
    "i": 0,
@@ -103571,6 +103571,1006 @@
    "year": 1986,
    "figures": 2,
    "file": "img/10356.png"
+  },
+  {
+   "i": 10357,
+   "number": "USD934530S1",
+   "term": "letter box",
+   "title": "Letter box",
+   "assignee": "Shenzhen Yueweiyao Electronics Co., Ltd.",
+   "year": 2021,
+   "figures": 1,
+   "file": "img/10357.png"
+  },
+  {
+   "i": 10358,
+   "number": "USD351163S",
+   "term": "public telephone",
+   "title": "Public telephone",
+   "assignee": "Korea Telecommunication Authority",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/10358.png"
+  },
+  {
+   "i": 10359,
+   "number": "USD197248S",
+   "term": "gasoline pump",
+   "title": "Gasoline pump",
+   "assignee": "John Wood Company",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/10359.png"
+  },
+  {
+   "i": 10360,
+   "number": "USD211837S",
+   "term": "traffic signal",
+   "title": "Traffic signal casing",
+   "assignee": "",
+   "year": 1968,
+   "figures": 1,
+   "file": "img/10360.png"
+  },
+  {
+   "i": 10361,
+   "number": "USD214730S",
+   "term": "fire hydrant",
+   "title": "Fire hydrant",
+   "assignee": "M",
+   "year": 1969,
+   "figures": 1,
+   "file": "img/10361.png"
+  },
+  {
+   "i": 10362,
+   "number": "USD337015S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "Acoustics Development Corporation",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/10362.png"
+  },
+  {
+   "i": 10363,
+   "number": "USD355043S",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Mahala Sibley",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/10363.png"
+  },
+  {
+   "i": 10364,
+   "number": "USD101237S",
+   "term": "parking meter",
+   "title": "Design for a parking meter",
+   "assignee": "",
+   "year": 1936,
+   "figures": 1,
+   "file": "img/10364.png"
+  },
+  {
+   "i": 10365,
+   "number": "USD433423S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser interface",
+   "assignee": "Marconi Commerce Systems Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10365.png"
+  },
+  {
+   "i": 10366,
+   "number": "USD589675S1",
+   "term": "mailbox",
+   "title": "Mailbox with storage compartment",
+   "assignee": "Mcfadden Charles O",
+   "year": 2009,
+   "figures": 2,
+   "file": "img/10366.png"
+  },
+  {
+   "i": 10367,
+   "number": "USD288574S",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "The Coca-Cola Company",
+   "year": 1987,
+   "figures": 1,
+   "file": "img/10367.png"
+  },
+  {
+   "i": 10368,
+   "number": "USD1047480S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Mco & Ea Llc",
+   "year": 2024,
+   "figures": 2,
+   "file": "img/10368.png"
+  },
+  {
+   "i": 10369,
+   "number": "USD446378S1",
+   "term": "letter box",
+   "title": "Letter box",
+   "assignee": "Boe Fischer",
+   "year": 2001,
+   "figures": 1,
+   "file": "img/10369.png"
+  },
+  {
+   "i": 10370,
+   "number": "USD345973S",
+   "term": "public telephone",
+   "title": "Public telephone",
+   "assignee": "Korea Telecommunications Authority",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/10370.png"
+  },
+  {
+   "i": 10371,
+   "number": "USD197439S",
+   "term": "gasoline pump",
+   "title": "Gasoline pump or similar article",
+   "assignee": "",
+   "year": 1964,
+   "figures": 1,
+   "file": "img/10371.png"
+  },
+  {
+   "i": 10372,
+   "number": "USD148527S",
+   "term": "traffic signal",
+   "title": "Design fob a traffic signal",
+   "assignee": "",
+   "year": 1948,
+   "figures": 1,
+   "file": "img/10372.png"
+  },
+  {
+   "i": 10373,
+   "number": "USD221754S",
+   "term": "fire hydrant",
+   "title": "Fire hydrant",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/10373.png"
+  },
+  {
+   "i": 10374,
+   "number": "USD51997S",
+   "term": "lamp post",
+   "title": "Design fob a lamp-post",
+   "assignee": "",
+   "year": 1918,
+   "figures": 1,
+   "file": "img/10374.png"
+  },
+  {
+   "i": 10375,
+   "number": "USD206998S",
+   "term": "telephone booth",
+   "title": "Telephone booth structure or the like",
+   "assignee": "",
+   "year": 1967,
+   "figures": 1,
+   "file": "img/10375.png"
+  },
+  {
+   "i": 10376,
+   "number": "USD304860S",
+   "term": "street lamp",
+   "title": "Street-lamp",
+   "assignee": "Lumec, Inc.",
+   "year": 1989,
+   "figures": 2,
+   "file": "img/10376.png"
+  },
+  {
+   "i": 10377,
+   "number": "USD707140S1",
+   "term": "parking meter",
+   "title": "Parking meter",
+   "assignee": "Ips Group Inc.",
+   "year": 2014,
+   "figures": 3,
+   "file": "img/10377.png"
+  },
+  {
+   "i": 10378,
+   "number": "USD176992S",
+   "term": "mailbox",
+   "title": "Mailbox support or the like",
+   "assignee": "",
+   "year": 1956,
+   "figures": 1,
+   "file": "img/10378.png"
+  },
+  {
+   "i": 10379,
+   "number": "USD176187S",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "",
+   "year": 1955,
+   "figures": 1,
+   "file": "img/10379.png"
+  },
+  {
+   "i": 10380,
+   "number": "USD613976S1",
+   "term": "bench",
+   "title": "Bench back",
+   "assignee": "Metropolitan Advertising Company",
+   "year": 2010,
+   "figures": 3,
+   "file": "img/10380.png"
+  },
+  {
+   "i": 10381,
+   "number": "USD63261S",
+   "term": "letter box",
+   "title": "Design for a letter box",
+   "assignee": "Decorative Arts league",
+   "year": 1923,
+   "figures": 1,
+   "file": "img/10381.png"
+  },
+  {
+   "i": 10382,
+   "number": "USD375307S",
+   "term": "public telephone",
+   "title": "Public telephone",
+   "assignee": "Amper Electoronica Aragonesa, S.A.",
+   "year": 1996,
+   "figures": 1,
+   "file": "img/10382.png"
+  },
+  {
+   "i": 10383,
+   "number": "USD190926S",
+   "term": "gasoline pump",
+   "title": "Gasoline pump service station unit",
+   "assignee": "John Wood Company",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/10383.png"
+  },
+  {
+   "i": 10384,
+   "number": "USD180548S",
+   "term": "traffic signal",
+   "title": "Traffic signal light",
+   "assignee": "",
+   "year": 1957,
+   "figures": 1,
+   "file": "img/10384.png"
+  },
+  {
+   "i": 10385,
+   "number": "USD200188S",
+   "term": "fire hydrant",
+   "title": "Fire hy drant",
+   "assignee": "",
+   "year": 1965,
+   "figures": 1,
+   "file": "img/10385.png"
+  },
+  {
+   "i": 10386,
+   "number": "USD72583S",
+   "term": "lamp post",
+   "title": "Design fob a lamp-post ob similae abticle",
+   "assignee": "Mabbelite Cob",
+   "year": 1927,
+   "figures": 1,
+   "file": "img/10386.png"
+  },
+  {
+   "i": 10387,
+   "number": "USD433513S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "Industries Jaro Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10387.png"
+  },
+  {
+   "i": 10388,
+   "number": "USD41437S",
+   "term": "street lamp",
+   "title": "Design for a street-lamp",
+   "assignee": "Flour City Orna",
+   "year": 1911,
+   "figures": 1,
+   "file": "img/10388.png"
+  },
+  {
+   "i": 10389,
+   "number": "USD106051S",
+   "term": "parking meter",
+   "title": "Design for a parking meter casing",
+   "assignee": "The Standard Meter Corporation",
+   "year": 1937,
+   "figures": 1,
+   "file": "img/10389.png"
+  },
+  {
+   "i": 10390,
+   "number": "USD664997S1",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser",
+   "assignee": "Dresser Wayne Ab",
+   "year": 2012,
+   "figures": 2,
+   "file": "img/10390.png"
+  },
+  {
+   "i": 10391,
+   "number": "USD496515S1",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "Stephen M. Young",
+   "year": 2004,
+   "figures": 3,
+   "file": "img/10391.png"
+  },
+  {
+   "i": 10392,
+   "number": "USD307219S",
+   "term": "bench",
+   "title": "Bench seat",
+   "assignee": "George Provencher",
+   "year": 1990,
+   "figures": 2,
+   "file": "img/10392.png"
+  },
+  {
+   "i": 10393,
+   "number": "USD173362S",
+   "term": "letter box",
+   "title": "Letter box",
+   "assignee": "",
+   "year": 1954,
+   "figures": 1,
+   "file": "img/10393.png"
+  },
+  {
+   "i": 10394,
+   "number": "USD308677S",
+   "term": "public telephone",
+   "title": "Public telephone",
+   "assignee": "Tamura Electric Works, Ltd.",
+   "year": 1990,
+   "figures": 3,
+   "file": "img/10394.png"
+  },
+  {
+   "i": 10395,
+   "number": "USD148529S",
+   "term": "traffic signal",
+   "title": "Design for a traffic signal",
+   "assignee": "f one",
+   "year": 1948,
+   "figures": 1,
+   "file": "img/10395.png"
+  },
+  {
+   "i": 10396,
+   "number": "USD202163S",
+   "term": "fire hydrant",
+   "title": "Fire hydrant",
+   "assignee": "Dresser Indus",
+   "year": 1965,
+   "figures": 1,
+   "file": "img/10396.png"
+  },
+  {
+   "i": 10397,
+   "number": "USD41303S",
+   "term": "street lamp",
+   "title": "Design for a street-lamp",
+   "assignee": "",
+   "year": 1911,
+   "figures": 1,
+   "file": "img/10397.png"
+  },
+  {
+   "i": 10398,
+   "number": "USD471241S1",
+   "term": "parking meter",
+   "title": "Parking meter advertisement assembly",
+   "assignee": "Spiller David A",
+   "year": 2003,
+   "figures": 1,
+   "file": "img/10398.png"
+  },
+  {
+   "i": 10399,
+   "number": "USD356428S",
+   "term": "mailbox",
+   "title": "Mailbox signal",
+   "assignee": "Piatkowski John D",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/10399.png"
+  },
+  {
+   "i": 10400,
+   "number": "USD1080229S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Guangyu LUO",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/10400.png"
+  },
+  {
+   "i": 10401,
+   "number": "USD89127S",
+   "term": "letter box",
+   "title": "Design fob a letter box plate",
+   "assignee": "",
+   "year": 1933,
+   "figures": 1,
+   "file": "img/10401.png"
+  },
+  {
+   "i": 10402,
+   "number": "USD250602S",
+   "term": "public telephone",
+   "title": "Public telephone enclosure or the like",
+   "assignee": "Western Electric Company, Incorporated",
+   "year": 1978,
+   "figures": 1,
+   "file": "img/10402.png"
+  },
+  {
+   "i": 10403,
+   "number": "USD619444S1",
+   "term": "gasoline pump",
+   "title": "Gasoline pump control",
+   "assignee": "Olugbemiga Oyegoke",
+   "year": 2010,
+   "figures": 2,
+   "file": "img/10403.png"
+  },
+  {
+   "i": 10404,
+   "number": "USD59726S",
+   "term": "traffic signal",
+   "title": "Design fob",
+   "assignee": "",
+   "year": 1921,
+   "figures": 1,
+   "file": "img/10404.png"
+  },
+  {
+   "i": 10405,
+   "number": "USD205984S",
+   "term": "fire hydrant",
+   "title": "Fire hydrant",
+   "assignee": "",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/10405.png"
+  },
+  {
+   "i": 10406,
+   "number": "USD42282S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1912,
+   "figures": 1,
+   "file": "img/10406.png"
+  },
+  {
+   "i": 10407,
+   "number": "USD177946S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "",
+   "year": 1956,
+   "figures": 1,
+   "file": "img/10407.png"
+  },
+  {
+   "i": 10408,
+   "number": "USD871643S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Neri S.P.A",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/10408.png"
+  },
+  {
+   "i": 10409,
+   "number": "USD99877S",
+   "term": "parking meter",
+   "title": "Design for a parking meter",
+   "assignee": "",
+   "year": 1936,
+   "figures": 1,
+   "file": "img/10409.png"
+  },
+  {
+   "i": 10410,
+   "number": "USD432552S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser interface",
+   "assignee": "Marconi Commerce Systems Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10410.png"
+  },
+  {
+   "i": 10411,
+   "number": "USD180841S",
+   "term": "vending machine",
+   "title": "Vending machine shelter",
+   "assignee": "",
+   "year": 1957,
+   "figures": 1,
+   "file": "img/10411.png"
+  },
+  {
+   "i": 10412,
+   "number": "USD52961S",
+   "term": "bench",
+   "title": "Design for a bench-valve",
+   "assignee": "The Imperial Brass Manu",
+   "year": 1919,
+   "figures": 1,
+   "file": "img/10412.png"
+  },
+  {
+   "i": 10413,
+   "number": "USD359489S",
+   "term": "public telephone",
+   "title": "Public telephone",
+   "assignee": "Korea Telecommunication Authority",
+   "year": 1995,
+   "figures": 3,
+   "file": "img/10413.png"
+  },
+  {
+   "i": 10414,
+   "number": "USD303803S",
+   "term": "gasoline pump",
+   "title": "Gasoline pump island",
+   "assignee": "Quiktrip Corporation",
+   "year": 1989,
+   "figures": 3,
+   "file": "img/10414.png"
+  },
+  {
+   "i": 10415,
+   "number": "USD208381S",
+   "term": "traffic signal",
+   "title": "Traffic signal",
+   "assignee": "",
+   "year": 1967,
+   "figures": 1,
+   "file": "img/10415.png"
+  },
+  {
+   "i": 10416,
+   "number": "USD571439S1",
+   "term": "fire hydrant",
+   "title": "Fire hydrant reflective disc",
+   "assignee": "Wellner Mark T",
+   "year": 2008,
+   "figures": 1,
+   "file": "img/10416.png"
+  },
+  {
+   "i": 10417,
+   "number": "USD250219S",
+   "term": "lamp post",
+   "title": "Lamp post",
+   "assignee": "Handelsbolaget Scanovator",
+   "year": 1978,
+   "figures": 1,
+   "file": "img/10417.png"
+  },
+  {
+   "i": 10418,
+   "number": "USD432661S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "Industries Jaro Inc.",
+   "year": 2000,
+   "figures": 1,
+   "file": "img/10418.png"
+  },
+  {
+   "i": 10419,
+   "number": "USD334199S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser",
+   "assignee": "Ballew Edward W",
+   "year": 1993,
+   "figures": 1,
+   "file": "img/10419.png"
+  },
+  {
+   "i": 10420,
+   "number": "USD145608S",
+   "term": "mailbox",
+   "title": "Design for a mailbox",
+   "assignee": "Ebaloy",
+   "year": 1946,
+   "figures": 1,
+   "file": "img/10420.png"
+  },
+  {
+   "i": 10421,
+   "number": "USD820911S1",
+   "term": "vending machine",
+   "title": "Vending machine",
+   "assignee": "Merch Roadie Corporation",
+   "year": 2018,
+   "figures": 1,
+   "file": "img/10421.png"
+  },
+  {
+   "i": 10422,
+   "number": "USD346165S",
+   "term": "public telephone",
+   "title": "Public telephone",
+   "assignee": "Korea Telecommunication Authority",
+   "year": 1994,
+   "figures": 1,
+   "file": "img/10422.png"
+  },
+  {
+   "i": 10423,
+   "number": "USD105840S",
+   "term": "gasoline pump",
+   "title": "Design fob a gasoline pump",
+   "assignee": "Ferro Machine a Foundry Company",
+   "year": 1937,
+   "figures": 2,
+   "file": "img/10423.png"
+  },
+  {
+   "i": 10424,
+   "number": "USD159329S",
+   "term": "traffic signal",
+   "title": "Traffic signal for a divided highway",
+   "assignee": "f one",
+   "year": 1950,
+   "figures": 1,
+   "file": "img/10424.png"
+  },
+  {
+   "i": 10425,
+   "number": "USD762282S1",
+   "term": "fire hydrant",
+   "title": "Fire hydrant fluting",
+   "assignee": "Mueller International, Llc",
+   "year": 2016,
+   "figures": 3,
+   "file": "img/10425.png"
+  },
+  {
+   "i": 10426,
+   "number": "USD72466S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post or similar article",
+   "assignee": "Marbelite Cor",
+   "year": 1927,
+   "figures": 1,
+   "file": "img/10426.png"
+  },
+  {
+   "i": 10427,
+   "number": "USD194529S",
+   "term": "telephone booth",
+   "title": "Telephone booth",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/10427.png"
+  },
+  {
+   "i": 10428,
+   "number": "USD40510S",
+   "term": "street lamp",
+   "title": "Design fob",
+   "assignee": "",
+   "year": 1910,
+   "figures": 1,
+   "file": "img/10428.png"
+  },
+  {
+   "i": 10429,
+   "number": "USD707141S1",
+   "term": "parking meter",
+   "title": "Parking meter",
+   "assignee": "Ips Group Inc.",
+   "year": 2014,
+   "figures": 1,
+   "file": "img/10429.png"
+  },
+  {
+   "i": 10430,
+   "number": "USD681683S1",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser",
+   "assignee": "Dresser Wayne Ab",
+   "year": 2013,
+   "figures": 1,
+   "file": "img/10430.png"
+  },
+  {
+   "i": 10431,
+   "number": "USD200452S",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "",
+   "year": 1965,
+   "figures": 1,
+   "file": "img/10431.png"
+  },
+  {
+   "i": 10432,
+   "number": "USD75851S",
+   "term": "vending machine",
+   "title": "Design fob a vending-machine casing",
+   "assignee": "",
+   "year": 1928,
+   "figures": 1,
+   "file": "img/10432.png"
+  },
+  {
+   "i": 10433,
+   "number": "USD741616S1",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Gigtrigger AS",
+   "year": 2015,
+   "figures": 1,
+   "file": "img/10433.png"
+  },
+  {
+   "i": 10434,
+   "number": "USD256692S",
+   "term": "public telephone",
+   "title": "Public telephone set enclosure",
+   "assignee": "Bell Telephone Laboratories, Incorporated",
+   "year": 1980,
+   "figures": 1,
+   "file": "img/10434.png"
+  },
+  {
+   "i": 10435,
+   "number": "USD184557S",
+   "term": "gasoline pump",
+   "title": "Gasoline pump",
+   "assignee": "John Wood Company",
+   "year": 1959,
+   "figures": 1,
+   "file": "img/10435.png"
+  },
+  {
+   "i": 10436,
+   "number": "USD87501S",
+   "term": "traffic signal",
+   "title": "Design for a traffic signal",
+   "assignee": "",
+   "year": 1932,
+   "figures": 1,
+   "file": "img/10436.png"
+  },
+  {
+   "i": 10437,
+   "number": "USD206041S",
+   "term": "fire hydrant",
+   "title": "Fire hydrant",
+   "assignee": "M",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/10437.png"
+  },
+  {
+   "i": 10438,
+   "number": "USD164513S",
+   "term": "lamp post",
+   "title": "Lamp post",
+   "assignee": "",
+   "year": 1951,
+   "figures": 1,
+   "file": "img/10438.png"
+  },
+  {
+   "i": 10439,
+   "number": "USD197215S",
+   "term": "telephone booth",
+   "title": "Telephone booth unit",
+   "assignee": "",
+   "year": 1963,
+   "figures": 1,
+   "file": "img/10439.png"
+  },
+  {
+   "i": 10440,
+   "number": "USD854222S1",
+   "term": "street lamp",
+   "title": "Street lamp",
+   "assignee": "Santa & Cole Neoseries S.L.",
+   "year": 2019,
+   "figures": 1,
+   "file": "img/10440.png"
+  },
+  {
+   "i": 10441,
+   "number": "USD1072634S1",
+   "term": "parking meter",
+   "title": "Parking meter",
+   "assignee": "Ips Group Inc.",
+   "year": 2025,
+   "figures": 1,
+   "file": "img/10441.png"
+  },
+  {
+   "i": 10442,
+   "number": "USD431039S",
+   "term": "fuel dispenser",
+   "title": "Fuel dispenser interface",
+   "assignee": "Marconi Commerce Systems Inc.",
+   "year": 2000,
+   "figures": 2,
+   "file": "img/10442.png"
+  },
+  {
+   "i": 10443,
+   "number": "USD462498S1",
+   "term": "mailbox",
+   "title": "Mailbox support kit",
+   "assignee": "Rick Preble",
+   "year": 2002,
+   "figures": 2,
+   "file": "img/10443.png"
+  },
+  {
+   "i": 10444,
+   "number": "USD360538S",
+   "term": "bench",
+   "title": "Bench",
+   "assignee": "Victor Stanley, Inc.",
+   "year": 1995,
+   "figures": 2,
+   "file": "img/10444.png"
+  },
+  {
+   "i": 10445,
+   "number": "USD219921S",
+   "term": "public telephone",
+   "title": "Public telephone or similar article",
+   "assignee": "",
+   "year": 1971,
+   "figures": 1,
+   "file": "img/10445.png"
+  },
+  {
+   "i": 10446,
+   "number": "USD84225S",
+   "term": "traffic signal",
+   "title": "Design fob a traffic signal",
+   "assignee": "",
+   "year": 1931,
+   "figures": 1,
+   "file": "img/10446.png"
+  },
+  {
+   "i": 10447,
+   "number": "USD847948S1",
+   "term": "fire hydrant",
+   "title": "Fire hydrant shaped lawn sprinkler",
+   "assignee": "Tallgrass, Llc",
+   "year": 2019,
+   "figures": 3,
+   "file": "img/10447.png"
+  },
+  {
+   "i": 10448,
+   "number": "USD42283S",
+   "term": "lamp post",
+   "title": "Design for a lamp-post",
+   "assignee": "",
+   "year": 1912,
+   "figures": 1,
+   "file": "img/10448.png"
+  },
+  {
+   "i": 10449,
+   "number": "USD135617S",
+   "term": "telephone booth",
+   "title": "Lum telephone booth",
+   "assignee": "",
+   "year": 1943,
+   "figures": 1,
+   "file": "img/10449.png"
+  },
+  {
+   "i": 10450,
+   "number": "USD190522S",
+   "term": "street lamp",
+   "title": "Street lamp head",
+   "assignee": "",
+   "year": 1961,
+   "figures": 1,
+   "file": "img/10450.png"
+  },
+  {
+   "i": 10451,
+   "number": "USD108712S",
+   "term": "parking meter",
+   "title": "Design fob",
+   "assignee": "Parkrite Corporation",
+   "year": 1938,
+   "figures": 1,
+   "file": "img/10451.png"
+  },
+  {
+   "i": 10452,
+   "number": "USD313104S",
+   "term": "mailbox",
+   "title": "Mailbox",
+   "assignee": "Bertram George W",
+   "year": 1990,
+   "figures": 1,
+   "file": "img/10452.png"
+  },
+  {
+   "i": 10453,
+   "number": "USD51243S",
+   "term": "vending machine",
+   "title": "Design for a vending-machine casing",
+   "assignee": "",
+   "year": 1917,
+   "figures": 1,
+   "file": "img/10453.png"
+  },
+  {
+   "i": 10454,
+   "number": "USD232541S",
+   "term": "public telephone",
+   "title": "Public telephone support",
+   "assignee": "",
+   "year": 1974,
+   "figures": 2,
+   "file": "img/10454.png"
+  },
+  {
+   "i": 10455,
+   "number": "USD186824S",
+   "term": "gasoline pump",
+   "title": "Gasoline pump service station unit",
+   "assignee": "John Wood Company",
+   "year": 1959,
+   "figures": 1,
+   "file": "img/10455.png"
+  },
+  {
+   "i": 10456,
+   "number": "USD205696S",
+   "term": "traffic signal",
+   "title": "Traffic signal",
+   "assignee": "",
+   "year": 1966,
+   "figures": 1,
+   "file": "img/10456.png"
   }
  ]
 }

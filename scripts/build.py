@@ -58,14 +58,19 @@ def save_plates(items):
     qui débloque la rotation — avec un count.json figé, TRMNL considérait
     qu'il n'y avait rien de neuf et gardait la même image indéfiniment.
     """
+    # "count" est répété dans chaque fichier (quelques octets) pour que le
+    # template puisse calculer i+1 sans jamais sortir de la plage : Liquid n'a
+    # accès qu'au JSON renvoyé par l'URL de polling, jamais à count.json.
     d = os.path.join("docs", "plate")
     os.makedirs(d, exist_ok=True)
+    total = len(items)
     for it in items:
         f = os.path.join(d, f"{it['i']}.json")
         if os.path.exists(f):
             continue
-        json.dump({"i": it["i"], "image": it["file"], "title": it.get("title", ""),
-                   "assignee": it.get("assignee", ""), "year": it.get("year", "")},
+        json.dump({"i": it["i"], "count": total, "image": it["file"],
+                   "title": it.get("title", ""), "assignee": it.get("assignee", ""),
+                   "year": it.get("year", "")},
                   open(f, "w"), ensure_ascii=False)
 
 

@@ -1,86 +1,136 @@
-# TRMNL — Patent Drawings
+# Patent Drawings — TRMNL plugin
 
-Affiche au hasard un appareil technologique — console, téléphone, liseuse, ordinateur —
-sous forme de dessin technique de brevet américain. Rotation toutes les 5 minutes.
+**A random U.S. design patent drawing on your TRMNL e-ink display: consoles, phones, cameras, e-readers and other devices, exactly as their designers first filed them.**
+
+[![Install on TRMNL](https://img.shields.io/badge/TRMNL-Install%20recipe-black?style=flat-square)](https://trmnl.com/recipes/469103)
+![Drawings](https://img.shields.io/badge/drawings-10%2C857-orange?style=flat-square)
+![Server cost](https://img.shields.io/badge/server%20cost-0%20%E2%82%AC-brightgreen?style=flat-square)
+![Public domain](https://img.shields.io/badge/images-public%20domain-blue?style=flat-square)
+
+![Patent Drawings on a TRMNL display](https://trmnl-public.s3.us-east-2.amazonaws.com/78qvifiqxfnxdryhoq64goxk5aln)
+
+---
+
+## What it does
+
+Every 5 minutes the screen shows a new design patent drawing, picked from a corpus of **10,857 ready-to-display plates**. Each plate carries the patent title, the assignee (the company or person who filed it) and the year.
+
+Patent drawings are pure line art with fine hatching for volume: they look like they were made for e-ink.
+
+## Installation
+
+1. Open the recipe page: **[trmnl.com/recipes/469103](https://trmnl.com/recipes/469103)**
+2. Click **Install** and add it to a playlist.
+
+No settings, no API key, no account.
+
+## Browse the gallery
+
+Every drawing in the corpus can also be browsed on the web:
+**[nbbou81000.github.io/trmnl-patents](https://nbbou81000.github.io/trmnl-patents/)**
+
+---
+
+## How it works
+
+All images are **rendered once in advance and served as static files from GitHub Pages**. The device never calls a patent search engine: if Google Patents went down tomorrow, the plugin would keep working.
 
 ```
-terms.json → collect.js → corpus.json → build.py → docs/img/*.png → GitHub Pages → plugin
+terms.json ──► collect.js ──► corpus.json ──► build.py ──► docs/img/N.png + docs/plate/N.json
+                (Google Patents)   (28,124 patents)   (select, clean, quantize)        │
+                                                                                      ▼
+                                                     GitHub Pages ──► TRMNL ──► e-ink screen
 ```
 
-## Pourquoi cette architecture
+### 1. Collecting patents — `scripts/collect.js`
 
-Le plugin ne dépend d'aucune API en production. Une fois le corpus d'images généré,
-l'appareil ne fait qu'afficher une URL statique. Aucun flux ne peut tomber,
-aucun quota ne peut être dépassé, aucun catalogue n'est à maintenir.
+Every U.S. design patent contains the legal phrase *"the ornamental design for a[n] &lt;object&gt;"*. Searching Google Patents' JSON endpoint for that exact phrase isolates design patents almost perfectly, and returns the full-resolution URL of every drawing sheet in one call — no HTML scraping.
 
-## 1. Collecte (`scripts/collect.js`)
+- **176 search terms** in `terms.json` (mobile phone, camera, game console, printer, vending machine, parking meter…).
+- The article matters: `for an electronic reader`, never `for a` — vowel terms return nothing otherwise.
+- The search engine blocks an IP after ~20–25 requests. `state.json` remembers where each term stopped, so collection resumes on the next run.
 
-Source : l'endpoint de recherche JSON de Google Patents, qui renvoie pour 100 brevets
-d'un coup le titre, le déposant, les dates **et l'URL pleine résolution de chaque planche**.
-On ne touche jamais aux pages HTML : ce sont elles qui déclenchent le blocage anti-robot.
+### 2. Rendering plates — `scripts/render.py`, `scripts/build.py`
 
-L'astuce de ciblage : tous les brevets de dessin américains contiennent la formule
-`the ornamental design for a[n] <objet>`. La recherche sur cette phrase exacte isole
-les design patents avec une précision proche de 100 %.
+For each patent, the best drawing sheet is chosen and turned into an e-ink screen:
 
-⚠️ L'article compte. `for an electronic reader`, jamais `for a`. Les termes commençant
-par une voyelle renvoient zéro sans cette correction.
+- sheets with extreme ratios or abnormal ink density are rejected;
+- early figures get a bonus — on a design patent, FIG. 1 is almost always the perspective view, the most readable from a distance;
+- the official header (`U.S. Patent — Sheet 3 of 5 — Des. 421,005`) is cropped out by analysing the horizontal ink profile;
+- accessories (cases, stands, chargers…) and graphical-user-interface patents are excluded.
 
-**Cadence.** Le moteur bloque autour de 20-25 requêtes par IP, avec un refroidissement
-de plus de dix minutes. D'où le workflow horaire : chaque exécution GitHub Actions part
-d'une IP différente. `state.json` mémorise la position par terme, la collecte reprend seule.
-85 termes × jusqu'à 10 pages = 2 à 3 jours de fond de tâche.
+**Grayscale, not dithering.** Floyd–Steinberg dithering destroys the thin lines of a patent drawing. Images are downscaled in grayscale (LANCZOS) then quantized, so the hatching survives.
 
-## 2. Rendu (`scripts/render.py`, `scripts/build.py`)
+**One resolution stored**: 1872×1404 (TRMNL X). The layout is proportional, so TRMNL OG receives the same image scaled down by the renderer.
 
-Sélection de planche, par ordre d'importance :
+### 3. Rotation — no server, no random draw
 
-- rejet des ratios extrêmes et des densités d'encre aberrantes ;
-- bonus aux premières figures — sur un design patent, FIG. 1 est presque toujours
-  la vue en perspective, la plus lisible de loin ;
-- retrait du bandeau officiel (`U.S. Patent — Sheet 3 of 5 — Des. 421,005`)
-  par analyse du profil d'encre horizontal ;
-- exclusion des accessoires (housses, supports, coques) et des brevets d'interface
-  graphique : 19 % du corpus, et autant d'affichages sans intérêt.
-
-**Niveaux de gris, pas de tramage.** Le trait fin d'un dessin de brevet est détruit par
-un dither Floyd-Steinberg. On redimensionne en niveaux de gris avec LANCZOS puis on
-quantifie : 4 niveaux pour l'OG, 16 pour le X. Les hachures de volume survivent.
-
-**Une seule résolution stockée** : 1872×1404, celle du TRMNL X. La mise en page étant
-proportionnelle, l'OG reçoit la même image réduite par le moteur de rendu.
-Palette 16 couleurs, ~56 ko par image, ~110 Mo pour 2000 images.
-
-## 3. Rotation (`full.liquid`)
-
-Aucun serveur, aucun polling de données. L'index dérive de l'horodatage que TRMNL
-injecte dans chaque plugin :
+The index is derived from the timestamp TRMNL injects into every plugin:
 
 ```liquid
 {% assign slot = trmnl.system.timestamp_utc | divided_by: 300 | floor %}
 {% assign idx = slot | modulo: count %}
 ```
 
-Le `floor` est nécessaire : sans lui, `divided_by` renvoie un flottant et l'index sort à 0.07.
+`floor` is required: without it `divided_by` returns a float and the index is wrong. The corpus is shuffled with a fixed seed at build time, so a sequential index looks random — and every device shows the same drawing at the same moment.
 
-Le corpus est mélangé avec une graine fixe au moment du rendu, donc l'incrément
-séquentiel donne un contenu aléatoire. Avec 2000 images, il faut 7 jours pour boucler.
-La séquence est identique pour tous les appareils : deux personnes voient le même
-appareil au même moment.
+### Data endpoints
 
-Le plugin ne lit que `docs/count.json` (quelques octets). Titre, déposant et année
-sont gravés dans l'image, il n'y a rien d'autre à transmettre.
+| URL | Content |
+|---|---|
+| `https://nbbou81000.github.io/trmnl-patents/img/N.png` | The rendered plate |
+| `https://nbbou81000.github.io/trmnl-patents/plate/N.json` | Title, assignee, year and corpus size |
+| `https://nbbou81000.github.io/trmnl-patents/count.json` | Number of plates (`{"count": 10857}`) |
 
-## Limites connues
+```json
+{"i": 0, "image": "img/0.png", "title": "Mobile phone", "assignee": "Samsung Electronics Co., Ltd.", "year": 2013, "count": 10857}
+```
 
-- **Pas de nom de modèle.** Les titres de design patents sont génériques par obligation
-  légale : le brevet du premier iPhone s'intitule « Electronic device ». Aucun lien
-  produit↔brevet exploitable côté Wikidata. Le déposant et l'année sont disponibles à 100 %.
-  Pour les appareils iconiques, un fichier d'annotation manuel reste la seule voie fiable.
-- Le rendement des termes à voyelle n'a pas été mesuré : le blocage du moteur est survenu
-  pendant les tests. À vérifier à la première exécution réelle.
+---
 
-## Droits
+## Repository layout
 
-Les brevets américains sont des publications officielles du gouvernement, sans protection
-par copyright. Les images sont servies par le bucket public de Google Patents.
+| Path | Role |
+|---|---|
+| `terms.json` | The 176 device names searched on Google Patents |
+| `scripts/collect.js` | Collects patents and drawing URLs into `corpus.json` (resumable via `state.json`) |
+| `scripts/render.py` | Picks the best sheet, crops the header, quantizes to grayscale |
+| `scripts/build.py` | Builds `docs/img/`, `docs/plate/`, `docs/count.json` and `docs/manifest.json`; commits every 100 images |
+| `scripts/add_count.py` | One-off migration adding the `count` field to older plate files |
+| `full.liquid` | Template reference for the TRMNL **Full** layout |
+| `docs/` | Everything served by GitHub Pages, including the gallery `index.html` |
+
+### Workflows
+
+| Workflow | Trigger | Does |
+|---|---|---|
+| Collect patents | Manual (optional `only` input to target some terms) | `collect.js` |
+| Render images | Twice a day + manual (`cap`, `only` inputs) | `build.py`, up to 500 new images per run |
+| Add count field | Manual | `add_count.py` |
+
+No secret is needed.
+
+## In numbers
+
+- **28,124** design patents collected, **10,857** rendered plates
+- **176** device categories — printers, phones, remote controls, TVs, earphones, cameras, projectors…
+- ~70 KB per plate, ~750 MB of images in total
+
+## Known limitations
+
+- **No model names.** Design patent titles are generic by law: the first iPhone's patent is simply titled *"Electronic device"*. The assignee and the year are always available, the product name is not.
+
+## Credits
+
+- Drawings from U.S. design patents, official U.S. government publications that are not protected by copyright. Patent data and images retrieved through [Google Patents](https://patents.google.com/).
+- Built for [TRMNL](https://trmnl.com).
+
+## Author
+
+Made by **Nicolas Bouteiller** — [@nbbou81000](https://github.com/nbbou81000) · nb.bouteiller@gmail.com
+
+If you enjoy it, you can [buy me a coffee on Ko-fi](https://ko-fi.com/nicolasbouteiller) ☕
+
+## License
+
+Code under the MIT License — see [`LICENSE`](LICENSE).
